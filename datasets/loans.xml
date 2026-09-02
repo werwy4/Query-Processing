@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Loans>
+  <Loan id="LOAN000001">
+    <customer_id>CUST00213</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>4231363.24</loan_amount>
+    <interest_rate>16.53</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2021-02-08</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000002">
+    <customer_id>CUST00052</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>1563884.07</loan_amount>
+    <interest_rate>12.47</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2022-10-14</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000003">
+    <customer_id>CUST00005</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>1360167.94</loan_amount>
+    <interest_rate>15.56</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2022-06-15</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000004">
+    <customer_id>CUST00159</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>601828.98</loan_amount>
+    <interest_rate>13.22</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2025-03-19</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000005">
+    <customer_id>CUST00091</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>3493398.63</loan_amount>
+    <interest_rate>8.25</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2021-08-27</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000006">
+    <customer_id>CUST00114</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>2013945.86</loan_amount>
+    <interest_rate>18.15</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2020-09-05</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000007">
+    <customer_id>CUST00057</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>4139363.47</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-08-16</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000008">
+    <customer_id>CUST00124</customer_id>
+    <loan_category>CAR LOAN</loan_category>
+    <loan_amount>1264491.1</loan_amount>
+    <interest_rate>10.06</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2023-10-22</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000009">
+    <customer_id>CUST00148</customer_id>
+    <loan_category>CAR LOAN</loan_category>
+    <loan_amount>4197757.06</loan_amount>
+    <interest_rate>16.67</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2023-06-06</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000010">
+    <customer_id>CUST00061</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>4448590.5</loan_amount>
+    <interest_rate>9.66</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2021-05-17</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000011">
+    <customer_id>CUST00149</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>1634765.88</loan_amount>
+    <interest_rate>16.43</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2025-05-04</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000012">
+    <customer_id>CUST00059</customer_id>
+    <loan_category>business loan</loan_category>
+    <loan_amount>687385.14</loan_amount>
+    <interest_rate>12.92</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2022-11-30</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000013">
+    <customer_id>CUST00215</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>3614525.92</loan_amount>
+    <interest_rate>9.19</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2021-10-21</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000014">
+    <customer_id>CUST00115</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>313347.2</loan_amount>
+    <interest_rate>18.45</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2024-02-21</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000015">
+    <customer_id>CUST00065</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>2817030.41</loan_amount>
+    <interest_rate>10.75</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-03-06</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000016">
+    <customer_id>CUST00056</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>4739388.08</loan_amount>
+    <interest_rate>15.67</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2023-06-06</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000017">
+    <customer_id>CUST00037</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>3325914.1</loan_amount>
+    <interest_rate>13.34</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2021-02-25</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000018">
+    <customer_id>CUST00031</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>3843186.24</loan_amount>
+    <interest_rate>7.14</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2020-10-03</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000019">
+    <customer_id>CUST00199</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>3884373.56</loan_amount>
+    <interest_rate>15.29</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-09-10</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000020">
+    <customer_id>CUST00147</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>3806163.97</loan_amount>
+    <interest_rate>10.48</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2022-07-14</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000021">
+    <customer_id>CUST00025</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>3519596.6</loan_amount>
+    <interest_rate>8.16</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2023-01-17</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000022">
+    <customer_id>CUST00059</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>1590417.15</loan_amount>
+    <interest_rate>8.71</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2022-03-04</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000023">
+    <customer_id>CUST00016</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>1788443.39</loan_amount>
+    <interest_rate>12.79</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-11-05</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000024">
+    <customer_id>CUST00002</customer_id>
+    <loan_category>car loan</loan_category>
+    <loan_amount>4910950.11</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2020-10-19</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000025">
+    <customer_id>CUST00159</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>1667955.33</loan_amount>
+    <interest_rate>17.97</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2025-03-28</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000026">
+    <customer_id>CUST00046</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>2516096.72</loan_amount>
+    <interest_rate>17.45</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2025-08-18</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000027">
+    <customer_id>CUST00160</customer_id>
+    <loan_category>car loan</loan_category>
+    <loan_amount>4462611.99</loan_amount>
+    <interest_rate>16.27</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-07-28</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000028">
+    <customer_id>CUST00090</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>241932.69</loan_amount>
+    <interest_rate>10.24</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-12-01</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000029">
+    <customer_id>CUST00169</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>3431008.66</loan_amount>
+    <interest_rate>13.74</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2022-11-09</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000030">
+    <customer_id>CUST00037</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>2762503.15</loan_amount>
+    <interest_rate>7.29</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2025-05-09</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000031">
+    <customer_id>CUST00208</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>1235284.21</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-06-03</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000032">
+    <customer_id>CUST00145</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>4225826.77</loan_amount>
+    <interest_rate>7.59</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2024-06-05</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000033">
+    <customer_id>CUST00196</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>2896679.62</loan_amount>
+    <interest_rate>9.89</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2022-07-18</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000034">
+    <customer_id>CUST00083</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>1030305.5</loan_amount>
+    <interest_rate>12.39</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2023-06-05</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000035">
+    <customer_id>CUST00049</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>2828202.31</loan_amount>
+    <interest_rate>14.89</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2022-12-15</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000036">
+    <customer_id>CUST00008</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>4736560.28</loan_amount>
+    <interest_rate>10.26</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-05-27</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000037">
+    <customer_id>CUST00131</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>283677.37</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2025-08-13</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000038">
+    <customer_id>CUST00183</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>2643722.97</loan_amount>
+    <interest_rate>7.68</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2024-01-12</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000039">
+    <customer_id>CUST00177</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>1635537.1</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-12-28</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000040">
+    <customer_id>CUST00215</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>625838.58</loan_amount>
+    <interest_rate>18.35</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2024-06-17</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000041">
+    <customer_id>CUST00168</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>2039695.73</loan_amount>
+    <interest_rate>11.57</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2022-08-21</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000042">
+    <customer_id>CUST00065</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>3696336.16</loan_amount>
+    <interest_rate>11.03</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2024-05-11</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000043">
+    <customer_id>CUST00030</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>3020641.65</loan_amount>
+    <interest_rate>14.77</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2023-10-21</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000044">
+    <customer_id>CUST00184</customer_id>
+    <loan_category>car loan</loan_category>
+    <loan_amount>620628.09</loan_amount>
+    <interest_rate>8.51</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2021-12-05</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000045">
+    <customer_id>CUST00211</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>4656565.63</loan_amount>
+    <interest_rate>9.64</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2024-09-28</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000046">
+    <customer_id>CUST00123</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>4433718.19</loan_amount>
+    <interest_rate>12.72</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2021-06-19</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000047">
+    <customer_id>CUST00112</customer_id>
+    <loan_category>car loan</loan_category>
+    <loan_amount>591252.28</loan_amount>
+    <interest_rate>14.82</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2024-11-19</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000048">
+    <customer_id>CUST00186</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>3095838.09</loan_amount>
+    <interest_rate>12.54</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2022-03-18</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000049">
+    <customer_id>CUST00119</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>1623710.49</loan_amount>
+    <interest_rate>9.51</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2024-07-29</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000050">
+    <customer_id>CUST00161</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>1043214.03</loan_amount>
+    <interest_rate>12.57</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2022-03-29</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000051">
+    <customer_id>CUST00143</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>1011978.5</loan_amount>
+    <interest_rate>9.45</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2022-03-02</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000052">
+    <customer_id>CUST00159</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>847435.09</loan_amount>
+    <interest_rate>11.42</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2022-04-10</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000053">
+    <customer_id>CUST00098</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>3616388.19</loan_amount>
+    <interest_rate>7.75</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2025-07-06</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000054">
+    <customer_id>CUST00140</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>66933.72</loan_amount>
+    <interest_rate>15.65</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2024-11-02</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000055">
+    <customer_id>CUST00061</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>415923.86</loan_amount>
+    <interest_rate>13.89</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2022-03-15</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000056">
+    <customer_id>CUST00093</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>3430261.8</loan_amount>
+    <interest_rate>17.28</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2023-01-25</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000057">
+    <customer_id>CUST00006</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>1158007.19</loan_amount>
+    <interest_rate>17.08</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2020-11-05</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000058">
+    <customer_id>CUST00033</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>2187096.11</loan_amount>
+    <interest_rate>13.0</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-04-22</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000059">
+    <customer_id>CUST00100</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>4208669.97</loan_amount>
+    <interest_rate>12.03</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2022-01-20</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000060">
+    <customer_id>CUST00049</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>2344409.91</loan_amount>
+    <interest_rate>8.97</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2022-03-07</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000061">
+    <customer_id>CUST00165</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>2863513.64</loan_amount>
+    <interest_rate>13.08</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2024-01-08</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000062">
+    <customer_id>CUST00052</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>1569149.97</loan_amount>
+    <interest_rate>10.1</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2022-04-07</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000063">
+    <customer_id>CUST00178</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>1125031.79</loan_amount>
+    <interest_rate>11.68</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-04-04</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000064">
+    <customer_id>CUST00106</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>1071943.74</loan_amount>
+    <interest_rate>13.4</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2021-11-20</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000065">
+    <customer_id>CUST00161</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>1616628.92</loan_amount>
+    <interest_rate>17.7</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2021-04-12</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000066">
+    <customer_id>CUST00219</customer_id>
+    <loan_category>HOME LOAN</loan_category>
+    <loan_amount>4385787.02</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2024-04-17</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000067">
+    <customer_id>CUST00160</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>495237.51</loan_amount>
+    <interest_rate>10.19</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2022-10-02</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000068">
+    <customer_id>CUST00206</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>4550765.75</loan_amount>
+    <interest_rate>8.6</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2024-07-15</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000069">
+    <customer_id>CUST00144</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>2831343.4</loan_amount>
+    <interest_rate>17.42</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2024-02-03</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000070">
+    <customer_id>CUST00025</customer_id>
+    <loan_category>CarLoan</loan_category>
+    <loan_amount>2783989.98</loan_amount>
+    <interest_rate>14.47</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-07-09</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000071">
+    <customer_id>CUST00150</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>3790583.89</loan_amount>
+    <interest_rate>15.71</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2025-02-23</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000072">
+    <customer_id>CUST00095</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>-2880955.73</loan_amount>
+    <interest_rate>13.3</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2021-11-01</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000073">
+    <customer_id>CUST00083</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>391005.46</loan_amount>
+    <interest_rate>7.83</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2020-10-07</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000074">
+    <customer_id>CUST00152</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>1497129.84</loan_amount>
+    <interest_rate>16.09</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2021-07-07</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000075">
+    <customer_id>CUST00082</customer_id>
+    <loan_category>CAR LOAN</loan_category>
+    <loan_amount>2117806.37</loan_amount>
+    <interest_rate>18.28</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2023-11-19</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000076">
+    <customer_id>CUST00070</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>4533792.43</loan_amount>
+    <interest_rate>18.45</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2023-12-08</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000077">
+    <customer_id>CUST00147</customer_id>
+    <loan_category>HOME LOAN</loan_category>
+    <loan_amount>3762488.23</loan_amount>
+    <interest_rate>6.88</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2020-11-04</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000078">
+    <customer_id>CUST00097</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>145100.19</loan_amount>
+    <interest_rate>14.84</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2021-08-08</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000079">
+    <customer_id>CUST00067</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>1711392.82</loan_amount>
+    <interest_rate>10.61</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2020-10-13</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000080">
+    <customer_id>CUST00030</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>2784294.11</loan_amount>
+    <interest_rate>7.52</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2021-01-14</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000081">
+    <customer_id>CUST00206</customer_id>
+    <loan_category>CarLoan</loan_category>
+    <loan_amount>163886.92</loan_amount>
+    <interest_rate>10.98</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-10-16</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000082">
+    <customer_id>CUST00150</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>1222879.38</loan_amount>
+    <interest_rate>10.59</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2022-10-12</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000083">
+    <customer_id>CUST00181</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>3149325.57</loan_amount>
+    <interest_rate>7.77</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2021-05-18</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000084">
+    <customer_id>CUST00203</customer_id>
+    <loan_category>car loan</loan_category>
+    <loan_amount>736638.96</loan_amount>
+    <interest_rate>17.92</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-12-11</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000085">
+    <customer_id>CUST00182</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>3443724.94</loan_amount>
+    <interest_rate>12.85</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-11-18</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000086">
+    <customer_id>CUST00048</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>4940251.42</loan_amount>
+    <interest_rate>13.6</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2020-10-12</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000087">
+    <customer_id>CUST00032</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>2562542.75</loan_amount>
+    <interest_rate>13.0</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2020-09-30</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000088">
+    <customer_id>CUST00215</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>3529197.07</loan_amount>
+    <interest_rate>9.23</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-07-28</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000089">
+    <customer_id>CUST00062</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>2981925.61</loan_amount>
+    <interest_rate>9.51</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2025-04-13</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000090">
+    <customer_id>CUST00127</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>2676226.68</loan_amount>
+    <interest_rate>8.44</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2023-07-19</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000091">
+    <customer_id>CUST00191</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>1753905.1</loan_amount>
+    <interest_rate>15.67</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-05-22</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000092">
+    <customer_id>CUST00068</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>3388780.55</loan_amount>
+    <interest_rate>13.77</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2022-05-22</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000093">
+    <customer_id>CUST00140</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>3649387.19</loan_amount>
+    <interest_rate>10.1</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-11-07</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000094">
+    <customer_id>CUST00204</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>4995532.27</loan_amount>
+    <interest_rate>11.42</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2024-10-02</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000095">
+    <customer_id>CUST00007</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>4240083.95</loan_amount>
+    <interest_rate>8.2</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2025-06-15</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000096">
+    <customer_id>CUST00152</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>4373140.71</loan_amount>
+    <interest_rate>6.67</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2024-06-12</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000097">
+    <customer_id>CUST00101</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>-4732912.52</loan_amount>
+    <interest_rate>10.55</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-01-20</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000098">
+    <customer_id>CUST00112</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>833665.88</loan_amount>
+    <interest_rate>12.34</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2023-04-14</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000099">
+    <customer_id>CUST00123</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>4739287.91</loan_amount>
+    <interest_rate>7.77</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2023-06-28</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000100">
+    <customer_id>CUST00162</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>3058697.38</loan_amount>
+    <interest_rate>11.5</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2024-09-27</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000101">
+    <customer_id>CUST00088</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>835081.86</loan_amount>
+    <interest_rate>13.69</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2021-12-25</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000102">
+    <customer_id>CUST00095</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>3637545.91</loan_amount>
+    <interest_rate>12.18</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-09-28</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000103">
+    <customer_id>CUST00143</customer_id>
+    <loan_category>CarLoan</loan_category>
+    <loan_amount>2114152.86</loan_amount>
+    <interest_rate>17.33</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-02-21</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000104">
+    <customer_id>CUST00152</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>1736748.82</loan_amount>
+    <interest_rate>15.88</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2025-04-16</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000105">
+    <customer_id>CUST00193</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>3066466.23</loan_amount>
+    <interest_rate>10.26</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2022-12-10</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000106">
+    <customer_id>CUST00116</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>784359.52</loan_amount>
+    <interest_rate>17.19</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2025-04-16</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000107">
+    <customer_id>CUST00058</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>1978403.57</loan_amount>
+    <interest_rate>15.83</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-09-18</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000108">
+    <customer_id>CUST00081</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>3183695.61</loan_amount>
+    <interest_rate>15.9</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2020-11-05</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000109">
+    <customer_id>CUST00188</customer_id>
+    <loan_category>CAR LOAN</loan_category>
+    <loan_amount>3043616.57</loan_amount>
+    <interest_rate>13.67</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2021-01-17</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000110">
+    <customer_id>CUST00210</customer_id>
+    <loan_category>business loan</loan_category>
+    <loan_amount>349786.61</loan_amount>
+    <interest_rate>15.99</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-07-17</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000111">
+    <customer_id>CUST00095</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>4270869.99</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2025-04-20</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000112">
+    <customer_id>CUST00071</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>2351450.43</loan_amount>
+    <interest_rate>13.63</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2023-03-11</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000113">
+    <customer_id>CUST00014</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>2306919.02</loan_amount>
+    <interest_rate>8.04</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2021-07-16</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000114">
+    <customer_id>CUST00112</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>4345301.61</loan_amount>
+    <interest_rate>11.0</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2025-01-07</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000115">
+    <customer_id>CUST00015</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>3249325.17</loan_amount>
+    <interest_rate>10.39</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2024-03-14</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000116">
+    <customer_id>CUST00061</customer_id>
+    <loan_category>HOME LOAN</loan_category>
+    <loan_amount>3627744.52</loan_amount>
+    <interest_rate>7.73</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-11-15</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000117">
+    <customer_id>CUST00140</customer_id>
+    <loan_category>HOME LOAN</loan_category>
+    <loan_amount>504704.06</loan_amount>
+    <interest_rate>15.51</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2020-09-04</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000118">
+    <customer_id>CUST00041</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>357644.74</loan_amount>
+    <interest_rate>7.57</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2022-07-29</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000119">
+    <customer_id>CUST00014</customer_id>
+    <loan_category>CarLoan</loan_category>
+    <loan_amount>620483.28</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2020-11-14</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000120">
+    <customer_id>CUST00129</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>3232367.67</loan_amount>
+    <interest_rate>9.29</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2022-08-06</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000121">
+    <customer_id>CUST00007</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>1631322.13</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2024-04-20</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000122">
+    <customer_id>CUST00126</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>3364728.27</loan_amount>
+    <interest_rate>6.93</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-12-12</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000123">
+    <customer_id>CUST00039</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>85404.25</loan_amount>
+    <interest_rate>16.45</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-12-02</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000124">
+    <customer_id>CUST00214</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>2704338.42</loan_amount>
+    <interest_rate>10.99</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2023-09-03</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000125">
+    <customer_id>CUST00008</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>1047850.29</loan_amount>
+    <interest_rate>11.21</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-02-09</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000126">
+    <customer_id>CUST00191</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>2255440.04</loan_amount>
+    <interest_rate>7.85</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2022-08-03</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000127">
+    <customer_id>CUST00119</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>4668763.53</loan_amount>
+    <interest_rate>14.59</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-12-10</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000128">
+    <customer_id>CUST00213</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>319119.39</loan_amount>
+    <interest_rate>6.79</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2021-08-16</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000129">
+    <customer_id>CUST00193</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>945549.78</loan_amount>
+    <interest_rate>11.99</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2024-11-07</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000130">
+    <customer_id>CUST00158</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>868023.58</loan_amount>
+    <interest_rate>14.5</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2022-02-09</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000131">
+    <customer_id>CUST00098</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>11247997.47</loan_amount>
+    <interest_rate>17.66</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2021-08-09</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000132">
+    <customer_id>CUST00096</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>3657303.73</loan_amount>
+    <interest_rate>8.79</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2022-07-30</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000133">
+    <customer_id>CUST00205</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>426692.54</loan_amount>
+    <interest_rate>10.12</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2021-07-14</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000134">
+    <customer_id>CUST00029</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>4577102.02</loan_amount>
+    <interest_rate>17.68</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2023-01-24</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000135">
+    <customer_id>CUST00188</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>476171.59</loan_amount>
+    <interest_rate>6.77</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2023-09-16</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000136">
+    <customer_id>CUST00213</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>3474417.52</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-04-26</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000137">
+    <customer_id>CUST00073</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>-2355222.84</loan_amount>
+    <interest_rate>18.01</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-07-04</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000138">
+    <customer_id>CUST00167</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>3608410.64</loan_amount>
+    <interest_rate>8.76</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-09-03</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000139">
+    <customer_id>CUST00218</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>268409.37</loan_amount>
+    <interest_rate>12.36</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-09-26</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000140">
+    <customer_id>CUST00169</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>3725503.53</loan_amount>
+    <interest_rate>12.17</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-05-22</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000141">
+    <customer_id>CUST00103</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>4514013.42</loan_amount>
+    <interest_rate>10.66</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-01-13</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000142">
+    <customer_id>CUST00139</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>1891944.08</loan_amount>
+    <interest_rate>15.52</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-12-14</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000143">
+    <customer_id>CUST00120</customer_id>
+    <loan_category>Personal Loan</loan_category>
+    <loan_amount>2068737.6</loan_amount>
+    <interest_rate>10.49</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2022-03-08</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000144">
+    <customer_id>CUST00088</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>2281305.29</loan_amount>
+    <interest_rate>17.52</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2024-04-24</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000145">
+    <customer_id>CUST00211</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>2724044.66</loan_amount>
+    <interest_rate>16.01</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2025-03-07</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000146">
+    <customer_id>CUST00171</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>2123931.53</loan_amount>
+    <interest_rate>13.41</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-07-08</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000147">
+    <customer_id>CUST00102</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>4714334.81</loan_amount>
+    <interest_rate>10.41</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2022-03-18</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000148">
+    <customer_id>CUST00164</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>2639449.08</loan_amount>
+    <interest_rate>14.75</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2024-04-14</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000149">
+    <customer_id>CUST00127</customer_id>
+    <loan_category>CAR LOAN</loan_category>
+    <loan_amount>3237316.23</loan_amount>
+    <interest_rate>17.22</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2021-12-11</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000150">
+    <customer_id>CUST00164</customer_id>
+    <loan_category>CarLoan</loan_category>
+    <loan_amount>764559.97</loan_amount>
+    <interest_rate>10.13</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-03-26</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000151">
+    <customer_id>CUST00065</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>528106.77</loan_amount>
+    <interest_rate>8.99</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2023-02-09</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000152">
+    <customer_id>CUST00100</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>2290366.84</loan_amount>
+    <interest_rate></interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-08-19</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000153">
+    <customer_id>CUST00128</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>1905833.89</loan_amount>
+    <interest_rate>13.62</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-07-20</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000154">
+    <customer_id>CUST00151</customer_id>
+    <loan_category>Education Loan</loan_category>
+    <loan_amount>38025260.11</loan_amount>
+    <interest_rate>15.74</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2022-12-22</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000155">
+    <customer_id>CUST00122</customer_id>
+    <loan_category>Business Loan</loan_category>
+    <loan_amount>3120147.04</loan_amount>
+    <interest_rate>11.06</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2024-11-30</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000156">
+    <customer_id>CUST00121</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>1298174.09</loan_amount>
+    <interest_rate>15.49</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2023-10-22</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000157">
+    <customer_id>CUST00033</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>219993.64</loan_amount>
+    <interest_rate>11.43</interest_rate>
+    <tenure_months>12</tenure_months>
+    <start_date>2022-12-04</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000158">
+    <customer_id>CUST00179</customer_id>
+    <loan_category>business loan</loan_category>
+    <loan_amount>2987473.87</loan_amount>
+    <interest_rate>12.52</interest_rate>
+    <tenure_months>180</tenure_months>
+    <start_date>2021-04-26</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000159">
+    <customer_id>CUST00045</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>2846997.29</loan_amount>
+    <interest_rate>7.91</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2020-09-07</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000160">
+    <customer_id>CUST00051</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>4516195.64</loan_amount>
+    <interest_rate>11.62</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-12-06</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000161">
+    <customer_id>CUST00088</customer_id>
+    <loan_category>car loan</loan_category>
+    <loan_amount>2436623.65</loan_amount>
+    <interest_rate>7.03</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2021-11-30</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000162">
+    <customer_id>CUST00043</customer_id>
+    <loan_category>EDU LOAN</loan_category>
+    <loan_amount>4334549.66</loan_amount>
+    <interest_rate>17.88</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2023-05-24</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000163">
+    <customer_id>CUST00182</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>739066.27</loan_amount>
+    <interest_rate>10.9</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-12-04</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000164">
+    <customer_id>CUST00180</customer_id>
+    <loan_category>HomeLoan</loan_category>
+    <loan_amount>2649617.34</loan_amount>
+    <interest_rate>6.9</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2023-12-28</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000165">
+    <customer_id>CUST00031</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>2140163.41</loan_amount>
+    <interest_rate>12.59</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2024-06-19</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000166">
+    <customer_id>CUST00068</customer_id>
+    <loan_category>CAR LOAN</loan_category>
+    <loan_amount>169340.91</loan_amount>
+    <interest_rate>18.46</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2024-09-26</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000167">
+    <customer_id>CUST00077</customer_id>
+    <loan_category>education loan</loan_category>
+    <loan_amount>2415504.72</loan_amount>
+    <interest_rate>6.98</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2021-03-29</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000168">
+    <customer_id>CUST00069</customer_id>
+    <loan_category>home loan</loan_category>
+    <loan_amount>-709413.37</loan_amount>
+    <interest_rate>6.65</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2021-08-18</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000169">
+    <customer_id>CUST00122</customer_id>
+    <loan_category>CarLoan</loan_category>
+    <loan_amount>45215385.8</loan_amount>
+    <interest_rate>16.11</interest_rate>
+    <tenure_months>48</tenure_months>
+    <start_date>2025-08-01</start_date>
+    <status>ACTIVE</status>
+  </Loan>
+  <Loan id="LOAN000170">
+    <customer_id>CUST00171</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>2417463.41</loan_amount>
+    <interest_rate>13.0</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2024-04-21</start_date>
+    <status>Closed</status>
+  </Loan>
+  <Loan id="LOAN000171">
+    <customer_id>CUST00043</customer_id>
+    <loan_category>HOME LOAN</loan_category>
+    <loan_amount>678430.13</loan_amount>
+    <interest_rate>18.38</interest_rate>
+    <tenure_months>24</tenure_months>
+    <start_date>2023-01-14</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000172">
+    <customer_id>CUST00193</customer_id>
+    <loan_category>PersonalLoan</loan_category>
+    <loan_amount>1272985.72</loan_amount>
+    <interest_rate>16.44</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-11-24</start_date>
+    <status>Active</status>
+  </Loan>
+  <Loan id="LOAN000173">
+    <customer_id>CUST00116</customer_id>
+    <loan_category>Home Loan</loan_category>
+    <loan_amount>2187761.62</loan_amount>
+    <interest_rate>15.22</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2021-06-09</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000174">
+    <customer_id>CUST00166</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>3051860.74</loan_amount>
+    <interest_rate>17.89</interest_rate>
+    <tenure_months>240</tenure_months>
+    <start_date>2023-06-01</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000175">
+    <customer_id>CUST00008</customer_id>
+    <loan_category>business loan</loan_category>
+    <loan_amount>4365762.41</loan_amount>
+    <interest_rate>15.78</interest_rate>
+    <tenure_months>120</tenure_months>
+    <start_date>2021-10-02</start_date>
+    <status>closed</status>
+  </Loan>
+  <Loan id="LOAN000176">
+    <customer_id>CUST00072</customer_id>
+    <loan_category>Car Loan</loan_category>
+    <loan_amount>2115716.36</loan_amount>
+    <interest_rate>6.98</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2022-03-20</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000177">
+    <customer_id>CUST00131</customer_id>
+    <loan_category>personal loan</loan_category>
+    <loan_amount>2349310.11</loan_amount>
+    <interest_rate>13.76</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-12-11</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000178">
+    <customer_id>CUST00087</customer_id>
+    <loan_category>BIZ LOAN</loan_category>
+    <loan_amount>2464548.18</loan_amount>
+    <interest_rate>13.76</interest_rate>
+    <tenure_months>36</tenure_months>
+    <start_date>2023-09-01</start_date>
+    <status>active</status>
+  </Loan>
+  <Loan id="LOAN000179">
+    <customer_id>CUST00074</customer_id>
+    <loan_category>business loan</loan_category>
+    <loan_amount>500389.09</loan_amount>
+    <interest_rate>7.26</interest_rate>
+    <tenure_months>60</tenure_months>
+    <start_date>2023-05-21</start_date>
+    <status>Defaulted</status>
+  </Loan>
+  <Loan id="LOAN000180">
+    <customer_id>CUST00050</customer_id>
+    <loan_category>PERSONAL</loan_category>
+    <loan_amount>2992447.4</loan_amount>
+    <interest_rate>13.29</interest_rate>
+    <tenure_months>84</tenure_months>
+    <start_date>2024-11-14</start_date>
+    <status>Defaulted</status>
+  </Loan>
+</Loans>

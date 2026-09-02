@@ -1,0 +1,568 @@
+transaction_id,account_id,transaction_type,amount,transaction_date,description,channel,amount_outlier
+TXN0000150,ACC000076,Transfer,36105.4,2023-10-14,Nemo a excepturi.,Atm,False
+TXN0000532,ACC000112,Withdrawal,9364.38,2023-06-23,Mollitia laudantium soluta.,Branch,False
+TXN0000359,ACC000030,Withdrawal,4266.18,2024-11-29,Excepturi deleniti.,Atm,False
+TXN0000573,ACC000228,Withdrawal,14719.8,2024-04-17,Incidunt amet beatae facilis velit.,Atm,False
+TXN0000579,ACC000019,Deposit,22289.14,2024-08-04,Minus fuga officiis distinctio fugit.,Branch,False
+TXN0000564,ACC000272,Withdrawal,31606.06,2023-08-01,Nulla quas deleniti.,Mobile,False
+TXN0000045,ACC000226,Deposit,39743.42,2023-11-21,Sit rerum quibusdam unde.,Online,False
+TXN0000566,ACC000112,Withdrawal,18826.69,2023-05-07,Pariatur inventore labore.,Online,False
+TXN0000337,ACC000076,Withdrawal,39954.31,2023-06-02,Modi pariatur architecto quas temporibus.,Mobile,False
+TXN0000158,ACC000217,Transfer,27992.53,2024-08-21,Sit nesciunt odio voluptatum.,Mobile,False
+TXN0000167,ACC000274,Withdrawal,13820.63,2024-08-16,Suscipit dolor reprehenderit.,Atm,False
+TXN0000424,ACC000155,Deposit,31888.53,2023-04-11,Pariatur ratione.,Atm,False
+TXN0000398,ACC000166,Transfer,46891.42,2023-01-11,Fugit est voluptates architecto.,Branch,False
+TXN0000411,ACC000245,Deposit,14470.83,2023-04-07,Est illum soluta quas at.,Online,False
+TXN0000274,ACC000068,Withdrawal,14189.97,2024-07-15,Mollitia consequuntur.,Online,False
+TXN0000518,ACC000111,Deposit,27096.75,2023-06-06,Nihil rem atque.,Atm,False
+TXN0000272,ACC000027,Deposit,7719.84,2023-08-19,Rem fugiat id repudiandae.,Online,False
+TXN0000127,ACC000154,Withdrawal,21924.04,2023-06-02,,Atm,False
+TXN0000040,ACC000076,Transfer,14489.8,2023-10-10,Quae repellat a magnam fugit.,Atm,False
+TXN0000580,ACC000157,Transfer,28220.62,2023-06-12,Consectetur quia.,Online,False
+TXN0000420,ACC000076,Transfer,48410.84,2023-01-09,Totam autem odio aspernatur assumenda.,Atm,False
+TXN0000353,ACC000073,Deposit,34150.46,2023-08-26,Debitis quaerat tempora minus.,Atm,False
+TXN0000511,ACC000218,Withdrawal,24201.52,2023-03-25,Vitae dolorum.,Online,False
+TXN0000180,ACC000114,Deposit,49191.4,2023-07-17,Vitae eius dignissimos.,Online,False
+TXN0000203,ACC000220,Withdrawal,39765.42,2024-01-19,Dolorum perspiciatis voluptatum sapiente distinctio.,Atm,False
+TXN0000126,ACC000080,Transfer,25715.74,2024-10-25,,Mobile,False
+TXN0000559,ACC000243,Withdrawal,25750.57,2023-02-20,Vero recusandae.,Online,False
+TXN0000427,ACC000014,Transfer,21440.69,2023-01-29,Ut labore excepturi.,Online,False
+TXN0000021,ACC000155,Withdrawal,34614.51,2024-09-18,Velit sunt dolore veniam.,Atm,False
+TXN0000449,ACC000174,Transfer,29180.35,2024-10-30,Vitae ipsa doloremque ea enim.,Online,False
+TXN0000147,ACC000220,Transfer,7665.4,2023-08-22,Ea rerum esse in magnam.,Atm,False
+TXN0000385,ACC000280,Deposit,42754.97,2023-12-22,Commodi cupiditate molestias.,Online,False
+TXN0000028,ACC000113,Deposit,6911.42,2023-06-25,Enim laudantium consectetur.,Atm,False
+TXN0000351,ACC000201,Withdrawal,49029.03,2024-05-27,,Mobile,False
+TXN0000349,ACC000145,Deposit,13568.99,2023-12-10,Non debitis.,Branch,False
+TXN0000417,ACC000046,Withdrawal,108765.785,2024-03-17,Dicta delectus veniam.,Branch,True
+TXN0000030,ACC000223,Withdrawal,14030.63,2023-09-10,In illum corporis.,Atm,False
+TXN0000379,ACC000048,Deposit,45841.6,2023-11-27,Quibusdam dolorem quasi.,Atm,False
+TXN0000240,ACC000277,Deposit,37552.49,2023-12-17,Atque laboriosam repellat nihil numquam.,Online,False
+TXN0000201,ACC000011,Deposit,12373.62,2023-09-26,Aliquam repellat vero nulla.,Online,False
+TXN0000276,ACC000076,Transfer,555.71,2024-11-25,Dicta eligendi.,Atm,False
+TXN0000462,ACC000173,Deposit,26671.35,2023-12-23,Laboriosam repudiandae libero provident fugiat.,Branch,False
+TXN0000459,ACC000108,Withdrawal,24361.76,2024-06-17,Saepe libero iste.,Online,False
+TXN0000133,ACC000276,Withdrawal,10540.55,2024-03-22,Ratione consequuntur inventore ullam.,Mobile,False
+TXN0000111,ACC000132,Withdrawal,19937.98,2024-03-09,Porro assumenda laboriosam.,Online,False
+TXN0000362,ACC000080,Transfer,10710.5,2024-04-10,Eum occaecati numquam vel.,Atm,False
+TXN0000285,ACC000228,Deposit,2403.7,2023-10-28,Inventore odio ullam quis nesciunt.,Branch,False
+TXN0000282,ACC000266,Withdrawal,108765.785,2024-06-26,Soluta aperiam corporis unde.,Atm,True
+TXN0000520,ACC000166,Withdrawal,46484.4,2024-05-01,Cupiditate veniam.,Mobile,False
+TXN0000114,ACC000023,Deposit,4573.43,2023-09-24,Facere ea.,Branch,False
+TXN0000239,ACC000163,Deposit,29943.95,2023-12-03,Deserunt eveniet aperiam.,Branch,False
+TXN0000273,ACC000243,Withdrawal,45627.58,2024-02-06,Facilis asperiores.,Branch,False
+TXN0000161,ACC000074,Deposit,18636.22,2024-05-12,Quae consectetur provident sint.,Branch,False
+TXN0000431,ACC000103,Withdrawal,32019.44,2023-01-07,A sit.,Atm,False
+TXN0000588,ACC000032,Withdrawal,37181.21,2023-05-16,Voluptate tempora ipsum quaerat tenetur.,Mobile,False
+TXN0000378,ACC000065,Withdrawal,45218.15,2023-04-12,Maxime voluptate.,Online,False
+TXN0000292,ACC000179,Deposit,36443.54,2024-05-16,Officiis dignissimos tempora iste doloremque.,Online,False
+TXN0000350,ACC000023,Transfer,9468.42,2023-09-04,Modi hic aspernatur.,Atm,False
+TXN0000221,ACC000127,Withdrawal,10164.97,2024-02-13,Deleniti repellendus numquam repellat.,Atm,False
+TXN0000358,ACC000067,Transfer,48586.86,2023-10-21,Accusamus adipisci.,Branch,False
+TXN0000589,ACC000245,Withdrawal,5003.68,2024-10-11,,Atm,False
+TXN0000414,ACC000076,Withdrawal,28406.61,2024-06-21,Praesentium ab cumque laudantium.,Mobile,False
+TXN0000085,ACC000174,Deposit,5092.83,2024-05-29,Debitis delectus hic assumenda.,Mobile,False
+TXN0000119,ACC000256,Withdrawal,26348.17,2023-06-01,Sequi soluta nobis.,Online,False
+TXN0000470,ACC000180,Withdrawal,33951.55,2023-02-15,Hic consectetur quibusdam neque rem.,Online,False
+TXN0000555,ACC000128,Deposit,108765.785,2024-06-28,Vero voluptatem blanditiis laudantium.,Online,True
+TXN0000494,ACC000119,Deposit,31921.96,2023-07-04,Debitis nobis debitis.,Atm,False
+TXN0000513,ACC000151,Deposit,43723.33,2023-05-01,Eveniet at.,Online,False
+TXN0000524,ACC000006,Withdrawal,28033.72,2024-01-27,,Branch,False
+TXN0000581,ACC000015,Withdrawal,6514.8,2023-09-21,,Branch,False
+TXN0000002,ACC000229,Withdrawal,33672.81,2023-04-11,Ducimus harum odit.,Atm,False
+TXN0000011,ACC000197,Withdrawal,38046.61,2024-07-21,Repudiandae praesentium.,Online,False
+TXN0000046,ACC000274,Deposit,15915.49,2023-06-01,Temporibus ea repudiandae.,Online,False
+TXN0000092,ACC000159,Transfer,11882.88,2023-01-29,Esse repellat nulla porro.,Atm,False
+TXN0000088,ACC000277,Withdrawal,39803.02,2023-11-04,Distinctio aspernatur voluptatem.,Mobile,False
+TXN0000482,ACC000094,Withdrawal,31578.52,2023-06-01,Quod voluptatibus perferendis at.,Online,False
+TXN0000425,ACC000155,Deposit,7044.9,2024-03-02,Atque minima.,Atm,False
+TXN0000172,ACC000065,Deposit,13531.07,2023-09-10,Reiciendis optio.,Atm,False
+TXN0000140,ACC000253,Deposit,8747.23,2024-03-01,Tenetur ab eius minus.,Branch,False
+TXN0000148,ACC000265,Withdrawal,39750.91,2023-05-30,Sapiente ea.,Online,False
+TXN0000099,ACC000186,Withdrawal,45881.12,2024-01-29,Accusantium cumque corrupti praesentium.,Atm,False
+TXN0000082,ACC000183,Transfer,38283.18,2024-03-14,Totam maiores.,Online,False
+TXN0000291,ACC000114,Transfer,7401.85,2023-04-11,Quaerat libero eaque id.,Atm,False
+TXN0000368,ACC000065,Transfer,20378.69,2024-04-06,,Online,False
+TXN0000341,ACC000179,Withdrawal,18183.68,2023-04-23,Odit perferendis.,Branch,False
+TXN0000300,ACC000027,Transfer,45199.55,2023-05-17,Facere assumenda.,Branch,False
+TXN0000086,ACC000136,Deposit,31808.67,2024-07-02,Et quam quidem.,Atm,False
+TXN0000138,ACC000174,Transfer,23515.1,2024-08-24,Temporibus animi occaecati.,Mobile,False
+TXN0000235,ACC000049,Withdrawal,25028.84,2024-08-05,Ullam minus et.,Online,False
+TXN0000516,ACC000049,Deposit,15660.84,2024-07-04,,Online,False
+TXN0000387,ACC000048,Withdrawal,36414.42,2024-05-08,Cum deserunt incidunt.,Mobile,False
+TXN0000012,ACC000099,Deposit,18027.13,2023-07-14,Architecto in quas molestias.,Atm,False
+TXN0000257,ACC000022,Withdrawal,108765.785,2024-11-12,In quam ipsam doloribus.,Atm,True
+TXN0000375,ACC000260,Deposit,35221.36,2024-01-19,Aspernatur consequuntur libero dicta fugiat.,Mobile,False
+TXN0000340,ACC000113,Withdrawal,26857.01,2023-06-01,Iste ducimus magni iure.,Atm,False
+TXN0000038,ACC000249,Withdrawal,25227.94,2024-01-17,Iusto explicabo non.,Branch,False
+TXN0000454,ACC000189,Withdrawal,27522.29,2024-09-22,,Online,False
+TXN0000338,ACC000166,Deposit,40751.02,2023-10-13,Illum quis commodi fuga.,Mobile,False
+TXN0000271,ACC000245,Withdrawal,1813.76,2024-12-06,Numquam dolores quasi veritatis.,Branch,False
+TXN0000243,ACC000230,Withdrawal,36111.52,2023-09-12,,Branch,False
+TXN0000061,ACC000084,Withdrawal,25956.72,2023-12-15,Omnis veritatis.,Atm,False
+TXN0000346,ACC000133,Deposit,108765.785,2024-04-10,Eveniet quibusdam laborum.,Atm,True
+TXN0000533,ACC000068,Deposit,41881.69,2023-07-15,Perspiciatis ut consequatur libero.,Online,False
+TXN0000534,ACC000091,Deposit,28295.49,2023-10-07,,Branch,False
+TXN0000405,ACC000217,Deposit,43406.15,2023-07-12,Non velit corporis.,Atm,False
+TXN0000352,ACC000196,Transfer,44835.91,2023-06-03,Perspiciatis corrupti.,Online,False
+TXN0000308,ACC000011,Deposit,46185.71,2023-04-23,Voluptatibus veritatis sint dolorem quam.,Online,False
+TXN0000394,ACC000141,Transfer,15957.39,2024-05-20,Fugit esse eligendi.,Atm,False
+TXN0000558,ACC000222,Withdrawal,9278.12,2023-03-23,Magnam unde sapiente harum.,Atm,False
+TXN0000281,ACC000167,Withdrawal,24261.15,2024-08-08,Velit voluptate voluptatum.,Mobile,False
+TXN0000125,ACC000217,Withdrawal,22327.58,2024-09-06,Quas provident quis.,Atm,False
+TXN0000426,ACC000227,Withdrawal,9250.27,2023-04-09,Fugiat maxime.,Branch,False
+TXN0000363,ACC000110,Deposit,38732.86,2023-06-01,Vel blanditiis distinctio explicabo.,Mobile,False
+TXN0000313,ACC000057,Deposit,16875.27,2024-10-21,Esse qui libero.,Online,False
+TXN0000280,ACC000246,Deposit,33472.73,2024-08-09,Esse dolores repellat.,Mobile,False
+TXN0000540,ACC000248,Transfer,36574.65,2024-01-18,Voluptas excepturi perspiciatis rerum.,Atm,False
+TXN0000010,ACC000047,Withdrawal,26811.67,2023-11-07,,Mobile,False
+TXN0000117,ACC000183,Transfer,13085.18,2024-05-21,Blanditiis dolore ducimus.,Online,False
+TXN0000146,ACC000137,Withdrawal,12341.27,2024-06-01,Quidem cum adipisci recusandae.,Online,False
+TXN0000592,ACC000258,Deposit,15051.9,2023-10-09,Aliquid necessitatibus recusandae.,Online,False
+TXN0000307,ACC000066,Withdrawal,49148.14,2024-05-22,Veniam reprehenderit quidem accusamus.,Online,False
+TXN0000060,ACC000186,Withdrawal,41358.42,2024-12-02,Iste veritatis nisi ab.,Online,False
+TXN0000121,ACC000232,Withdrawal,31455.0,2023-12-04,Reiciendis vitae quidem voluptate.,Atm,False
+TXN0000523,ACC000188,Transfer,34299.84,2023-12-23,Quae omnis consequuntur necessitatibus eaque.,Atm,False
+TXN0000585,ACC000104,Withdrawal,42014.86,2024-06-20,,Branch,False
+TXN0000171,ACC000238,Transfer,25480.2,2023-06-01,Quis pariatur corrupti quas.,Atm,False
+TXN0000436,ACC000182,Deposit,108765.785,2024-03-31,Perspiciatis doloremque laborum qui.,Online,True
+TXN0000249,ACC000186,Deposit,46333.29,2023-02-05,Et sed aperiam consectetur.,Mobile,False
+TXN0000003,ACC000063,Withdrawal,31007.92,2023-08-11,Temporibus placeat modi dolores.,Online,False
+TXN0000489,ACC000060,Withdrawal,22275.81,2023-05-21,Voluptatum praesentium error commodi.,Atm,False
+TXN0000149,ACC000030,Deposit,21760.21,2024-10-18,Explicabo aliquid officiis commodi.,Branch,False
+TXN0000197,ACC000215,Withdrawal,34651.45,2023-12-10,Mollitia nesciunt aut.,Atm,False
+TXN0000053,ACC000269,Withdrawal,7064.43,2023-08-01,Sit debitis cumque.,Atm,False
+TXN0000298,ACC000008,Withdrawal,25799.07,2024-12-15,Inventore facilis libero earum.,Online,False
+TXN0000401,ACC000268,Withdrawal,44401.14,2024-04-02,Cum quis vero quo quibusdam.,Branch,False
+TXN0000164,ACC000203,Withdrawal,16328.29,2024-02-24,Sequi beatae fuga enim minima.,Online,False
+TXN0000501,ACC000170,Transfer,19836.76,2023-06-15,Minima voluptates explicabo modi.,Atm,False
+TXN0000441,ACC000090,Transfer,16250.6,2023-08-31,,Atm,False
+TXN0000019,ACC000004,Deposit,30660.83,2024-05-13,Iste sit consequatur cupiditate.,Branch,False
+TXN0000389,ACC000140,Withdrawal,39725.57,2024-04-01,Aspernatur voluptate id cumque.,Atm,False
+TXN0000474,ACC000115,Transfer,19116.37,2023-03-21,Perspiciatis voluptates.,Atm,False
+TXN0000230,ACC000003,Deposit,33036.02,2024-03-30,Voluptatibus possimus.,Branch,False
+TXN0000528,ACC000100,Deposit,31910.16,2024-07-11,Esse similique veniam.,Online,False
+TXN0000202,ACC000270,Transfer,15323.11,2024-11-07,A ut laboriosam.,Online,False
+TXN0000325,ACC000006,Withdrawal,36131.77,2023-11-29,Similique illum culpa beatae.,Atm,False
+TXN0000042,ACC000176,Withdrawal,43602.51,2024-10-22,Ea magnam ut.,Atm,False
+TXN0000124,ACC000068,Withdrawal,7791.32,2023-11-14,Occaecati sit tenetur.,Mobile,False
+TXN0000483,ACC000144,Withdrawal,32505.3,2024-06-04,,Atm,False
+TXN0000036,ACC000188,Withdrawal,18263.13,2024-04-21,,Online,False
+TXN0000479,ACC000241,Withdrawal,108765.785,2024-07-21,Nihil voluptas occaecati illo.,Online,True
+TXN0000386,ACC000187,Withdrawal,30344.93,2023-06-01,Dolores aspernatur quam.,Atm,False
+TXN0000289,ACC000084,Transfer,32314.0,2024-10-25,Aperiam magni quibusdam officia magni.,Mobile,False
+TXN0000153,ACC000259,Withdrawal,44526.93,2023-11-08,Perferendis quaerat maxime dolorum eveniet.,Atm,False
+TXN0000190,ACC000227,Deposit,18932.02,2023-05-11,,Online,False
+TXN0000314,ACC000165,Withdrawal,16060.06,2023-02-23,Excepturi in placeat illo.,Mobile,False
+TXN0000407,ACC000204,Transfer,13352.38,2024-03-17,Blanditiis at.,Atm,False
+TXN0000143,ACC000057,Withdrawal,35349.61,2024-04-13,Quod sunt assumenda modi.,Atm,False
+TXN0000256,ACC000142,Withdrawal,5548.85,2023-03-29,Temporibus commodi magni.,Online,False
+TXN0000402,ACC000181,Withdrawal,38654.93,2023-10-31,Magni laborum porro possimus.,Atm,False
+TXN0000397,ACC000233,Transfer,38753.21,2023-11-02,Laudantium unde velit voluptas.,Branch,False
+TXN0000077,ACC000255,Transfer,37605.33,2023-07-26,Delectus occaecati at maiores voluptate.,Atm,False
+TXN0000035,ACC000042,Withdrawal,37669.11,2024-08-12,Porro quae provident quasi.,Online,False
+TXN0000287,ACC000217,Withdrawal,30147.0,2023-05-12,Sed voluptas suscipit.,Online,False
+TXN0000510,ACC000251,Transfer,34480.98,2023-10-02,Non in corrupti voluptatibus inventore.,Online,False
+TXN0000288,ACC000074,Withdrawal,20062.96,2024-03-11,Quas quos ratione.,Online,False
+TXN0000399,ACC000133,Deposit,40825.77,2024-12-05,,Branch,False
+TXN0000100,ACC000121,Deposit,45498.48,2023-09-19,Iusto similique nesciunt dicta.,Online,False
+TXN0000527,ACC000091,Deposit,108765.785,2023-06-06,Eius incidunt velit.,Mobile,True
+TXN0000586,ACC000029,Transfer,25420.08,2024-07-04,Aliquam deleniti mollitia.,Online,False
+TXN0000355,ACC000255,Withdrawal,10520.15,2023-06-06,Hic est.,Atm,False
+TXN0000109,ACC000145,Withdrawal,24758.99,2024-09-06,Quam hic impedit.,Branch,False
+TXN0000377,ACC000220,Deposit,27831.41,2024-02-07,Qui eveniet eius officia.,Mobile,False
+TXN0000491,ACC000019,Deposit,39730.45,2024-11-07,Hic repellendus.,Online,False
+TXN0000458,ACC000258,Withdrawal,43461.65,2023-11-23,Ab sequi et repellendus.,Atm,False
+TXN0000493,ACC000020,Transfer,108765.785,2023-08-02,Quidem dignissimos omnis.,Online,True
+TXN0000551,ACC000060,Transfer,20145.0,2023-09-22,Cum explicabo inventore facere.,Atm,False
+TXN0000434,ACC000246,Deposit,32907.52,2024-07-13,Maiores optio a odit.,Branch,False
+TXN0000295,ACC000142,Transfer,22943.55,2024-04-24,Ducimus assumenda quibusdam eos.,Online,False
+TXN0000456,ACC000067,Transfer,14201.54,2023-09-08,,Branch,False
+TXN0000286,ACC000122,Deposit,30347.99,2024-11-09,Eos corrupti doloribus occaecati eius.,Online,False
+TXN0000278,ACC000089,Transfer,12325.55,2023-11-06,Doloribus deserunt debitis ea aut.,Atm,False
+TXN0000498,ACC000024,Deposit,19994.11,2023-08-13,Facilis molestias in.,Atm,False
+TXN0000522,ACC000143,Deposit,15916.9,2023-08-08,Nisi sed labore consectetur ab.,Branch,False
+TXN0000268,ACC000066,Withdrawal,17077.87,2023-04-29,,Atm,False
+TXN0000318,ACC000215,Deposit,49483.27,2023-02-14,Labore eveniet vitae.,Atm,False
+TXN0000515,ACC000243,Deposit,36034.5,2024-06-20,Fugiat voluptas.,Atm,False
+TXN0000178,ACC000251,Transfer,23878.79,2024-02-28,Quidem vero maxime quibusdam magnam.,Atm,False
+TXN0000254,ACC000069,Withdrawal,20900.43,2023-06-30,Officiis perferendis ad maxime.,Atm,False
+TXN0000509,ACC000130,Transfer,26217.94,2023-03-02,Quaerat natus officia.,Branch,False
+TXN0000104,ACC000211,Withdrawal,4203.38,2024-10-26,Doloremque aperiam accusantium nemo.,Online,False
+TXN0000302,ACC000019,Transfer,10951.41,2024-10-20,,Atm,False
+TXN0000488,ACC000233,Deposit,47096.12,2024-06-17,Recusandae debitis.,Atm,False
+TXN0000013,ACC000009,Deposit,39657.68,2024-04-05,Iste ad amet odit.,Mobile,False
+TXN0000258,ACC000220,Withdrawal,49346.15,2024-04-29,Aperiam est.,Online,False
+TXN0000373,ACC000052,Transfer,919.68,2024-09-30,Doloremque nulla.,Mobile,False
+TXN0000039,ACC000034,Withdrawal,22653.72,2024-12-10,,Online,False
+TXN0000422,ACC000180,Deposit,354.0,2023-02-21,Eius exercitationem nesciunt.,Atm,False
+TXN0000433,ACC000064,Transfer,42101.87,2023-06-01,Eius praesentium repellendus fuga nulla.,Online,False
+TXN0000446,ACC000193,Withdrawal,44997.81,2024-03-25,Pariatur ullam odio.,Atm,False
+TXN0000440,ACC000082,Withdrawal,29266.21,2023-01-31,Quos quaerat adipisci libero assumenda.,Mobile,False
+TXN0000478,ACC000216,Deposit,30316.73,2023-05-01,Veniam blanditiis maiores.,Online,False
+TXN0000051,ACC000191,Deposit,45431.5,2024-03-13,Aliquam explicabo quae laborum.,Atm,False
+TXN0000451,ACC000042,Transfer,35184.23,2023-03-14,,Atm,False
+TXN0000382,ACC000063,Withdrawal,1254.73,2023-04-24,Maxime delectus occaecati aperiam.,Atm,False
+TXN0000464,ACC000122,Deposit,35989.09,2024-01-26,Praesentium amet sint.,Branch,False
+TXN0000439,ACC000270,Deposit,30331.51,2024-06-03,Non quae sit.,Branch,False
+TXN0000037,ACC000245,Withdrawal,38701.42,2024-07-06,Asperiores nam amet.,Branch,False
+TXN0000263,ACC000255,Withdrawal,43505.95,2024-05-31,In deserunt.,Mobile,False
+TXN0000305,ACC000083,Deposit,26867.73,2024-11-03,Deleniti nobis consequuntur.,Online,False
+TXN0000227,ACC000125,Transfer,33547.75,2023-03-26,Optio natus placeat.,Online,False
+TXN0000210,ACC000171,Withdrawal,46337.64,2023-02-09,Officia a labore.,Online,False
+TXN0000326,ACC000196,Deposit,26915.7,2024-08-20,In quia harum temporibus dignissimos.,Mobile,False
+TXN0000452,ACC000117,Deposit,24880.18,2023-06-01,Quia blanditiis facilis.,Online,False
+TXN0000130,ACC000041,Deposit,31228.14,2023-07-11,Doloribus repellat.,Atm,False
+TXN0000222,ACC000153,Transfer,2050.33,2024-04-12,Doloremque laudantium facilis.,Online,False
+TXN0000547,ACC000257,Deposit,11162.53,2024-01-13,Deserunt minus tempore illum.,Online,False
+TXN0000142,ACC000137,Deposit,24369.63,2023-02-17,Numquam nulla ipsam exercitationem repellat.,Atm,False
+TXN0000505,ACC000235,Withdrawal,42979.22,2023-01-24,Eius quas in mollitia.,Mobile,False
+TXN0000312,ACC000195,Transfer,46462.01,2023-04-04,Ipsum nam fugiat neque.,Online,False
+TXN0000079,ACC000085,Transfer,1739.7,2023-11-07,Occaecati minima enim ipsa tenetur.,Atm,False
+TXN0000390,ACC000018,Deposit,17710.48,2024-04-05,In non inventore culpa.,Online,False
+TXN0000224,ACC000112,Transfer,13761.44,2023-03-10,Deserunt reprehenderit.,Branch,False
+TXN0000500,ACC000266,Withdrawal,16731.08,2023-03-06,Temporibus eos modi consequuntur laudantium.,Atm,False
+TXN0000076,ACC000168,Deposit,41532.59,2023-07-03,Quidem repellat.,Online,False
+TXN0000183,ACC000066,Deposit,34150.94,2023-05-12,Similique et.,Online,False
+TXN0000419,ACC000267,Withdrawal,29498.48,2023-07-15,Ea temporibus illum.,Atm,False
+TXN0000031,ACC000259,Deposit,44922.76,2024-04-26,Voluptate doloremque iste.,Online,False
+TXN0000029,ACC000268,Transfer,45288.35,2023-08-24,Nobis voluptatum eligendi.,Mobile,False
+TXN0000345,ACC000147,Withdrawal,23562.21,2024-10-22,,Online,False
+TXN0000495,ACC000148,Transfer,17920.68,2023-04-26,Ipsum et aliquam nemo officiis.,Atm,False
+TXN0000059,ACC000094,Withdrawal,2530.87,2023-03-20,Ut autem eum adipisci itaque.,Branch,False
+TXN0000294,ACC000028,Withdrawal,35689.81,2024-08-04,Esse suscipit necessitatibus.,Online,False
+TXN0000369,ACC000111,Withdrawal,48953.7,2023-06-20,Cupiditate vero nobis voluptatem possimus.,Atm,False
+TXN0000219,ACC000057,Deposit,651.25,2024-02-05,,Online,False
+TXN0000539,ACC000012,Transfer,9436.86,2024-07-13,In fugiat.,Mobile,False
+TXN0000577,ACC000058,Deposit,21486.57,2023-09-26,Atque accusamus.,Online,False
+TXN0000344,ACC000094,Transfer,7149.75,2024-03-02,Dolorum quae.,Branch,False
+TXN0000176,ACC000163,Withdrawal,36281.18,2023-08-04,Occaecati quo est officia officia.,Branch,False
+TXN0000600,ACC000024,Transfer,12232.58,2024-08-30,Velit eius consequatur.,Branch,False
+TXN0000444,ACC000003,Withdrawal,108765.785,2023-02-04,Voluptatibus adipisci ut eveniet.,Branch,True
+TXN0000250,ACC000083,Deposit,47218.83,2024-08-15,Amet nostrum inventore aut.,Mobile,False
+TXN0000175,ACC000274,Withdrawal,42137.69,2023-10-16,Quasi officia sint provident.,Online,False
+TXN0000447,ACC000149,Deposit,5984.58,2023-12-05,At porro sit ut.,Online,False
+TXN0000096,ACC000112,Deposit,16531.37,2023-08-30,Distinctio officiis.,Mobile,False
+TXN0000270,ACC000256,Transfer,558.51,2023-10-31,Ullam odit possimus.,Online,False
+TXN0000173,ACC000276,Transfer,10252.5,2023-06-22,,Mobile,False
+TXN0000590,ACC000058,Transfer,10828.2,2024-08-18,Laboriosam minima.,Atm,False
+TXN0000135,ACC000222,Transfer,28514.58,2023-01-09,Corporis ab rem velit.,Atm,False
+TXN0000233,ACC000055,Withdrawal,10435.25,2023-06-01,Earum perspiciatis iure facere.,Atm,False
+TXN0000232,ACC000263,Withdrawal,39866.52,2023-06-21,Sequi eum.,Atm,False
+TXN0000208,ACC000219,Transfer,25989.15,2024-06-08,Odio voluptatem provident earum.,Branch,False
+TXN0000097,ACC000058,Withdrawal,12789.87,2024-01-19,Ipsa numquam ratione.,Branch,False
+TXN0000177,ACC000169,Deposit,12371.82,2024-04-15,Deserunt nulla.,Atm,False
+TXN0000248,ACC000179,Transfer,46613.26,2023-09-19,,Mobile,False
+TXN0000247,ACC000158,Withdrawal,20287.31,2024-01-18,Voluptate totam.,Mobile,False
+TXN0000006,ACC000103,Transfer,12986.11,2023-03-13,Distinctio tempora totam.,Mobile,False
+TXN0000333,ACC000219,Transfer,25625.97,2023-08-18,Expedita sapiente recusandae hic.,Online,False
+TXN0000594,ACC000119,Withdrawal,17187.34,2023-07-18,Qui id placeat.,Mobile,False
+TXN0000083,ACC000087,Deposit,15673.77,2023-11-09,Incidunt atque optio necessitatibus ducimus.,Mobile,False
+TXN0000122,ACC000029,Withdrawal,6553.08,2023-10-17,,Branch,False
+TXN0000543,ACC000089,Deposit,22989.8,2023-06-01,Ullam ut vero.,Mobile,False
+TXN0000320,ACC000032,Withdrawal,8430.06,2023-10-24,Repudiandae nobis.,Atm,False
+TXN0000354,ACC000185,Transfer,32604.61,2023-05-15,Possimus saepe repellat odit.,Online,False
+TXN0000094,ACC000047,Transfer,15763.85,2024-02-21,Rem assumenda consequatur deleniti.,Atm,False
+TXN0000507,ACC000204,Withdrawal,38158.75,2024-08-14,Velit perspiciatis.,Branch,False
+TXN0000025,ACC000167,Withdrawal,44764.45,2023-11-30,,Online,False
+TXN0000198,ACC000110,Withdrawal,24846.94,2024-12-10,Officiis commodi necessitatibus ipsum sed.,Online,False
+TXN0000365,ACC000220,Withdrawal,33515.26,2023-04-05,Itaque architecto repellendus.,Mobile,False
+TXN0000475,ACC000151,Withdrawal,30394.39,2023-11-21,Fugiat voluptatem perspiciatis.,Online,False
+TXN0000217,ACC000048,Deposit,23791.4,2024-10-16,,Online,False
+TXN0000512,ACC000218,Transfer,6161.74,2023-04-27,Commodi beatae molestias.,Online,False
+TXN0000137,ACC000178,Transfer,27707.46,2023-06-01,Ipsa hic alias.,Online,False
+TXN0000296,ACC000047,Withdrawal,15328.85,2024-02-21,,Atm,False
+TXN0000467,ACC000041,Deposit,24062.37,2023-03-01,Voluptatibus molestias excepturi.,Mobile,False
+TXN0000484,ACC000197,Withdrawal,44875.35,2024-03-12,,Online,False
+TXN0000476,ACC000210,Withdrawal,22845.48,2023-09-04,,Branch,False
+TXN0000237,ACC000120,Deposit,25600.2,2024-12-22,Voluptatem incidunt asperiores.,Online,False
+TXN0000169,ACC000031,Withdrawal,9215.18,2024-02-22,Nemo natus tempore quos.,Atm,False
+TXN0000537,ACC000060,Deposit,4628.8,2024-04-23,Placeat aliquam ipsum cumque ut.,Atm,False
+TXN0000568,ACC000275,Transfer,5371.37,2024-10-13,Deleniti sequi occaecati.,Branch,False
+TXN0000129,ACC000214,Deposit,37051.76,2024-02-07,Commodi dicta voluptas.,Mobile,False
+TXN0000372,ACC000146,Withdrawal,21850.22,2024-11-27,Ipsum maiores quia magnam provident.,Online,False
+TXN0000413,ACC000001,Transfer,8619.18,2023-12-27,,Atm,False
+TXN0000054,ACC000071,Withdrawal,430.28,2023-06-29,Reprehenderit natus optio distinctio voluptatum.,Atm,False
+TXN0000145,ACC000071,Withdrawal,24969.71,2024-01-08,Distinctio maiores est.,Atm,False
+TXN0000376,ACC000192,Withdrawal,108765.785,2023-01-27,Dolores quas.,Online,True
+TXN0000049,ACC000029,Withdrawal,1337.3,2024-01-01,Amet corrupti dolorem alias.,Branch,False
+TXN0000043,ACC000134,Withdrawal,22318.29,2023-11-10,Consequatur et minus consequuntur.,Atm,False
+TXN0000567,ACC000112,Transfer,38367.04,2024-07-17,Praesentium magnam.,Online,False
+TXN0000531,ACC000045,Transfer,15627.11,2024-04-22,Velit cumque animi.,Atm,False
+TXN0000067,ACC000124,Withdrawal,47098.06,2023-06-14,,Online,False
+TXN0000264,ACC000125,Withdrawal,8485.84,2024-11-09,Odit dicta architecto.,Atm,False
+TXN0000113,ACC000134,Deposit,33595.97,2023-02-12,Velit laudantium doloremque nam.,Online,False
+TXN0000065,ACC000017,Deposit,3978.99,2023-02-13,,Branch,False
+TXN0000101,ACC000042,Transfer,15927.5,2023-02-04,Repudiandae hic ex aut sed.,Online,False
+TXN0000293,ACC000273,Transfer,15968.02,2024-11-25,,Atm,False
+TXN0000578,ACC000235,Transfer,39798.1,2024-10-19,Quo consectetur facere repellat quia.,Online,False
+TXN0000584,ACC000062,Withdrawal,17184.11,2023-10-12,Nulla error labore quis modi.,Atm,False
+TXN0000315,ACC000007,Deposit,9323.52,2023-11-08,Error nesciunt necessitatibus adipisci consequuntur.,Atm,False
+TXN0000188,ACC000127,Withdrawal,40422.15,2023-12-09,Veritatis perspiciatis animi.,Branch,False
+TXN0000361,ACC000103,Transfer,5545.04,2024-02-11,Quam aliquid maiores.,Mobile,False
+TXN0000416,ACC000139,Deposit,38748.86,2024-09-02,Impedit enim inventore debitis delectus.,Online,False
+TXN0000409,ACC000028,Deposit,5548.31,2023-04-24,Soluta cumque incidunt.,Branch,False
+TXN0000132,ACC000008,Withdrawal,48160.77,2023-06-01,Facere pariatur corrupti quidem.,Atm,False
+TXN0000366,ACC000200,Deposit,24133.1,2024-12-14,Fuga architecto dolor error nisi.,Online,False
+TXN0000347,ACC000029,Withdrawal,26122.9,2023-08-05,Assumenda omnis.,Atm,False
+TXN0000160,ACC000057,Withdrawal,47209.07,2024-09-08,Quasi impedit cum magni.,Atm,False
+TXN0000001,ACC000267,Withdrawal,38680.24,2024-08-25,Alias qui reiciendis amet totam.,Atm,False
+TXN0000327,ACC000119,Transfer,11109.89,2024-02-09,,Online,False
+TXN0000309,ACC000223,Transfer,2696.79,2024-09-03,Labore maiores ratione.,Online,False
+TXN0000570,ACC000015,Withdrawal,19229.34,2024-02-25,Ut incidunt nulla.,Atm,False
+TXN0000497,ACC000166,Deposit,11819.52,2024-02-23,Assumenda commodi.,Mobile,False
+TXN0000275,ACC000150,Deposit,15273.29,2024-03-28,Deserunt nesciunt quisquam aliquam.,Online,False
+TXN0000393,ACC000143,Withdrawal,28125.87,2024-06-23,Nisi corrupti quas.,Mobile,False
+TXN0000238,ACC000152,Withdrawal,21482.04,2023-05-21,,Online,False
+TXN0000244,ACC000222,Deposit,19972.4,2024-06-01,,Mobile,False
+TXN0000490,ACC000038,Withdrawal,16423.07,2024-10-07,Aperiam tenetur recusandae delectus.,Online,False
+TXN0000432,ACC000029,Withdrawal,4933.5,2024-06-01,Quam suscipit consequuntur nobis.,Online,False
+TXN0000403,ACC000198,Withdrawal,3849.71,2024-11-17,Unde quasi doloribus alias.,Atm,False
+TXN0000473,ACC000177,Withdrawal,5400.98,2024-06-04,Facere sequi.,Online,False
+TXN0000115,ACC000136,Withdrawal,46319.23,2024-09-19,Cupiditate similique magnam.,Mobile,False
+TXN0000179,ACC000181,Transfer,26978.6,2024-03-31,Blanditiis vel.,Online,False
+TXN0000008,ACC000078,Withdrawal,7527.83,2024-11-11,Reprehenderit velit.,Mobile,False
+TXN0000437,ACC000269,Transfer,17951.61,2023-12-24,Expedita vel.,Online,False
+TXN0000392,ACC000006,Withdrawal,18645.85,2023-01-10,Accusantium fugit sequi quis.,Online,False
+TXN0000087,ACC000140,Withdrawal,37170.11,2023-04-08,Numquam eaque vitae sit.,Branch,False
+TXN0000269,ACC000187,Deposit,29543.98,2024-03-09,Cum iste ratione aliquam.,Mobile,False
+TXN0000529,ACC000207,Transfer,8543.76,2024-01-11,,Atm,False
+TXN0000277,ACC000264,Withdrawal,4892.78,2023-02-23,Suscipit quaerat excepturi.,Mobile,False
+TXN0000423,ACC000042,Deposit,7836.35,2023-07-21,Laborum quis ab eaque.,Online,False
+TXN0000209,ACC000043,Deposit,108765.785,2023-03-19,Exercitationem itaque nobis accusamus.,Branch,True
+TXN0000074,ACC000140,Transfer,41921.65,2024-12-31,Ipsum harum eaque nobis.,Mobile,False
+TXN0000018,ACC000225,Withdrawal,13767.28,2024-01-14,,Online,False
+TXN0000404,ACC000079,Withdrawal,25744.97,2024-12-26,Occaecati perspiciatis possimus officia.,Mobile,False
+TXN0000058,ACC000084,Deposit,8226.08,2024-12-10,Ad perspiciatis perspiciatis hic.,Branch,False
+TXN0000170,ACC000062,Deposit,16070.07,2024-01-20,Rerum rerum consequatur consequuntur.,Mobile,False
+TXN0000492,ACC000145,Deposit,33700.05,2023-07-11,Laborum maxime nesciunt quae ratione.,Online,False
+TXN0000015,ACC000067,Deposit,7165.36,2024-09-25,Ipsam odit a dicta esse.,Atm,False
+TXN0000165,ACC000159,Withdrawal,13941.02,2023-01-26,Fuga voluptatibus esse.,Atm,False
+TXN0000319,ACC000035,Transfer,48758.8,2023-05-01,At aut mollitia.,Atm,False
+TXN0000136,ACC000250,Withdrawal,108765.785,2024-09-18,Excepturi illo.,Branch,True
+TXN0000192,ACC000014,Transfer,19257.61,2024-09-26,Impedit eveniet fugiat.,Atm,False
+TXN0000321,ACC000200,Transfer,48579.77,2024-01-29,,Atm,False
+TXN0000514,ACC000191,Deposit,8380.69,2024-09-20,Quod corporis reiciendis earum.,Online,False
+TXN0000530,ACC000102,Transfer,7460.95,2023-02-15,Quo sapiente odio asperiores.,Atm,False
+TXN0000105,ACC000189,Deposit,34404.6,2023-07-23,Aperiam tempora impedit labore libero.,Atm,False
+TXN0000255,ACC000099,Deposit,40737.09,2023-07-07,Deserunt aut nisi architecto ratione.,Atm,False
+TXN0000016,ACC000113,Withdrawal,22863.61,2023-04-19,Aspernatur culpa maiores voluptas rerum.,Online,False
+TXN0000550,ACC000260,Transfer,32827.84,2023-06-01,Voluptatibus omnis.,Online,False
+TXN0000057,ACC000244,Withdrawal,29984.68,2024-03-22,,Branch,False
+TXN0000574,ACC000036,Deposit,40203.98,2023-06-13,Doloribus tempora delectus a.,Atm,False
+TXN0000093,ACC000091,Deposit,10179.33,2023-10-12,,Atm,False
+TXN0000343,ACC000038,Transfer,108765.785,2024-12-19,,Branch,True
+TXN0000460,ACC000018,Deposit,34947.26,2023-04-27,Eligendi quia sed repudiandae alias.,Atm,False
+TXN0000569,ACC000002,Withdrawal,41324.31,2023-07-01,Dolorem consequatur alias.,Atm,False
+TXN0000408,ACC000207,Deposit,2551.81,2023-07-18,Id nesciunt tempore maxime.,Mobile,False
+TXN0000597,ACC000218,Transfer,18602.48,2023-06-01,Possimus sunt ratione iste provident.,Atm,False
+TXN0000089,ACC000096,Transfer,33610.86,2024-10-04,Sit autem modi.,Mobile,False
+TXN0000215,ACC000276,Deposit,17057.13,2023-06-01,Harum saepe repellat voluptates.,Online,False
+TXN0000081,ACC000024,Deposit,30885.29,2023-11-25,Minima eos aliquid.,Atm,False
+TXN0000455,ACC000008,Withdrawal,108765.785,2024-07-03,Deleniti harum incidunt quo reiciendis.,Online,True
+TXN0000317,ACC000051,Withdrawal,48419.68,2023-07-17,Voluptatem dignissimos hic modi.,Mobile,False
+TXN0000191,ACC000211,Withdrawal,2883.92,2024-02-16,Delectus quae error atque.,Mobile,False
+TXN0000151,ACC000102,Deposit,32636.65,2024-10-26,Rem voluptates natus.,Online,False
+TXN0000554,ACC000013,Deposit,44469.38,2023-12-12,,Branch,False
+TXN0000487,ACC000100,Deposit,108765.785,2024-07-06,Dolore nesciunt voluptates laboriosam possimus.,Branch,True
+TXN0000453,ACC000027,Transfer,26755.87,2023-01-19,Veritatis nemo a aperiam.,Mobile,False
+TXN0000306,ACC000170,Deposit,10003.38,2024-02-09,Totam ab error reprehenderit quos.,Online,False
+TXN0000032,ACC000209,Withdrawal,41082.44,2024-07-25,Fuga placeat itaque.,Atm,False
+TXN0000583,ACC000247,Deposit,18780.69,2023-06-23,Deserunt ipsum atque.,Atm,False
+TXN0000391,ACC000166,Transfer,47523.87,2023-04-28,,Online,False
+TXN0000241,ACC000227,Deposit,34844.27,2024-06-17,Saepe doloribus labore vero.,Atm,False
+TXN0000356,ACC000161,Deposit,43389.93,2024-05-25,Nisi aliquid.,Branch,False
+TXN0000072,ACC000054,Transfer,46960.19,2024-11-21,,Online,False
+TXN0000080,ACC000244,Deposit,28485.88,2024-07-06,Error voluptates placeat error.,Mobile,False
+TXN0000536,ACC000107,Withdrawal,10612.07,2024-11-29,Praesentium quibusdam doloribus qui.,Branch,False
+TXN0000066,ACC000103,Deposit,33412.56,2023-06-01,Id debitis.,Online,False
+TXN0000005,ACC000038,Deposit,38491.02,2023-11-28,Error vel quidem.,Atm,False
+TXN0000572,ACC000123,Deposit,19528.04,2023-06-15,Esse odio doloremque excepturi laboriosam.,Online,False
+TXN0000155,ACC000120,Withdrawal,28323.3,2024-06-30,Aspernatur aperiam suscipit labore.,Atm,False
+TXN0000128,ACC000130,Withdrawal,45873.37,2024-02-27,Quasi aut officia ex.,Atm,False
+TXN0000073,ACC000102,Withdrawal,19801.09,2023-06-22,Rerum maiores.,Online,False
+TXN0000591,ACC000253,Deposit,37801.6,2024-02-21,Ratione cumque earum voluptas.,Online,False
+TXN0000166,ACC000258,Deposit,28885.09,2023-07-13,Adipisci corporis quos in.,Atm,False
+TXN0000374,ACC000241,Withdrawal,10672.37,2023-04-28,Est qui quidem.,Online,False
+TXN0000141,ACC000033,Withdrawal,44057.21,2024-05-30,Praesentium ipsum dignissimos.,Online,False
+TXN0000548,ACC000174,Transfer,11580.67,2023-11-06,Ab quo dolorum iusto.,Mobile,False
+TXN0000242,ACC000105,Withdrawal,31754.91,2023-04-04,Reprehenderit maxime.,Online,False
+TXN0000200,ACC000146,Deposit,31603.6,2023-01-31,Modi incidunt tenetur.,Atm,False
+TXN0000415,ACC000235,Deposit,36767.27,2024-05-13,Architecto possimus.,Atm,False
+TXN0000330,ACC000023,Deposit,30204.35,2023-01-14,Quaerat itaque dicta voluptatibus.,Online,False
+TXN0000430,ACC000265,Deposit,37049.6,2023-02-24,Voluptate sit.,Online,False
+TXN0000044,ACC000275,Deposit,7502.08,2024-09-25,Et voluptatem.,Online,False
+TXN0000360,ACC000237,Withdrawal,14603.96,2023-03-16,Dolore sunt.,Mobile,False
+TXN0000118,ACC000261,Deposit,6270.35,2023-07-04,Quos quo quo nam.,Atm,False
+TXN0000154,ACC000003,Transfer,17788.22,2023-05-08,Deserunt quod iste corporis incidunt.,Atm,False
+TXN0000334,ACC000057,Withdrawal,19298.72,2023-04-26,Impedit debitis nulla.,Atm,False
+TXN0000223,ACC000094,Withdrawal,9060.95,2024-01-29,Laudantium provident non.,Online,False
+TXN0000429,ACC000050,Deposit,23065.02,2024-10-27,Velit pariatur fugiat.,Atm,False
+TXN0000159,ACC000263,Withdrawal,41208.21,2024-12-29,,Online,False
+TXN0000156,ACC000265,Withdrawal,33654.45,2023-09-11,,Online,False
+TXN0000503,ACC000068,Deposit,12440.71,2024-01-22,Deleniti error.,Online,False
+TXN0000052,ACC000148,Deposit,4471.17,2024-03-01,Beatae quaerat corporis expedita.,Mobile,False
+TXN0000481,ACC000056,Deposit,6039.58,2024-08-28,Porro veritatis officiis.,Mobile,False
+TXN0000216,ACC000201,Transfer,7769.19,2024-10-06,Iure vel ipsam.,Online,False
+TXN0000546,ACC000274,Withdrawal,44911.26,2024-03-10,Tempora delectus explicabo aut.,Atm,False
+TXN0000557,ACC000041,Withdrawal,48844.48,2024-01-27,Reiciendis quaerat eveniet quisquam.,Atm,False
+TXN0000004,ACC000151,Transfer,28346.83,2024-12-13,Harum tenetur hic voluptate.,Branch,False
+TXN0000549,ACC000204,Withdrawal,33796.12,2024-03-07,Error incidunt delectus repellat.,Atm,False
+TXN0000598,ACC000010,Withdrawal,48437.13,2024-04-12,Ea sequi eos eaque blanditiis.,Branch,False
+TXN0000521,ACC000202,Transfer,21327.75,2023-05-01,Debitis rem perspiciatis ratione.,Atm,False
+TXN0000245,ACC000079,Deposit,21427.12,2023-11-04,Velit quod nulla.,Mobile,False
+TXN0000185,ACC000266,Transfer,2687.95,2024-02-21,,Online,False
+TXN0000506,ACC000146,Withdrawal,14632.81,2024-07-28,Fugit temporibus id.,Branch,False
+TXN0000410,ACC000113,Deposit,11400.6,2024-02-06,Magnam modi suscipit.,Online,False
+TXN0000047,ACC000170,Deposit,47394.67,2024-07-13,Maxime ipsa cumque.,Atm,False
+TXN0000556,ACC000125,Transfer,24723.17,2024-04-14,,Atm,False
+TXN0000098,ACC000011,Deposit,43983.73,2024-01-12,Assumenda quo corporis.,Online,False
+TXN0000213,ACC000237,Withdrawal,23774.47,2024-04-24,Molestiae tempora.,Online,False
+TXN0000565,ACC000213,Deposit,1575.27,2023-12-27,Quisquam sint voluptatibus.,Online,False
+TXN0000310,ACC000135,Withdrawal,30918.9,2023-10-15,Quam itaque recusandae est.,Atm,False
+TXN0000380,ACC000067,Transfer,30943.17,2024-08-08,Doloribus molestiae tenetur pariatur.,Online,False
+TXN0000251,ACC000217,Deposit,19943.58,2024-06-14,Nam eos.,Atm,False
+TXN0000582,ACC000088,Withdrawal,36084.85,2024-02-20,Aliquam voluptas sunt.,Atm,False
+TXN0000108,ACC000105,Withdrawal,38690.63,2024-05-21,Ullam sequi quaerat iusto.,Online,False
+TXN0000388,ACC000144,Transfer,21859.49,2023-09-14,Dolorum eligendi ipsum odio earum.,Online,False
+TXN0000084,ACC000012,Withdrawal,28445.67,2024-12-13,Nesciunt quisquam accusamus.,Mobile,False
+TXN0000063,ACC000268,Withdrawal,24027.96,2024-03-28,Distinctio aliquid officia.,Atm,False
+TXN0000265,ACC000144,Withdrawal,21801.18,2023-12-01,Pariatur possimus voluptatem.,Online,False
+TXN0000596,ACC000214,Deposit,30545.15,2024-04-30,Non dignissimos a nemo.,Branch,False
+TXN0000297,ACC000006,Transfer,2964.83,2024-05-19,Expedita nesciunt iure numquam incidunt.,Mobile,False
+TXN0000468,ACC000090,Deposit,9072.22,2024-05-21,Voluptatibus quidem hic minus.,Online,False
+TXN0000260,ACC000128,Withdrawal,1381.45,2024-12-17,Quod corporis est exercitationem fuga.,Atm,False
+TXN0000563,ACC000088,Transfer,17383.68,2024-05-25,Qui ipsa enim laborum quis.,Atm,False
+TXN0000048,ACC000058,Transfer,33377.7,2024-03-28,Quis corrupti sequi omnis.,Branch,False
+TXN0000496,ACC000066,Transfer,8892.1,2023-12-22,Natus sed.,Online,False
+TXN0000418,ACC000270,Deposit,43869.49,2024-04-05,Necessitatibus distinctio dicta quibusdam.,Mobile,False
+TXN0000303,ACC000096,Transfer,30814.96,2023-01-06,Blanditiis facere.,Atm,False
+TXN0000485,ACC000161,Withdrawal,44130.97,2023-10-12,Sint officiis eius officiis.,Mobile,False
+TXN0000395,ACC000003,Transfer,19204.59,2024-10-21,Non asperiores consequatur iusto culpa.,Atm,False
+TXN0000106,ACC000118,Withdrawal,11301.91,2024-10-24,Ipsum ipsa cum quas.,Online,False
+TXN0000102,ACC000260,Withdrawal,21176.06,2023-06-14,Voluptatem sed qui nisi.,Online,False
+TXN0000225,ACC000085,Deposit,3919.03,2023-11-30,,Online,False
+TXN0000535,ACC000088,Deposit,28976.94,2024-04-05,Praesentium illo nulla tenetur quia.,Atm,False
+TXN0000026,ACC000249,Deposit,20688.51,2023-03-17,Accusamus minima quo.,Mobile,False
+TXN0000195,ACC000075,Deposit,23529.24,2023-01-09,Earum et.,Atm,False
+TXN0000107,ACC000189,Deposit,2584.17,2023-06-02,Exercitationem doloremque dolor tenetur.,Mobile,False
+TXN0000538,ACC000184,Deposit,18957.72,2024-12-19,Temporibus cupiditate facilis consequatur explicabo.,Atm,False
+TXN0000381,ACC000194,Deposit,44905.67,2023-09-09,Reiciendis possimus dolore.,Online,False
+TXN0000445,ACC000098,Withdrawal,9346.69,2024-10-19,Quisquam dolore ducimus labore.,Atm,False
+TXN0000228,ACC000201,Deposit,41940.94,2023-05-08,Cupiditate nihil quia consectetur ut.,Online,False
+TXN0000502,ACC000249,Deposit,42289.55,2024-05-28,Porro optio aliquid.,Online,False
+TXN0000193,ACC000065,Deposit,29799.24,2023-07-18,Amet dolores nisi.,Online,False
+TXN0000486,ACC000055,Withdrawal,22001.95,2023-09-23,Accusamus blanditiis commodi odit.,Atm,False
+TXN0000428,ACC000028,Transfer,29058.09,2024-08-02,Excepturi placeat exercitationem et.,Atm,False
+TXN0000064,ACC000108,Deposit,11195.66,2023-08-21,Reiciendis quia molestias nobis.,Atm,False
+TXN0000461,ACC000197,Transfer,3080.03,2023-01-20,Est voluptatibus commodi voluptatum.,Mobile,False
+TXN0000450,ACC000032,Withdrawal,10291.24,2024-11-10,At qui.,Atm,False
+TXN0000519,ACC000243,Withdrawal,29407.12,2024-08-29,Praesentium sint mollitia non.,Atm,False
+TXN0000014,ACC000275,Deposit,5997.54,2024-04-14,,Online,False
+TXN0000182,ACC000143,Transfer,10533.41,2024-02-10,Excepturi debitis.,Online,False
+TXN0000396,ACC000213,Deposit,108765.785,2023-04-08,A similique quas.,Atm,True
+TXN0000112,ACC000024,Deposit,23599.53,2024-11-17,Dicta non aut.,Mobile,False
+TXN0000471,ACC000219,Deposit,10281.69,2024-11-28,Itaque cum consequuntur.,Branch,False
+TXN0000562,ACC000169,Transfer,36435.38,2024-03-06,Amet rerum inventore.,Branch,False
+TXN0000120,ACC000079,Deposit,6187.35,2023-04-19,Provident unde.,Mobile,False
+TXN0000139,ACC000083,Withdrawal,41670.73,2024-04-28,Voluptate in suscipit praesentium sit.,Online,False
+TXN0000508,ACC000107,Transfer,16688.53,2023-04-08,Modi architecto quasi.,Mobile,False
+TXN0000218,ACC000120,Deposit,108765.785,2024-01-31,,Atm,True
+TXN0000168,ACC000132,Withdrawal,17063.83,2024-06-24,A molestias architecto aliquid.,Online,False
+TXN0000311,ACC000077,Withdrawal,35087.13,2024-08-28,Inventore velit in.,Online,False
+TXN0000207,ACC000192,Deposit,11007.83,2023-06-10,,Mobile,False
+TXN0000214,ACC000066,Deposit,20942.62,2023-06-01,Perferendis explicabo repellat repudiandae.,Branch,False
+TXN0000236,ACC000247,Withdrawal,6733.28,2024-12-05,Deserunt aspernatur nemo ad.,Mobile,False
+TXN0000323,ACC000076,Deposit,6043.26,2023-10-26,Eligendi doloremque optio architecto.,Online,False
+TXN0000071,ACC000149,Transfer,36835.1,2023-08-20,Temporibus nobis facere.,Mobile,False
+TXN0000357,ACC000243,Deposit,17733.09,2024-04-16,Quisquam ut fugiat dolores.,Atm,False
+TXN0000131,ACC000250,Deposit,108765.785,2024-02-19,Enim cupiditate eaque quaerat.,Online,True
+TXN0000041,ACC000216,Transfer,14729.16,2023-06-01,Perferendis consequatur tempora aliquam.,Atm,False
+TXN0000027,ACC000139,Withdrawal,8985.23,2023-07-18,Repudiandae laudantium dolore dicta.,Branch,False
+TXN0000186,ACC000201,Withdrawal,11304.96,2024-04-04,Corporis ducimus at.,Online,False
+TXN0000316,ACC000045,Withdrawal,26490.22,2023-08-04,Necessitatibus reiciendis totam nemo.,Atm,False
+TXN0000212,ACC000263,Deposit,47296.17,2023-01-13,Quis modi ratione officiis.,Online,False
+TXN0000152,ACC000262,Deposit,37028.61,2023-10-18,Pariatur sapiente doloremque error pariatur.,Atm,False
+TXN0000194,ACC000263,Withdrawal,12233.31,2023-11-16,Laudantium quibusdam harum.,Online,False
+TXN0000157,ACC000244,Withdrawal,21342.04,2024-03-11,Aspernatur perspiciatis illo nam.,Atm,False
+TXN0000364,ACC000042,Deposit,13565.42,2023-03-12,Accusamus omnis accusamus.,Online,False
+TXN0000206,ACC000019,Withdrawal,34756.03,2023-10-02,Distinctio magnam reiciendis sunt.,Mobile,False
+TXN0000469,ACC000117,Deposit,2021.24,2024-08-16,Eligendi ullam praesentium.,Atm,False
+TXN0000575,ACC000276,Withdrawal,49777.17,2024-03-03,Distinctio iusto tenetur aut.,Online,False
+TXN0000229,ACC000227,Deposit,22088.83,2024-11-22,Sunt quas earum.,Online,False
+TXN0000593,ACC000092,Withdrawal,24430.26,2024-04-26,,Mobile,False
+TXN0000331,ACC000174,Withdrawal,30021.9,2023-04-19,Aperiam id rem minima.,Mobile,False
+TXN0000231,ACC000173,Withdrawal,45446.94,2023-01-29,Nostrum perspiciatis sunt a incidunt.,Atm,False
+TXN0000009,ACC000002,Transfer,23959.16,2023-03-13,Qui unde ex in.,Atm,False
+TXN0000020,ACC000074,Deposit,20869.49,2024-12-09,Repudiandae reiciendis dicta impedit delectus.,Atm,False
+TXN0000400,ACC000071,Transfer,34427.29,2024-12-16,Voluptatibus commodi.,Atm,False
+TXN0000007,ACC000038,Withdrawal,10997.49,2023-09-23,Et repellat officia ratione earum.,Mobile,False
+TXN0000301,ACC000248,Deposit,45710.85,2023-06-01,Maiores officia ratione unde.,Mobile,False
+TXN0000412,ACC000243,Transfer,3565.79,2023-05-26,Quod exercitationem consequuntur quibusdam ut.,Atm,False
+TXN0000022,ACC000238,Withdrawal,48841.89,2024-07-06,Officia occaecati tenetur voluptate dicta.,Online,False
+TXN0000443,ACC000116,Withdrawal,28731.61,2024-03-24,Dolores distinctio quidem optio at.,Online,False
+TXN0000541,ACC000015,Deposit,5481.98,2024-08-14,Enim laboriosam eaque.,Online,False
+TXN0000465,ACC000020,Deposit,4368.29,2023-12-12,Sequi quas error.,Atm,False
+TXN0000348,ACC000208,Transfer,42101.48,2023-11-17,Consequuntur reprehenderit sapiente cupiditate.,Online,False
+TXN0000187,ACC000169,Deposit,11358.84,2023-09-13,,Mobile,False
+TXN0000339,ACC000126,Transfer,24116.3,2024-10-13,Magnam quod.,Atm,False
+TXN0000463,ACC000199,Deposit,36316.74,2023-02-28,Corrupti quaerat sed vel.,Atm,False
+TXN0000477,ACC000065,Withdrawal,32701.16,2024-03-04,Unde atque voluptate.,Online,False
+TXN0000284,ACC000187,Deposit,28168.56,2023-05-08,,Branch,False
+TXN0000442,ACC000016,Deposit,108765.785,2024-01-19,Voluptates iure tempore veritatis laboriosam.,Online,True
+TXN0000075,ACC000255,Withdrawal,25619.58,2023-05-06,,Atm,False
+TXN0000196,ACC000175,Withdrawal,21160.85,2023-07-26,Illum laborum illum doloremque suscipit.,Atm,False
+TXN0000599,ACC000103,Withdrawal,1281.58,2024-07-25,Aliquid dolores aliquam.,Atm,False
+TXN0000090,ACC000031,Withdrawal,13470.0,2024-03-20,Hic accusamus.,Online,False
+TXN0000526,ACC000242,Transfer,35242.8,2024-08-08,Ipsa explicabo iusto.,Atm,False
+TXN0000163,ACC000071,Transfer,22673.48,2024-09-12,Velit fuga veritatis.,Online,False
+TXN0000545,ACC000050,Transfer,45650.37,2024-12-24,Ab itaque error autem.,Branch,False
+TXN0000116,ACC000226,Deposit,38207.4,2024-11-04,Excepturi beatae.,Mobile,False
+TXN0000095,ACC000269,Deposit,28591.57,2024-11-11,Possimus deleniti.,Branch,False
+TXN0000078,ACC000061,Transfer,27376.34,2024-03-16,Officia quae ut.,Atm,False
+TXN0000069,ACC000195,Transfer,29510.09,2023-07-05,Officia veritatis culpa.,Branch,False
+TXN0000595,ACC000166,Deposit,5235.56,2024-08-07,Voluptas cumque quibusdam fugit quod.,Online,False
+TXN0000290,ACC000209,Withdrawal,1392.9,2023-05-08,Maxime debitis quae minima.,Branch,False
+TXN0000504,ACC000078,Withdrawal,38143.06,2024-07-08,Vero nobis dolor.,Atm,False
+TXN0000552,ACC000197,Withdrawal,48591.34,2024-03-10,Beatae eligendi consequatur.,Atm,False
+TXN0000335,ACC000078,Deposit,16752.87,2023-03-28,Itaque tenetur delectus necessitatibus.,Mobile,False
+TXN0000517,ACC000219,Deposit,28001.89,2023-07-17,Veritatis quos commodi minima.,Atm,False
+TXN0000033,ACC000013,Transfer,894.92,2024-04-15,Iusto sit.,Online,False
+TXN0000448,ACC000257,Deposit,48408.93,2024-06-14,Aperiam exercitationem tenetur quia quam.,Atm,False
+TXN0000017,ACC000165,Withdrawal,33952.05,2024-08-12,Sed placeat recusandae.,Atm,False
+TXN0000383,ACC000012,Transfer,24762.83,2024-02-05,,Online,False
+TXN0000525,ACC000140,Deposit,16489.73,2024-05-29,Provident dolorum non provident.,Online,False
+TXN0000062,ACC000059,Transfer,30710.08,2024-06-28,Veniam voluptatum tenetur reiciendis.,Atm,False
+TXN0000542,ACC000171,Deposit,47148.03,2023-05-23,Qui necessitatibus.,Branch,False
+TXN0000050,ACC000045,Transfer,9866.21,2024-11-24,Cum iusto blanditiis.,Atm,False
+TXN0000499,ACC000067,Deposit,10389.42,2023-06-01,Dolorum aliquid.,Online,False
+TXN0000438,ACC000156,Transfer,35988.53,2023-05-24,Voluptates sequi temporibus quasi.,Mobile,False
+TXN0000123,ACC000107,Deposit,8982.74,2023-04-02,Non similique aut natus magni.,Online,False
+TXN0000024,ACC000276,Deposit,30879.29,2023-06-01,At facilis veniam.,Atm,False
+TXN0000262,ACC000244,Withdrawal,30377.47,2023-03-25,Animi magni saepe.,Online,False
+TXN0000266,ACC000171,Withdrawal,6242.6,2024-05-18,Possimus sequi necessitatibus excepturi error.,Online,False
+TXN0000204,ACC000065,Transfer,14779.72,2024-10-06,Eligendi cum modi architecto at.,Online,False
+TXN0000342,ACC000115,Deposit,23073.38,2024-03-07,Fugit quia sequi id.,Online,False
+TXN0000371,ACC000091,Transfer,41426.47,2023-12-10,Voluptate pariatur architecto accusantium.,Atm,False
+TXN0000472,ACC000083,Withdrawal,48757.43,2023-10-29,Enim corporis dolor quibusdam.,Atm,False
+TXN0000234,ACC000189,Deposit,19520.41,2023-10-13,Sunt dolore.,Atm,False
+TXN0000480,ACC000217,Withdrawal,8430.09,2024-06-26,Blanditiis id.,Branch,False
+TXN0000329,ACC000207,Withdrawal,34399.6,2024-03-12,Nobis vel nesciunt.,Atm,False
+TXN0000189,ACC000049,Transfer,26031.78,2024-09-06,,Atm,False
+TXN0000220,ACC000082,Deposit,6583.62,2024-12-27,Quia quis perspiciatis.,Branch,False
+TXN0000457,ACC000113,Transfer,46924.67,2024-01-01,Maxime nobis dolore.,Branch,False
+TXN0000370,ACC000064,Transfer,18575.8,2023-11-11,Ex odio sunt.,Branch,False
+TXN0000322,ACC000269,Deposit,10968.61,2024-06-09,Delectus architecto.,Atm,False
+TXN0000070,ACC000021,Withdrawal,6268.41,2024-01-05,Laudantium inventore rem.,Atm,False
+TXN0000144,ACC000106,Withdrawal,41198.15,2024-10-07,Quam qui commodi voluptatibus.,Atm,False
+TXN0000023,ACC000023,Deposit,42204.71,2023-06-13,Amet nulla nobis.,Branch,False
+TXN0000299,ACC000271,Deposit,26762.81,2024-11-08,Debitis doloremque.,Atm,False
+TXN0000571,ACC000242,Withdrawal,28572.18,2023-06-01,Sint fugit.,Online,False
+TXN0000267,ACC000224,Withdrawal,17226.97,2024-01-26,,Atm,False
+TXN0000560,ACC000140,Deposit,13915.01,2023-06-01,Culpa magnam quisquam.,Online,False
+TXN0000587,ACC000234,Deposit,9215.96,2023-08-22,Tempora quis sapiente.,Atm,False
+TXN0000336,ACC000054,Deposit,7595.98,2023-10-21,Praesentium aliquam suscipit culpa.,Online,False
+TXN0000252,ACC000046,Withdrawal,32958.45,2024-02-26,Illo nulla illum sint.,Online,False
+TXN0000091,ACC000212,Deposit,38299.95,2023-03-07,Itaque illo omnis quia.,Atm,False
+TXN0000576,ACC000021,Withdrawal,1283.63,2023-10-27,Dolorum laudantium ex.,Mobile,False
+TXN0000205,ACC000192,Transfer,30782.83,2024-10-22,Rerum quam voluptatum.,Atm,False

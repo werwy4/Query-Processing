@@ -1,0 +1,5582 @@
+[
+  {
+    "transaction_id": "TXN0000150",
+    "account_id": "ACC000076",
+    "transaction_type": "Transfer",
+    "amount": 36105.4,
+    "transaction_date": "2023-10-14",
+    "description": "Nemo a excepturi.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000532",
+    "account_id": "ACC000112",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 9364.38,
+    "transaction_date": "2023-06-23",
+    "description": "Mollitia laudantium soluta.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000359",
+    "account_id": "ACC000030",
+    "transaction_type": "withdrawal",
+    "amount": 4266.18,
+    "transaction_date": "2024-11-29",
+    "description": "Excepturi deleniti.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000573",
+    "account_id": "ACC000228",
+    "transaction_type": "withdrawal",
+    "amount": 14719.8,
+    "transaction_date": "2024-04-17",
+    "description": "Incidunt amet beatae facilis velit.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000579",
+    "account_id": "ACC000019",
+    "transaction_type": "deposit",
+    "amount": 22289.14,
+    "transaction_date": "2024-08-04",
+    "description": "Minus fuga officiis distinctio fugit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000564",
+    "account_id": "ACC000272",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 31606.06,
+    "transaction_date": "2023-08-01",
+    "description": "Nulla quas deleniti.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000045",
+    "account_id": "ACC000226",
+    "transaction_type": "DEPOSIT",
+    "amount": 39743.42,
+    "transaction_date": "2023-11-21",
+    "description": "Sit rerum quibusdam unde.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000566",
+    "account_id": "ACC000112",
+    "transaction_type": "withdrawal",
+    "amount": 18826.69,
+    "transaction_date": "2023-05-07",
+    "description": "Pariatur inventore labore.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000179",
+    "transaction_type": "Withdrawal",
+    "amount": 44463.95,
+    "transaction_date": "2024-05-15",
+    "description": "Possimus iste adipisci.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000337",
+    "account_id": "ACC000076",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 39954.31,
+    "transaction_date": "2023-06-02",
+    "description": "Modi pariatur architecto quas temporibus.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000158",
+    "account_id": "ACC000217",
+    "transaction_type": "transfer",
+    "amount": 27992.53,
+    "transaction_date": "2024-08-21",
+    "description": "Sit nesciunt odio voluptatum.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000167",
+    "account_id": "ACC000274",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 13820.63,
+    "transaction_date": "2024-08-16",
+    "description": "Suscipit dolor reprehenderit.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000424",
+    "account_id": "ACC000155",
+    "transaction_type": "DEPOSIT",
+    "amount": 31888.53,
+    "transaction_date": "2023-04-11",
+    "description": "Pariatur ratione.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000398",
+    "account_id": "ACC000166",
+    "transaction_type": "Transfer",
+    "amount": 46891.42,
+    "transaction_date": "2023-01-11",
+    "description": "Fugit est voluptates architecto.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000411",
+    "account_id": "ACC000245",
+    "transaction_type": "DEPOSIT",
+    "amount": 14470.83,
+    "transaction_date": "2023-04-07",
+    "description": "Est illum soluta quas at.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000274",
+    "account_id": "ACC000068",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 14189.97,
+    "transaction_date": "2024-07-15",
+    "description": "Mollitia consequuntur.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000518",
+    "account_id": "ACC000111",
+    "transaction_type": "DEPOSIT",
+    "amount": 27096.75,
+    "transaction_date": "2023-06-06",
+    "description": "Nihil rem atque.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000272",
+    "account_id": "ACC000027",
+    "transaction_type": "deposit",
+    "amount": 7719.84,
+    "transaction_date": "2023-08-19",
+    "description": "Rem fugiat id repudiandae.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000127",
+    "account_id": "ACC000154",
+    "transaction_type": "withdrawal",
+    "amount": 21924.04,
+    "transaction_date": "2023-06-02",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000040",
+    "account_id": "ACC000076",
+    "transaction_type": "transfer",
+    "amount": 14489.8,
+    "transaction_date": "2023-10-10",
+    "description": "Quae repellat a magnam fugit.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000580",
+    "account_id": "ACC000157",
+    "transaction_type": "transfer",
+    "amount": 28220.62,
+    "transaction_date": "2023-06-12",
+    "description": "Consectetur quia.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000420",
+    "account_id": "ACC000076",
+    "transaction_type": "transfer",
+    "amount": 48410.84,
+    "transaction_date": "2023-01-09",
+    "description": "Totam autem odio aspernatur assumenda.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000353",
+    "account_id": "ACC000073",
+    "transaction_type": "deposit",
+    "amount": 34150.46,
+    "transaction_date": "2023-08-26",
+    "description": "Debitis quaerat tempora minus.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000511",
+    "account_id": "ACC000218",
+    "transaction_type": "Withdrawal",
+    "amount": 24201.52,
+    "transaction_date": "2023-03-25",
+    "description": "Vitae dolorum.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000180",
+    "account_id": "ACC000114",
+    "transaction_type": "Deposit",
+    "amount": 49191.4,
+    "transaction_date": "2023-07-17",
+    "description": "Vitae eius dignissimos.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000203",
+    "account_id": "ACC000220",
+    "transaction_type": "withdrawal",
+    "amount": 39765.42,
+    "transaction_date": "2024-01-19",
+    "description": "Dolorum perspiciatis voluptatum sapiente distinctio.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000126",
+    "account_id": "ACC000080",
+    "transaction_type": "transfer",
+    "amount": 25715.74,
+    "transaction_date": "2024-10-25",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000559",
+    "account_id": "ACC000243",
+    "transaction_type": "withdrawal",
+    "amount": 25750.57,
+    "transaction_date": "2023-02-20",
+    "description": "Vero recusandae.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000427",
+    "account_id": "ACC000014",
+    "transaction_type": "Transfer",
+    "amount": 21440.69,
+    "transaction_date": "2023-01-29",
+    "description": "Ut labore excepturi.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000021",
+    "account_id": "ACC000155",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 34614.51,
+    "transaction_date": "2024-09-18",
+    "description": "Velit sunt dolore veniam.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000449",
+    "account_id": "ACC000174",
+    "transaction_type": "Transfer",
+    "amount": 29180.35,
+    "transaction_date": "2024-10-30",
+    "description": "Vitae ipsa doloremque ea enim.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000147",
+    "account_id": "ACC000220",
+    "transaction_type": "Transfer",
+    "amount": 7665.4,
+    "transaction_date": "2023-08-22",
+    "description": "Ea rerum esse in magnam.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000283",
+    "account_id": "ACC000161",
+    "transaction_type": "Withdrawal",
+    "amount": null,
+    "transaction_date": "2024-07-22",
+    "description": "Deleniti fugiat fugiat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000385",
+    "account_id": "ACC000280",
+    "transaction_type": "Deposit",
+    "amount": 42754.97,
+    "transaction_date": "2023-12-22",
+    "description": "Commodi cupiditate molestias.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000028",
+    "account_id": "ACC000113",
+    "transaction_type": "DEPOSIT",
+    "amount": 6911.42,
+    "transaction_date": "2023-06-25",
+    "description": "Enim laudantium consectetur.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000351",
+    "account_id": "ACC000201",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 49029.03,
+    "transaction_date": "2024-05-27",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000211",
+    "account_id": "ACC000279",
+    "transaction_type": "DEPOSIT",
+    "amount": null,
+    "transaction_date": "2023-05-22",
+    "description": "Perferendis impedit.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000349",
+    "account_id": "ACC000145",
+    "transaction_type": "deposit",
+    "amount": 13568.99,
+    "transaction_date": "2023-12-10",
+    "description": "Non debitis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000417",
+    "account_id": "ACC000046",
+    "transaction_type": "withdrawal",
+    "amount": 662067.36,
+    "transaction_date": "2024-03-17",
+    "description": "Dicta delectus veniam.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000030",
+    "account_id": "ACC000223",
+    "transaction_type": "withdrawal",
+    "amount": 14030.63,
+    "transaction_date": "2023-09-10",
+    "description": "In illum corporis.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000283",
+    "account_id": "ACC000161",
+    "transaction_type": "Withdrawal",
+    "amount": null,
+    "transaction_date": "2024-07-22",
+    "description": "Deleniti fugiat fugiat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000379",
+    "account_id": "ACC000048",
+    "transaction_type": "Deposit",
+    "amount": 45841.6,
+    "transaction_date": "2023-11-27",
+    "description": "Quibusdam dolorem quasi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000240",
+    "account_id": "ACC000277",
+    "transaction_type": "Deposit",
+    "amount": 37552.49,
+    "transaction_date": "2023-12-17",
+    "description": "Atque laboriosam repellat nihil numquam.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000201",
+    "account_id": "ACC000011",
+    "transaction_type": "deposit",
+    "amount": 12373.62,
+    "transaction_date": "2023-09-26",
+    "description": "Aliquam repellat vero nulla.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000276",
+    "account_id": "ACC000076",
+    "transaction_type": "Transfer",
+    "amount": 555.71,
+    "transaction_date": "2024-11-25",
+    "description": "Dicta eligendi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000462",
+    "account_id": "ACC000173",
+    "transaction_type": "DEPOSIT",
+    "amount": 26671.35,
+    "transaction_date": "2023-12-23",
+    "description": "Laboriosam repudiandae libero provident fugiat.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000459",
+    "account_id": "ACC000108",
+    "transaction_type": "Withdrawal",
+    "amount": 24361.76,
+    "transaction_date": "2024-06-17",
+    "description": "Saepe libero iste.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000133",
+    "account_id": "ACC000276",
+    "transaction_type": "withdrawal",
+    "amount": 10540.55,
+    "transaction_date": "2024-03-22",
+    "description": "Ratione consequuntur inventore ullam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000111",
+    "account_id": "ACC000132",
+    "transaction_type": "Withdrawal",
+    "amount": 19937.98,
+    "transaction_date": "2024-03-09",
+    "description": "Porro assumenda laboriosam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000362",
+    "account_id": "ACC000080",
+    "transaction_type": "transfer",
+    "amount": 10710.5,
+    "transaction_date": "2024-04-10",
+    "description": "Eum occaecati numquam vel.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000285",
+    "account_id": "ACC000228",
+    "transaction_type": "deposit",
+    "amount": 2403.7,
+    "transaction_date": "2023-10-28",
+    "description": "Inventore odio ullam quis nesciunt.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000282",
+    "account_id": "ACC000266",
+    "transaction_type": "Withdrawal",
+    "amount": 644848.13,
+    "transaction_date": "2024-06-26",
+    "description": "Soluta aperiam corporis unde.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000520",
+    "account_id": "ACC000166",
+    "transaction_type": "Withdrawal",
+    "amount": 46484.4,
+    "transaction_date": "2024-05-01",
+    "description": "Cupiditate veniam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000114",
+    "account_id": "ACC000023",
+    "transaction_type": "deposit",
+    "amount": 4573.43,
+    "transaction_date": "2023-09-24",
+    "description": "Facere ea.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000239",
+    "account_id": "ACC000163",
+    "transaction_type": "Deposit",
+    "amount": 29943.95,
+    "transaction_date": "2023-12-03",
+    "description": "Deserunt eveniet aperiam.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000273",
+    "account_id": "ACC000243",
+    "transaction_type": "WITHDRAWAL",
+    "amount": -45627.58,
+    "transaction_date": "2024-02-06",
+    "description": "Facilis asperiores.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000161",
+    "account_id": "ACC000074",
+    "transaction_type": "deposit",
+    "amount": 18636.22,
+    "transaction_date": "2024-05-12",
+    "description": "Quae consectetur provident sint.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000431",
+    "account_id": "ACC000103",
+    "transaction_type": "Withdrawal",
+    "amount": 32019.44,
+    "transaction_date": "2023-01-07",
+    "description": "A sit.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000588",
+    "account_id": "ACC000032",
+    "transaction_type": "withdrawal",
+    "amount": 37181.21,
+    "transaction_date": "2023-05-16",
+    "description": "Voluptate tempora ipsum quaerat tenetur.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000378",
+    "account_id": "ACC000065",
+    "transaction_type": "Withdrawal",
+    "amount": 45218.15,
+    "transaction_date": "2023-04-12",
+    "description": "Maxime voluptate.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000292",
+    "account_id": "ACC000179",
+    "transaction_type": "DEPOSIT",
+    "amount": 36443.54,
+    "transaction_date": "2024-05-16",
+    "description": "Officiis dignissimos tempora iste doloremque.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000350",
+    "account_id": "ACC000023",
+    "transaction_type": "transfer",
+    "amount": 9468.42,
+    "transaction_date": "2023-09-04",
+    "description": "Modi hic aspernatur.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000221",
+    "account_id": "ACC000127",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 10164.97,
+    "transaction_date": "2024-02-13",
+    "description": "Deleniti repellendus numquam repellat.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000358",
+    "account_id": "ACC000067",
+    "transaction_type": "transfer",
+    "amount": 48586.86,
+    "transaction_date": "2023-10-21",
+    "description": "Accusamus adipisci.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000589",
+    "account_id": "ACC000245",
+    "transaction_type": "Withdrawal",
+    "amount": 5003.68,
+    "transaction_date": "2024-10-11",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000414",
+    "account_id": "ACC000076",
+    "transaction_type": "Withdrawal",
+    "amount": 28406.61,
+    "transaction_date": "2024-06-21",
+    "description": "Praesentium ab cumque laudantium.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000085",
+    "account_id": "ACC000174",
+    "transaction_type": "deposit",
+    "amount": 5092.83,
+    "transaction_date": "2024-05-29",
+    "description": "Debitis delectus hic assumenda.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000119",
+    "account_id": "ACC000256",
+    "transaction_type": "Withdrawal",
+    "amount": 26348.17,
+    "transaction_date": "",
+    "description": "Sequi soluta nobis.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000470",
+    "account_id": "ACC000180",
+    "transaction_type": "Withdrawal",
+    "amount": 33951.55,
+    "transaction_date": "2023-02-15",
+    "description": "Hic consectetur quibusdam neque rem.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000555",
+    "account_id": "ACC000128",
+    "transaction_type": "deposit",
+    "amount": 289346.63,
+    "transaction_date": "2024-06-28",
+    "description": "Vero voluptatem blanditiis laudantium.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000494",
+    "account_id": "ACC000119",
+    "transaction_type": "DEPOSIT",
+    "amount": 31921.96,
+    "transaction_date": "2023-07-04",
+    "description": "Debitis nobis debitis.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000513",
+    "account_id": "ACC000151",
+    "transaction_type": "DEPOSIT",
+    "amount": -43723.33,
+    "transaction_date": "2023-05-01",
+    "description": "Eveniet at.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000524",
+    "account_id": "ACC000006",
+    "transaction_type": "withdrawal",
+    "amount": 28033.72,
+    "transaction_date": "2024-01-27",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000581",
+    "account_id": "ACC000015",
+    "transaction_type": "withdrawal",
+    "amount": 6514.8,
+    "transaction_date": "2023-09-21",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000002",
+    "account_id": "ACC000229",
+    "transaction_type": "WITHDRAWAL",
+    "amount": -33672.81,
+    "transaction_date": "2023-04-11",
+    "description": "Ducimus harum odit.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000011",
+    "account_id": "ACC000197",
+    "transaction_type": "withdrawal",
+    "amount": 38046.61,
+    "transaction_date": "2024-07-21",
+    "description": "Repudiandae praesentium.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000046",
+    "account_id": "ACC000274",
+    "transaction_type": "DEPOSIT",
+    "amount": 15915.49,
+    "transaction_date": "",
+    "description": "Temporibus ea repudiandae.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000092",
+    "account_id": "ACC000159",
+    "transaction_type": "transfer",
+    "amount": 11882.88,
+    "transaction_date": "2023-01-29",
+    "description": "Esse repellat nulla porro.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000088",
+    "account_id": "ACC000277",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 39803.02,
+    "transaction_date": "2023-11-04",
+    "description": "Distinctio aspernatur voluptatem.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000482",
+    "account_id": "ACC000094",
+    "transaction_type": "Withdrawal",
+    "amount": 31578.52,
+    "transaction_date": "",
+    "description": "Quod voluptatibus perferendis at.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000425",
+    "account_id": "ACC000155",
+    "transaction_type": "DEPOSIT",
+    "amount": 7044.9,
+    "transaction_date": "2024-03-02",
+    "description": "Atque minima.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000172",
+    "account_id": "ACC000065",
+    "transaction_type": "DEPOSIT",
+    "amount": 13531.07,
+    "transaction_date": "2023-09-10",
+    "description": "Reiciendis optio.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000140",
+    "account_id": "ACC000253",
+    "transaction_type": "DEPOSIT",
+    "amount": 8747.23,
+    "transaction_date": "2024-03-01",
+    "description": "Tenetur ab eius minus.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000148",
+    "account_id": "ACC000265",
+    "transaction_type": "Withdrawal",
+    "amount": -39750.91,
+    "transaction_date": "2023-05-30",
+    "description": "Sapiente ea.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000099",
+    "account_id": "ACC000186",
+    "transaction_type": "Withdrawal",
+    "amount": 45881.12,
+    "transaction_date": "2024-01-29",
+    "description": "Accusantium cumque corrupti praesentium.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000082",
+    "account_id": "ACC000183",
+    "transaction_type": "Transfer",
+    "amount": 38283.18,
+    "transaction_date": "2024-03-14",
+    "description": "Totam maiores.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000291",
+    "account_id": "ACC000114",
+    "transaction_type": "Transfer",
+    "amount": 7401.85,
+    "transaction_date": "2023-04-11",
+    "description": "Quaerat libero eaque id.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000368",
+    "account_id": "ACC000065",
+    "transaction_type": "transfer",
+    "amount": -20378.69,
+    "transaction_date": "2024-04-06",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000056",
+    "account_id": "ACC000252",
+    "transaction_type": "withdrawal",
+    "amount": null,
+    "transaction_date": "2023-10-22",
+    "description": "Ullam doloribus libero atque.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000341",
+    "account_id": "ACC000179",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 18183.68,
+    "transaction_date": "2023-04-23",
+    "description": "Odit perferendis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000300",
+    "account_id": "ACC000027",
+    "transaction_type": "Transfer",
+    "amount": 45199.55,
+    "transaction_date": "2023-05-17",
+    "description": "Facere assumenda.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000086",
+    "account_id": "ACC000136",
+    "transaction_type": "Deposit",
+    "amount": 31808.67,
+    "transaction_date": "2024-07-02",
+    "description": "Et quam quidem.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000138",
+    "account_id": "ACC000174",
+    "transaction_type": "transfer",
+    "amount": 23515.1,
+    "transaction_date": "2024-08-24",
+    "description": "Temporibus animi occaecati.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000235",
+    "account_id": "ACC000049",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 25028.84,
+    "transaction_date": "2024-08-05",
+    "description": "Ullam minus et.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000516",
+    "account_id": "ACC000049",
+    "transaction_type": "Deposit",
+    "amount": 15660.84,
+    "transaction_date": "2024-07-04",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000387",
+    "account_id": "ACC000048",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 36414.42,
+    "transaction_date": "2024-05-08",
+    "description": "Cum deserunt incidunt.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000292",
+    "account_id": "ACC000179",
+    "transaction_type": "DEPOSIT",
+    "amount": 36443.54,
+    "transaction_date": "2024-05-16",
+    "description": "Officiis dignissimos tempora iste doloremque.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000012",
+    "account_id": "ACC000099",
+    "transaction_type": "Deposit",
+    "amount": 18027.13,
+    "transaction_date": "2023-07-14",
+    "description": "Architecto in quas molestias.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000257",
+    "account_id": "ACC000022",
+    "transaction_type": "Withdrawal",
+    "amount": 412864.6,
+    "transaction_date": "2024-11-12",
+    "description": "In quam ipsam doloribus.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000375",
+    "account_id": "ACC000260",
+    "transaction_type": "DEPOSIT",
+    "amount": -35221.36,
+    "transaction_date": "2024-01-19",
+    "description": "Aspernatur consequuntur libero dicta fugiat.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000340",
+    "account_id": "ACC000113",
+    "transaction_type": "Withdrawal",
+    "amount": 26857.01,
+    "transaction_date": "",
+    "description": "Iste ducimus magni iure.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000038",
+    "account_id": "ACC000249",
+    "transaction_type": "Withdrawal",
+    "amount": 25227.94,
+    "transaction_date": "2024-01-17",
+    "description": "Iusto explicabo non.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000454",
+    "account_id": "ACC000189",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 27522.29,
+    "transaction_date": "2024-09-22",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000338",
+    "account_id": "ACC000166",
+    "transaction_type": "deposit",
+    "amount": 40751.02,
+    "transaction_date": "2023-10-13",
+    "description": "Illum quis commodi fuga.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000271",
+    "account_id": "ACC000245",
+    "transaction_type": "withdrawal",
+    "amount": 1813.76,
+    "transaction_date": "2024-12-06",
+    "description": "Numquam dolores quasi veritatis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000243",
+    "account_id": "ACC000230",
+    "transaction_type": "withdrawal",
+    "amount": 36111.52,
+    "transaction_date": "2023-09-12",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000061",
+    "account_id": "ACC000084",
+    "transaction_type": "Withdrawal",
+    "amount": 25956.72,
+    "transaction_date": "2023-12-15",
+    "description": "Omnis veritatis.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000346",
+    "account_id": "ACC000133",
+    "transaction_type": "DEPOSIT",
+    "amount": 866144.08,
+    "transaction_date": "2024-04-10",
+    "description": "Eveniet quibusdam laborum.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000533",
+    "account_id": "ACC000068",
+    "transaction_type": "DEPOSIT",
+    "amount": 41881.69,
+    "transaction_date": "2023-07-15",
+    "description": "Perspiciatis ut consequatur libero.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000055",
+    "account_id": "ACC000238",
+    "transaction_type": "withdrawal",
+    "amount": null,
+    "transaction_date": "",
+    "description": "Minima necessitatibus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000534",
+    "account_id": "ACC000091",
+    "transaction_type": "DEPOSIT",
+    "amount": 28295.49,
+    "transaction_date": "2023-10-07",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000405",
+    "account_id": "ACC000217",
+    "transaction_type": "deposit",
+    "amount": 43406.15,
+    "transaction_date": "2023-07-12",
+    "description": "Non velit corporis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000235",
+    "transaction_type": "deposit",
+    "amount": 33431.33,
+    "transaction_date": "2023-11-21",
+    "description": "Quae recusandae.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000328",
+    "account_id": "ACC000093",
+    "transaction_type": "DEPOSIT",
+    "amount": null,
+    "transaction_date": "2024-08-06",
+    "description": "Est repellendus optio.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000352",
+    "account_id": "ACC000196",
+    "transaction_type": "transfer",
+    "amount": 44835.91,
+    "transaction_date": "2023-06-03",
+    "description": "Perspiciatis corrupti.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000308",
+    "account_id": "ACC000011",
+    "transaction_type": "deposit",
+    "amount": 46185.71,
+    "transaction_date": "2023-04-23",
+    "description": "Voluptatibus veritatis sint dolorem quam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000394",
+    "account_id": "ACC000141",
+    "transaction_type": "Transfer",
+    "amount": 15957.39,
+    "transaction_date": "2024-05-20",
+    "description": "Fugit esse eligendi.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000558",
+    "account_id": "ACC000222",
+    "transaction_type": "Withdrawal",
+    "amount": 9278.12,
+    "transaction_date": "2023-03-23",
+    "description": "Magnam unde sapiente harum.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000281",
+    "account_id": "ACC000167",
+    "transaction_type": "Withdrawal",
+    "amount": 24261.15,
+    "transaction_date": "2024-08-08",
+    "description": "Velit voluptate voluptatum.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000125",
+    "account_id": "ACC000217",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 22327.58,
+    "transaction_date": "2024-09-06",
+    "description": "Quas provident quis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000426",
+    "account_id": "ACC000227",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 9250.27,
+    "transaction_date": "2023-04-09",
+    "description": "Fugiat maxime.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000363",
+    "account_id": "ACC000110",
+    "transaction_type": "Deposit",
+    "amount": 38732.86,
+    "transaction_date": "",
+    "description": "Vel blanditiis distinctio explicabo.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000313",
+    "account_id": "ACC000057",
+    "transaction_type": "DEPOSIT",
+    "amount": 16875.27,
+    "transaction_date": "2024-10-21",
+    "description": "Esse qui libero.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000280",
+    "account_id": "ACC000246",
+    "transaction_type": "DEPOSIT",
+    "amount": -33472.73,
+    "transaction_date": "2024-08-09",
+    "description": "Esse dolores repellat.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000540",
+    "account_id": "ACC000248",
+    "transaction_type": "Transfer",
+    "amount": 36574.65,
+    "transaction_date": "2024-01-18",
+    "description": "Voluptas excepturi perspiciatis rerum.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000010",
+    "account_id": "ACC000047",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 26811.67,
+    "transaction_date": "2023-11-07",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000247",
+    "transaction_type": "DEPOSIT",
+    "amount": 48059.61,
+    "transaction_date": "2023-06-21",
+    "description": "Harum tempore excepturi aliquid.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000117",
+    "account_id": "ACC000183",
+    "transaction_type": "transfer",
+    "amount": 13085.18,
+    "transaction_date": "2024-05-21",
+    "description": "Blanditiis dolore ducimus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000146",
+    "account_id": "ACC000137",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 12341.27,
+    "transaction_date": "2024-06-01",
+    "description": "Quidem cum adipisci recusandae.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000592",
+    "account_id": "ACC000258",
+    "transaction_type": "DEPOSIT",
+    "amount": 15051.9,
+    "transaction_date": "2023-10-09",
+    "description": "Aliquid necessitatibus recusandae.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000307",
+    "account_id": "ACC000066",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 49148.14,
+    "transaction_date": "2024-05-22",
+    "description": "Veniam reprehenderit quidem accusamus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000060",
+    "account_id": "ACC000186",
+    "transaction_type": "Withdrawal",
+    "amount": 41358.42,
+    "transaction_date": "2024-12-02",
+    "description": "Iste veritatis nisi ab.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000121",
+    "account_id": "ACC000232",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 31455.0,
+    "transaction_date": "2023-12-04",
+    "description": "Reiciendis vitae quidem voluptate.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000523",
+    "account_id": "ACC000188",
+    "transaction_type": "transfer",
+    "amount": 34299.84,
+    "transaction_date": "2023-12-23",
+    "description": "Quae omnis consequuntur necessitatibus eaque.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000585",
+    "account_id": "ACC000104",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 42014.86,
+    "transaction_date": "2024-06-20",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000171",
+    "account_id": "ACC000238",
+    "transaction_type": "Transfer",
+    "amount": 25480.2,
+    "transaction_date": "",
+    "description": "Quis pariatur corrupti quas.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000436",
+    "account_id": "ACC000182",
+    "transaction_type": "deposit",
+    "amount": 720337.86,
+    "transaction_date": "2024-03-31",
+    "description": "Perspiciatis doloremque laborum qui.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000249",
+    "account_id": "ACC000186",
+    "transaction_type": "Deposit",
+    "amount": 46333.29,
+    "transaction_date": "2023-02-05",
+    "description": "Et sed aperiam consectetur.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000003",
+    "account_id": "ACC000063",
+    "transaction_type": "Withdrawal",
+    "amount": 31007.92,
+    "transaction_date": "2023-08-11",
+    "description": "Temporibus placeat modi dolores.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000489",
+    "account_id": "ACC000060",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 22275.81,
+    "transaction_date": "2023-05-21",
+    "description": "Voluptatum praesentium error commodi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000149",
+    "account_id": "ACC000030",
+    "transaction_type": "DEPOSIT",
+    "amount": 21760.21,
+    "transaction_date": "2024-10-18",
+    "description": "Explicabo aliquid officiis commodi.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000197",
+    "account_id": "ACC000215",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 34651.45,
+    "transaction_date": "2023-12-10",
+    "description": "Mollitia nesciunt aut.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000114",
+    "account_id": "ACC000023",
+    "transaction_type": "deposit",
+    "amount": 4573.43,
+    "transaction_date": "2023-09-24",
+    "description": "Facere ea.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000053",
+    "account_id": "ACC000269",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 7064.43,
+    "transaction_date": "2023-08-01",
+    "description": "Sit debitis cumque.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000298",
+    "account_id": "ACC000008",
+    "transaction_type": "withdrawal",
+    "amount": 25799.07,
+    "transaction_date": "2024-12-15",
+    "description": "Inventore facilis libero earum.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000401",
+    "account_id": "ACC000268",
+    "transaction_type": "withdrawal",
+    "amount": 44401.14,
+    "transaction_date": "2024-04-02",
+    "description": "Cum quis vero quo quibusdam.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000435",
+    "account_id": "ACC000218",
+    "transaction_type": "deposit",
+    "amount": null,
+    "transaction_date": "2023-04-20",
+    "description": "Accusantium facere aliquid rem.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000164",
+    "account_id": "ACC000203",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 16328.29,
+    "transaction_date": "2024-02-24",
+    "description": "Sequi beatae fuga enim minima.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000501",
+    "account_id": "ACC000170",
+    "transaction_type": "Transfer",
+    "amount": 19836.76,
+    "transaction_date": "2023-06-15",
+    "description": "Minima voluptates explicabo modi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000441",
+    "account_id": "ACC000090",
+    "transaction_type": "Transfer",
+    "amount": 16250.6,
+    "transaction_date": "2023-08-31",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000019",
+    "account_id": "ACC000004",
+    "transaction_type": "deposit",
+    "amount": -30660.83,
+    "transaction_date": "2024-05-13",
+    "description": "Iste sit consequatur cupiditate.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000389",
+    "account_id": "ACC000140",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 39725.57,
+    "transaction_date": "2024-04-01",
+    "description": "Aspernatur voluptate id cumque.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000474",
+    "account_id": "ACC000115",
+    "transaction_type": "Transfer",
+    "amount": 19116.37,
+    "transaction_date": "2023-03-21",
+    "description": "Perspiciatis voluptates.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000230",
+    "account_id": "ACC000003",
+    "transaction_type": "Deposit",
+    "amount": 33036.02,
+    "transaction_date": "2024-03-30",
+    "description": "Voluptatibus possimus.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000528",
+    "account_id": "ACC000100",
+    "transaction_type": "Deposit",
+    "amount": 31910.16,
+    "transaction_date": "2024-07-11",
+    "description": "Esse similique veniam.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000561",
+    "account_id": "ACC000114",
+    "transaction_type": "withdrawal",
+    "amount": null,
+    "transaction_date": "2024-10-12",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000181",
+    "account_id": "ACC000253",
+    "transaction_type": "WITHDRAWAL",
+    "amount": null,
+    "transaction_date": "2023-08-15",
+    "description": "Ipsam rem non illo aliquid.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000202",
+    "account_id": "ACC000270",
+    "transaction_type": "Transfer",
+    "amount": 15323.11,
+    "transaction_date": "2024-11-07",
+    "description": "A ut laboriosam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000325",
+    "account_id": "ACC000006",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 36131.77,
+    "transaction_date": "2023-11-29",
+    "description": "Similique illum culpa beatae.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000466",
+    "account_id": "ACC000228",
+    "transaction_type": "transfer",
+    "amount": null,
+    "transaction_date": "",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000042",
+    "account_id": "ACC000176",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 43602.51,
+    "transaction_date": "2024-10-22",
+    "description": "Ea magnam ut.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000124",
+    "account_id": "ACC000068",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 7791.32,
+    "transaction_date": "2023-11-14",
+    "description": "Occaecati sit tenetur.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000483",
+    "account_id": "ACC000144",
+    "transaction_type": "Withdrawal",
+    "amount": 32505.3,
+    "transaction_date": "2024-06-04",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000036",
+    "account_id": "ACC000188",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 18263.13,
+    "transaction_date": "2024-04-21",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000479",
+    "account_id": "ACC000241",
+    "transaction_type": "Withdrawal",
+    "amount": 296631.08,
+    "transaction_date": "2024-07-21",
+    "description": "Nihil voluptas occaecati illo.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000386",
+    "account_id": "ACC000187",
+    "transaction_type": "Withdrawal",
+    "amount": 30344.93,
+    "transaction_date": "",
+    "description": "Dolores aspernatur quam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000289",
+    "account_id": "ACC000084",
+    "transaction_type": "Transfer",
+    "amount": 32314.0,
+    "transaction_date": "2024-10-25",
+    "description": "Aperiam magni quibusdam officia magni.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000153",
+    "account_id": "ACC000259",
+    "transaction_type": "Withdrawal",
+    "amount": 44526.93,
+    "transaction_date": "2023-11-08",
+    "description": "Perferendis quaerat maxime dolorum eveniet.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000190",
+    "account_id": "ACC000227",
+    "transaction_type": "Deposit",
+    "amount": 18932.02,
+    "transaction_date": "2023-05-11",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000314",
+    "account_id": "ACC000165",
+    "transaction_type": "withdrawal",
+    "amount": 16060.06,
+    "transaction_date": "2023-02-23",
+    "description": "Excepturi in placeat illo.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000407",
+    "account_id": "ACC000204",
+    "transaction_type": "Transfer",
+    "amount": 13352.38,
+    "transaction_date": "2024-03-17",
+    "description": "Blanditiis at.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000143",
+    "account_id": "ACC000057",
+    "transaction_type": "Withdrawal",
+    "amount": 35349.61,
+    "transaction_date": "2024-04-13",
+    "description": "Quod sunt assumenda modi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000256",
+    "account_id": "ACC000142",
+    "transaction_type": "Withdrawal",
+    "amount": 5548.85,
+    "transaction_date": "2023-03-29",
+    "description": "Temporibus commodi magni.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000402",
+    "account_id": "ACC000181",
+    "transaction_type": "withdrawal",
+    "amount": 38654.93,
+    "transaction_date": "2023-10-31",
+    "description": "Magni laborum porro possimus.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000397",
+    "account_id": "ACC000233",
+    "transaction_type": "transfer",
+    "amount": 38753.21,
+    "transaction_date": "2023-11-02",
+    "description": "Laudantium unde velit voluptas.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000077",
+    "account_id": "ACC000255",
+    "transaction_type": "transfer",
+    "amount": 37605.33,
+    "transaction_date": "2023-07-26",
+    "description": "Delectus occaecati at maiores voluptate.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000035",
+    "account_id": "ACC000042",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 37669.11,
+    "transaction_date": "2024-08-12",
+    "description": "Porro quae provident quasi.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000287",
+    "account_id": "ACC000217",
+    "transaction_type": "Withdrawal",
+    "amount": 30147.0,
+    "transaction_date": "2023-05-12",
+    "description": "Sed voluptas suscipit.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000510",
+    "account_id": "ACC000251",
+    "transaction_type": "transfer",
+    "amount": 34480.98,
+    "transaction_date": "2023-10-02",
+    "description": "Non in corrupti voluptatibus inventore.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000288",
+    "account_id": "ACC000074",
+    "transaction_type": "withdrawal",
+    "amount": 20062.96,
+    "transaction_date": "2024-03-11",
+    "description": "Quas quos ratione.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000399",
+    "account_id": "ACC000133",
+    "transaction_type": "Deposit",
+    "amount": -40825.77,
+    "transaction_date": "2024-12-05",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000134",
+    "account_id": "ACC000249",
+    "transaction_type": "transfer",
+    "amount": null,
+    "transaction_date": "2024-12-20",
+    "description": "Veritatis maiores placeat velit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000100",
+    "account_id": "ACC000121",
+    "transaction_type": "DEPOSIT",
+    "amount": 45498.48,
+    "transaction_date": "2023-09-19",
+    "description": "Iusto similique nesciunt dicta.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000246",
+    "account_id": "ACC000098",
+    "transaction_type": "Deposit",
+    "amount": null,
+    "transaction_date": "2024-04-25",
+    "description": "Numquam neque.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000103",
+    "account_id": "ACC000228",
+    "transaction_type": "deposit",
+    "amount": null,
+    "transaction_date": "2024-10-18",
+    "description": "Voluptatum alias id maiores quam.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000527",
+    "account_id": "ACC000091",
+    "transaction_type": "deposit",
+    "amount": 223069.58,
+    "transaction_date": "2023-06-06",
+    "description": "Eius incidunt velit.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000586",
+    "account_id": "ACC000029",
+    "transaction_type": "transfer",
+    "amount": 25420.08,
+    "transaction_date": "2024-07-04",
+    "description": "Aliquam deleniti mollitia.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000355",
+    "account_id": "ACC000255",
+    "transaction_type": "Withdrawal",
+    "amount": 10520.15,
+    "transaction_date": "2023-06-06",
+    "description": "Hic est.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000109",
+    "account_id": "ACC000145",
+    "transaction_type": "withdrawal",
+    "amount": 24758.99,
+    "transaction_date": "2024-09-06",
+    "description": "Quam hic impedit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000377",
+    "account_id": "ACC000220",
+    "transaction_type": "deposit",
+    "amount": 27831.41,
+    "transaction_date": "2024-02-07",
+    "description": "Qui eveniet eius officia.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000279",
+    "account_id": "ACC000228",
+    "transaction_type": "WITHDRAWAL",
+    "amount": null,
+    "transaction_date": "2023-10-09",
+    "description": "Fugiat ratione beatae.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000491",
+    "account_id": "ACC000019",
+    "transaction_type": "Deposit",
+    "amount": 39730.45,
+    "transaction_date": "2024-11-07",
+    "description": "Hic repellendus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000458",
+    "account_id": "ACC000258",
+    "transaction_type": "Withdrawal",
+    "amount": 43461.65,
+    "transaction_date": "2023-11-23",
+    "description": "Ab sequi et repellendus.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000493",
+    "account_id": "ACC000020",
+    "transaction_type": "Transfer",
+    "amount": 253809.01,
+    "transaction_date": "2023-08-02",
+    "description": "Quidem dignissimos omnis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000551",
+    "account_id": "ACC000060",
+    "transaction_type": "transfer",
+    "amount": 20145.0,
+    "transaction_date": "2023-09-22",
+    "description": "Cum explicabo inventore facere.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000434",
+    "account_id": "ACC000246",
+    "transaction_type": "DEPOSIT",
+    "amount": 32907.52,
+    "transaction_date": "2024-07-13",
+    "description": "Maiores optio a odit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000295",
+    "account_id": "ACC000142",
+    "transaction_type": "Transfer",
+    "amount": 22943.55,
+    "transaction_date": "2024-04-24",
+    "description": "Ducimus assumenda quibusdam eos.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000456",
+    "account_id": "ACC000067",
+    "transaction_type": "Transfer",
+    "amount": 14201.54,
+    "transaction_date": "2023-09-08",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000286",
+    "account_id": "ACC000122",
+    "transaction_type": "Deposit",
+    "amount": 30347.99,
+    "transaction_date": "2024-11-09",
+    "description": "Eos corrupti doloribus occaecati eius.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000278",
+    "account_id": "ACC000089",
+    "transaction_type": "Transfer",
+    "amount": 12325.55,
+    "transaction_date": "2023-11-06",
+    "description": "Doloribus deserunt debitis ea aut.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000498",
+    "account_id": "ACC000024",
+    "transaction_type": "DEPOSIT",
+    "amount": 19994.11,
+    "transaction_date": "2023-08-13",
+    "description": "Facilis molestias in.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000522",
+    "account_id": "ACC000143",
+    "transaction_type": "deposit",
+    "amount": 15916.9,
+    "transaction_date": "2023-08-08",
+    "description": "Nisi sed labore consectetur ab.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000268",
+    "account_id": "ACC000066",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 17077.87,
+    "transaction_date": "2023-04-29",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000318",
+    "account_id": "ACC000215",
+    "transaction_type": "DEPOSIT",
+    "amount": 49483.27,
+    "transaction_date": "2023-02-14",
+    "description": "Labore eveniet vitae.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000515",
+    "account_id": "ACC000243",
+    "transaction_type": "Deposit",
+    "amount": 36034.5,
+    "transaction_date": "2024-06-20",
+    "description": "Fugiat voluptas.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000178",
+    "account_id": "ACC000251",
+    "transaction_type": "Transfer",
+    "amount": 23878.79,
+    "transaction_date": "2024-02-28",
+    "description": "Quidem vero maxime quibusdam magnam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000254",
+    "account_id": "ACC000069",
+    "transaction_type": "withdrawal",
+    "amount": 20900.43,
+    "transaction_date": "2023-06-30",
+    "description": "Officiis perferendis ad maxime.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000509",
+    "account_id": "ACC000130",
+    "transaction_type": "Transfer",
+    "amount": 26217.94,
+    "transaction_date": "2023-03-02",
+    "description": "Quaerat natus officia.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000104",
+    "account_id": "ACC000211",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 4203.38,
+    "transaction_date": "2024-10-26",
+    "description": "Doloremque aperiam accusantium nemo.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000302",
+    "account_id": "ACC000019",
+    "transaction_type": "transfer",
+    "amount": 10951.41,
+    "transaction_date": "2024-10-20",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000488",
+    "account_id": "ACC000233",
+    "transaction_type": "DEPOSIT",
+    "amount": 47096.12,
+    "transaction_date": "2024-06-17",
+    "description": "Recusandae debitis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000013",
+    "account_id": "ACC000009",
+    "transaction_type": "Deposit",
+    "amount": 39657.68,
+    "transaction_date": "2024-04-05",
+    "description": "Iste ad amet odit.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000258",
+    "account_id": "ACC000220",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 49346.15,
+    "transaction_date": "2024-04-29",
+    "description": "Aperiam est.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000373",
+    "account_id": "ACC000052",
+    "transaction_type": "transfer",
+    "amount": 919.68,
+    "transaction_date": "2024-09-30",
+    "description": "Doloremque nulla.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000424",
+    "account_id": "ACC000155",
+    "transaction_type": "DEPOSIT",
+    "amount": 31888.53,
+    "transaction_date": "2023-04-11",
+    "description": "Pariatur ratione.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000039",
+    "account_id": "ACC000034",
+    "transaction_type": "withdrawal",
+    "amount": 22653.72,
+    "transaction_date": "2024-12-10",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000422",
+    "account_id": "ACC000180",
+    "transaction_type": "DEPOSIT",
+    "amount": 354.0,
+    "transaction_date": "2023-02-21",
+    "description": "Eius exercitationem nesciunt.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000433",
+    "account_id": "ACC000064",
+    "transaction_type": "Transfer",
+    "amount": 42101.87,
+    "transaction_date": "",
+    "description": "Eius praesentium repellendus fuga nulla.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000446",
+    "account_id": "ACC000193",
+    "transaction_type": "Withdrawal",
+    "amount": 44997.81,
+    "transaction_date": "2024-03-25",
+    "description": "Pariatur ullam odio.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000440",
+    "account_id": "ACC000082",
+    "transaction_type": "withdrawal",
+    "amount": 29266.21,
+    "transaction_date": "2023-01-31",
+    "description": "Quos quaerat adipisci libero assumenda.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000478",
+    "account_id": "ACC000216",
+    "transaction_type": "deposit",
+    "amount": 30316.73,
+    "transaction_date": "2023-05-01",
+    "description": "Veniam blanditiis maiores.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000259",
+    "account_id": "ACC000170",
+    "transaction_type": "Withdrawal",
+    "amount": null,
+    "transaction_date": "2023-02-28",
+    "description": "Maiores officiis facere nesciunt.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000051",
+    "account_id": "ACC000191",
+    "transaction_type": "Deposit",
+    "amount": 45431.5,
+    "transaction_date": "2024-03-13",
+    "description": "Aliquam explicabo quae laborum.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000451",
+    "account_id": "ACC000042",
+    "transaction_type": "transfer",
+    "amount": 35184.23,
+    "transaction_date": "2023-03-14",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000199",
+    "account_id": "ACC000038",
+    "transaction_type": "WITHDRAWAL",
+    "amount": null,
+    "transaction_date": "2023-01-07",
+    "description": "Dignissimos voluptas fuga voluptates.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000382",
+    "account_id": "ACC000063",
+    "transaction_type": "Withdrawal",
+    "amount": 1254.73,
+    "transaction_date": "2023-04-24",
+    "description": "Maxime delectus occaecati aperiam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000464",
+    "account_id": "ACC000122",
+    "transaction_type": "deposit",
+    "amount": 35989.09,
+    "transaction_date": "2024-01-26",
+    "description": "Praesentium amet sint.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000439",
+    "account_id": "ACC000270",
+    "transaction_type": "DEPOSIT",
+    "amount": 30331.51,
+    "transaction_date": "2024-06-03",
+    "description": "Non quae sit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000037",
+    "account_id": "ACC000245",
+    "transaction_type": "withdrawal",
+    "amount": 38701.42,
+    "transaction_date": "2024-07-06",
+    "description": "Asperiores nam amet.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000263",
+    "account_id": "ACC000255",
+    "transaction_type": "Withdrawal",
+    "amount": 43505.95,
+    "transaction_date": "2024-05-31",
+    "description": "In deserunt.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000305",
+    "account_id": "ACC000083",
+    "transaction_type": "deposit",
+    "amount": 26867.73,
+    "transaction_date": "2024-11-03",
+    "description": "Deleniti nobis consequuntur.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000227",
+    "account_id": "ACC000125",
+    "transaction_type": "transfer",
+    "amount": 33547.75,
+    "transaction_date": "2023-03-26",
+    "description": "Optio natus placeat.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000210",
+    "account_id": "ACC000171",
+    "transaction_type": "withdrawal",
+    "amount": 46337.64,
+    "transaction_date": "2023-02-09",
+    "description": "Officia a labore.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000326",
+    "account_id": "ACC000196",
+    "transaction_type": "DEPOSIT",
+    "amount": 26915.7,
+    "transaction_date": "2024-08-20",
+    "description": "In quia harum temporibus dignissimos.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000452",
+    "account_id": "ACC000117",
+    "transaction_type": "Deposit",
+    "amount": 24880.18,
+    "transaction_date": "",
+    "description": "Quia blanditiis facilis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000130",
+    "account_id": "ACC000041",
+    "transaction_type": "DEPOSIT",
+    "amount": 31228.14,
+    "transaction_date": "2023-07-11",
+    "description": "Doloribus repellat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000222",
+    "account_id": "ACC000153",
+    "transaction_type": "Transfer",
+    "amount": 2050.33,
+    "transaction_date": "2024-04-12",
+    "description": "Doloremque laudantium facilis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000547",
+    "account_id": "ACC000257",
+    "transaction_type": "Deposit",
+    "amount": 11162.53,
+    "transaction_date": "2024-01-13",
+    "description": "Deserunt minus tempore illum.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000142",
+    "account_id": "ACC000137",
+    "transaction_type": "deposit",
+    "amount": 24369.63,
+    "transaction_date": "2023-02-17",
+    "description": "Numquam nulla ipsam exercitationem repellat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000505",
+    "account_id": "ACC000235",
+    "transaction_type": "withdrawal",
+    "amount": 42979.22,
+    "transaction_date": "2023-01-24",
+    "description": "Eius quas in mollitia.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000312",
+    "account_id": "ACC000195",
+    "transaction_type": "Transfer",
+    "amount": 46462.01,
+    "transaction_date": "2023-04-04",
+    "description": "Ipsum nam fugiat neque.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000079",
+    "account_id": "ACC000085",
+    "transaction_type": "transfer",
+    "amount": 1739.7,
+    "transaction_date": "2023-11-07",
+    "description": "Occaecati minima enim ipsa tenetur.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000390",
+    "account_id": "ACC000018",
+    "transaction_type": "DEPOSIT",
+    "amount": 17710.48,
+    "transaction_date": "2024-04-05",
+    "description": "In non inventore culpa.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000224",
+    "account_id": "ACC000112",
+    "transaction_type": "transfer",
+    "amount": 13761.44,
+    "transaction_date": "2023-03-10",
+    "description": "Deserunt reprehenderit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000500",
+    "account_id": "ACC000266",
+    "transaction_type": "withdrawal",
+    "amount": 16731.08,
+    "transaction_date": "2023-03-06",
+    "description": "Temporibus eos modi consequuntur laudantium.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000076",
+    "account_id": "ACC000168",
+    "transaction_type": "deposit",
+    "amount": -41532.59,
+    "transaction_date": "2023-07-03",
+    "description": "Quidem repellat.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000183",
+    "account_id": "ACC000066",
+    "transaction_type": "DEPOSIT",
+    "amount": 34150.94,
+    "transaction_date": "2023-05-12",
+    "description": "Similique et.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000419",
+    "account_id": "ACC000267",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 29498.48,
+    "transaction_date": "2023-07-15",
+    "description": "Ea temporibus illum.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000031",
+    "account_id": "ACC000259",
+    "transaction_type": "Deposit",
+    "amount": 44922.76,
+    "transaction_date": "2024-04-26",
+    "description": "Voluptate doloremque iste.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000029",
+    "account_id": "ACC000268",
+    "transaction_type": "transfer",
+    "amount": 45288.35,
+    "transaction_date": "2023-08-24",
+    "description": "Nobis voluptatum eligendi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000345",
+    "account_id": "ACC000147",
+    "transaction_type": "Withdrawal",
+    "amount": 23562.21,
+    "transaction_date": "2024-10-22",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000495",
+    "account_id": "ACC000148",
+    "transaction_type": "Transfer",
+    "amount": 17920.68,
+    "transaction_date": "2023-04-26",
+    "description": "Ipsum et aliquam nemo officiis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000129",
+    "transaction_type": "withdrawal",
+    "amount": 26501.92,
+    "transaction_date": "2024-05-14",
+    "description": "Dicta deserunt eveniet esse repellendus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000059",
+    "account_id": "ACC000094",
+    "transaction_type": "Withdrawal",
+    "amount": 2530.87,
+    "transaction_date": "2023-03-20",
+    "description": "Ut autem eum adipisci itaque.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000294",
+    "account_id": "ACC000028",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 35689.81,
+    "transaction_date": "2024-08-04",
+    "description": "Esse suscipit necessitatibus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000178",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 49003.18,
+    "transaction_date": "2023-04-29",
+    "description": "Fuga accusamus.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000369",
+    "account_id": "ACC000111",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 48953.7,
+    "transaction_date": "2023-06-20",
+    "description": "Cupiditate vero nobis voluptatem possimus.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000219",
+    "account_id": "ACC000057",
+    "transaction_type": "deposit",
+    "amount": 651.25,
+    "transaction_date": "2024-02-05",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000539",
+    "account_id": "ACC000012",
+    "transaction_type": "transfer",
+    "amount": 9436.86,
+    "transaction_date": "2024-07-13",
+    "description": "In fugiat.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000577",
+    "account_id": "ACC000058",
+    "transaction_type": "deposit",
+    "amount": 21486.57,
+    "transaction_date": "2023-09-26",
+    "description": "Atque accusamus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000344",
+    "account_id": "ACC000094",
+    "transaction_type": "transfer",
+    "amount": -7149.75,
+    "transaction_date": "2024-03-02",
+    "description": "Dolorum quae.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000176",
+    "account_id": "ACC000163",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 36281.18,
+    "transaction_date": "2023-08-04",
+    "description": "Occaecati quo est officia officia.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000600",
+    "account_id": "ACC000024",
+    "transaction_type": "Transfer",
+    "amount": 12232.58,
+    "transaction_date": "2024-08-30",
+    "description": "Velit eius consequatur.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000444",
+    "account_id": "ACC000003",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 967865.87,
+    "transaction_date": "2023-02-04",
+    "description": "Voluptatibus adipisci ut eveniet.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000250",
+    "account_id": "ACC000083",
+    "transaction_type": "Deposit",
+    "amount": 47218.83,
+    "transaction_date": "2024-08-15",
+    "description": "Amet nostrum inventore aut.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000175",
+    "account_id": "ACC000274",
+    "transaction_type": "Withdrawal",
+    "amount": 42137.69,
+    "transaction_date": "2023-10-16",
+    "description": "Quasi officia sint provident.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000447",
+    "account_id": "ACC000149",
+    "transaction_type": "DEPOSIT",
+    "amount": 5984.58,
+    "transaction_date": "2023-12-05",
+    "description": "At porro sit ut.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000096",
+    "account_id": "ACC000112",
+    "transaction_type": "deposit",
+    "amount": 16531.37,
+    "transaction_date": "2023-08-30",
+    "description": "Distinctio officiis.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000270",
+    "account_id": "ACC000256",
+    "transaction_type": "transfer",
+    "amount": 558.51,
+    "transaction_date": "2023-10-31",
+    "description": "Ullam odit possimus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000173",
+    "account_id": "ACC000276",
+    "transaction_type": "Transfer",
+    "amount": 10252.5,
+    "transaction_date": "2023-06-22",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000351",
+    "account_id": "ACC000201",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 49029.03,
+    "transaction_date": "2024-05-27",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000590",
+    "account_id": "ACC000058",
+    "transaction_type": "transfer",
+    "amount": 10828.2,
+    "transaction_date": "2024-08-18",
+    "description": "Laboriosam minima.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000061",
+    "account_id": "ACC000084",
+    "transaction_type": "Withdrawal",
+    "amount": 25956.72,
+    "transaction_date": "2023-12-15",
+    "description": "Omnis veritatis.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000385",
+    "account_id": "ACC000280",
+    "transaction_type": "Deposit",
+    "amount": 42754.97,
+    "transaction_date": "2023-12-22",
+    "description": "Commodi cupiditate molestias.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000135",
+    "account_id": "ACC000222",
+    "transaction_type": "Transfer",
+    "amount": 28514.58,
+    "transaction_date": "2023-01-09",
+    "description": "Corporis ab rem velit.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000233",
+    "account_id": "ACC000055",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 10435.25,
+    "transaction_date": "",
+    "description": "Earum perspiciatis iure facere.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000110",
+    "account_id": "ACC000235",
+    "transaction_type": "Withdrawal",
+    "amount": null,
+    "transaction_date": "2023-09-12",
+    "description": "Recusandae reiciendis sapiente numquam.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000232",
+    "account_id": "ACC000263",
+    "transaction_type": "Withdrawal",
+    "amount": 39866.52,
+    "transaction_date": "2023-06-21",
+    "description": "Sequi eum.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000208",
+    "account_id": "ACC000219",
+    "transaction_type": "transfer",
+    "amount": 25989.15,
+    "transaction_date": "2024-06-08",
+    "description": "Odio voluptatem provident earum.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000097",
+    "account_id": "ACC000058",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 12789.87,
+    "transaction_date": "2024-01-19",
+    "description": "Ipsa numquam ratione.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000177",
+    "account_id": "ACC000169",
+    "transaction_type": "Deposit",
+    "amount": 12371.82,
+    "transaction_date": "2024-04-15",
+    "description": "Deserunt nulla.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000248",
+    "account_id": "ACC000179",
+    "transaction_type": "transfer",
+    "amount": 46613.26,
+    "transaction_date": "2023-09-19",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000247",
+    "account_id": "ACC000158",
+    "transaction_type": "Withdrawal",
+    "amount": 20287.31,
+    "transaction_date": "2024-01-18",
+    "description": "Voluptate totam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000006",
+    "account_id": "ACC000103",
+    "transaction_type": "Transfer",
+    "amount": 12986.11,
+    "transaction_date": "2023-03-13",
+    "description": "Distinctio tempora totam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000333",
+    "account_id": "ACC000219",
+    "transaction_type": "Transfer",
+    "amount": 25625.97,
+    "transaction_date": "2023-08-18",
+    "description": "Expedita sapiente recusandae hic.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000594",
+    "account_id": "ACC000119",
+    "transaction_type": "withdrawal",
+    "amount": 17187.34,
+    "transaction_date": "2023-07-18",
+    "description": "Qui id placeat.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000083",
+    "account_id": "ACC000087",
+    "transaction_type": "Deposit",
+    "amount": 15673.77,
+    "transaction_date": "2023-11-09",
+    "description": "Incidunt atque optio necessitatibus ducimus.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000122",
+    "account_id": "ACC000029",
+    "transaction_type": "Withdrawal",
+    "amount": 6553.08,
+    "transaction_date": "2023-10-17",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000543",
+    "account_id": "ACC000089",
+    "transaction_type": "DEPOSIT",
+    "amount": -22989.8,
+    "transaction_date": "2023-06-01",
+    "description": "Ullam ut vero.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000320",
+    "account_id": "ACC000032",
+    "transaction_type": "withdrawal",
+    "amount": 8430.06,
+    "transaction_date": "2023-10-24",
+    "description": "Repudiandae nobis.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000354",
+    "account_id": "ACC000185",
+    "transaction_type": "Transfer",
+    "amount": 32604.61,
+    "transaction_date": "2023-05-15",
+    "description": "Possimus saepe repellat odit.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000094",
+    "account_id": "ACC000047",
+    "transaction_type": "Transfer",
+    "amount": 15763.85,
+    "transaction_date": "2024-02-21",
+    "description": "Rem assumenda consequatur deleniti.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000507",
+    "account_id": "ACC000204",
+    "transaction_type": "withdrawal",
+    "amount": 38158.75,
+    "transaction_date": "2024-08-14",
+    "description": "Velit perspiciatis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000025",
+    "account_id": "ACC000167",
+    "transaction_type": "withdrawal",
+    "amount": 44764.45,
+    "transaction_date": "2023-11-30",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000198",
+    "account_id": "ACC000110",
+    "transaction_type": "withdrawal",
+    "amount": 24846.94,
+    "transaction_date": "2024-12-10",
+    "description": "Officiis commodi necessitatibus ipsum sed.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000365",
+    "account_id": "ACC000220",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 33515.26,
+    "transaction_date": "2023-04-05",
+    "description": "Itaque architecto repellendus.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000553",
+    "account_id": "ACC000238",
+    "transaction_type": "DEPOSIT",
+    "amount": null,
+    "transaction_date": "2024-04-10",
+    "description": "Quia tempore cum dicta.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000475",
+    "account_id": "ACC000151",
+    "transaction_type": "withdrawal",
+    "amount": 30394.39,
+    "transaction_date": "2023-11-21",
+    "description": "Fugiat voluptatem perspiciatis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000217",
+    "account_id": "ACC000048",
+    "transaction_type": "deposit",
+    "amount": 23791.4,
+    "transaction_date": "2024-10-16",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000512",
+    "account_id": "ACC000218",
+    "transaction_type": "transfer",
+    "amount": 6161.74,
+    "transaction_date": "2023-04-27",
+    "description": "Commodi beatae molestias.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000051",
+    "transaction_type": "withdrawal",
+    "amount": 35819.0,
+    "transaction_date": "2024-07-04",
+    "description": "At sequi cum quod.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000137",
+    "account_id": "ACC000178",
+    "transaction_type": "transfer",
+    "amount": 27707.46,
+    "transaction_date": "",
+    "description": "Ipsa hic alias.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000296",
+    "account_id": "ACC000047",
+    "transaction_type": "Withdrawal",
+    "amount": 15328.85,
+    "transaction_date": "2024-02-21",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000467",
+    "account_id": "ACC000041",
+    "transaction_type": "DEPOSIT",
+    "amount": 24062.37,
+    "transaction_date": "2023-03-01",
+    "description": "Voluptatibus molestias excepturi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000484",
+    "account_id": "ACC000197",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 44875.35,
+    "transaction_date": "2024-03-12",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000476",
+    "account_id": "ACC000210",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 22845.48,
+    "transaction_date": "2023-09-04",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000237",
+    "account_id": "ACC000120",
+    "transaction_type": "Deposit",
+    "amount": 25600.2,
+    "transaction_date": "2024-12-22",
+    "description": "Voluptatem incidunt asperiores.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000169",
+    "account_id": "ACC000031",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 9215.18,
+    "transaction_date": "2024-02-22",
+    "description": "Nemo natus tempore quos.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000537",
+    "account_id": "ACC000060",
+    "transaction_type": "deposit",
+    "amount": 4628.8,
+    "transaction_date": "2024-04-23",
+    "description": "Placeat aliquam ipsum cumque ut.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000568",
+    "account_id": "ACC000275",
+    "transaction_type": "Transfer",
+    "amount": 5371.37,
+    "transaction_date": "2024-10-13",
+    "description": "Deleniti sequi occaecati.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000129",
+    "account_id": "ACC000214",
+    "transaction_type": "DEPOSIT",
+    "amount": 37051.76,
+    "transaction_date": "2024-02-07",
+    "description": "Commodi dicta voluptas.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000372",
+    "account_id": "ACC000146",
+    "transaction_type": "Withdrawal",
+    "amount": 21850.22,
+    "transaction_date": "2024-11-27",
+    "description": "Ipsum maiores quia magnam provident.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000413",
+    "account_id": "ACC000001",
+    "transaction_type": "transfer",
+    "amount": -8619.18,
+    "transaction_date": "2023-12-27",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000054",
+    "account_id": "ACC000071",
+    "transaction_type": "withdrawal",
+    "amount": 430.28,
+    "transaction_date": "2023-06-29",
+    "description": "Reprehenderit natus optio distinctio voluptatum.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000145",
+    "account_id": "ACC000071",
+    "transaction_type": "Withdrawal",
+    "amount": 24969.71,
+    "transaction_date": "2024-01-08",
+    "description": "Distinctio maiores est.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000376",
+    "account_id": "ACC000192",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 927247.24,
+    "transaction_date": "2023-01-27",
+    "description": "Dolores quas.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000049",
+    "account_id": "ACC000029",
+    "transaction_type": "withdrawal",
+    "amount": 1337.3,
+    "transaction_date": "2024-01-01",
+    "description": "Amet corrupti dolorem alias.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000043",
+    "account_id": "ACC000134",
+    "transaction_type": "withdrawal",
+    "amount": 22318.29,
+    "transaction_date": "2023-11-10",
+    "description": "Consequatur et minus consequuntur.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000567",
+    "account_id": "ACC000112",
+    "transaction_type": "Transfer",
+    "amount": 38367.04,
+    "transaction_date": "2024-07-17",
+    "description": "Praesentium magnam.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000531",
+    "account_id": "ACC000045",
+    "transaction_type": "transfer",
+    "amount": 15627.11,
+    "transaction_date": "2024-04-22",
+    "description": "Velit cumque animi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000067",
+    "account_id": "ACC000124",
+    "transaction_type": "Withdrawal",
+    "amount": 47098.06,
+    "transaction_date": "2023-06-14",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000264",
+    "account_id": "ACC000125",
+    "transaction_type": "withdrawal",
+    "amount": 8485.84,
+    "transaction_date": "2024-11-09",
+    "description": "Odit dicta architecto.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000113",
+    "account_id": "ACC000134",
+    "transaction_type": "deposit",
+    "amount": 33595.97,
+    "transaction_date": "2023-02-12",
+    "description": "Velit laudantium doloremque nam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000065",
+    "account_id": "ACC000017",
+    "transaction_type": "Deposit",
+    "amount": 3978.99,
+    "transaction_date": "2023-02-13",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000101",
+    "account_id": "ACC000042",
+    "transaction_type": "transfer",
+    "amount": 15927.5,
+    "transaction_date": "2023-02-04",
+    "description": "Repudiandae hic ex aut sed.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000293",
+    "account_id": "ACC000273",
+    "transaction_type": "Transfer",
+    "amount": 15968.02,
+    "transaction_date": "2024-11-25",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000253",
+    "account_id": "ACC000087",
+    "transaction_type": "transfer",
+    "amount": null,
+    "transaction_date": "2024-12-16",
+    "description": "Ab fugit recusandae sunt nulla.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000578",
+    "account_id": "ACC000235",
+    "transaction_type": "transfer",
+    "amount": 39798.1,
+    "transaction_date": "2024-10-19",
+    "description": "Quo consectetur facere repellat quia.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000584",
+    "account_id": "ACC000062",
+    "transaction_type": "withdrawal",
+    "amount": 17184.11,
+    "transaction_date": "2023-10-12",
+    "description": "Nulla error labore quis modi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000315",
+    "account_id": "ACC000007",
+    "transaction_type": "deposit",
+    "amount": 9323.52,
+    "transaction_date": "2023-11-08",
+    "description": "Error nesciunt necessitatibus adipisci consequuntur.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000188",
+    "account_id": "ACC000127",
+    "transaction_type": "Withdrawal",
+    "amount": 40422.15,
+    "transaction_date": "2023-12-09",
+    "description": "Veritatis perspiciatis animi.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000361",
+    "account_id": "ACC000103",
+    "transaction_type": "Transfer",
+    "amount": 5545.04,
+    "transaction_date": "2024-02-11",
+    "description": "Quam aliquid maiores.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000416",
+    "account_id": "ACC000139",
+    "transaction_type": "Deposit",
+    "amount": 38748.86,
+    "transaction_date": "2024-09-02",
+    "description": "Impedit enim inventore debitis delectus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000409",
+    "account_id": "ACC000028",
+    "transaction_type": "Deposit",
+    "amount": 5548.31,
+    "transaction_date": "2023-04-24",
+    "description": "Soluta cumque incidunt.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000132",
+    "account_id": "ACC000008",
+    "transaction_type": "withdrawal",
+    "amount": 48160.77,
+    "transaction_date": "",
+    "description": "Facere pariatur corrupti quidem.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000366",
+    "account_id": "ACC000200",
+    "transaction_type": "Deposit",
+    "amount": 24133.1,
+    "transaction_date": "2024-12-14",
+    "description": "Fuga architecto dolor error nisi.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000347",
+    "account_id": "ACC000029",
+    "transaction_type": "withdrawal",
+    "amount": 26122.9,
+    "transaction_date": "2023-08-05",
+    "description": "Assumenda omnis.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000160",
+    "account_id": "ACC000057",
+    "transaction_type": "Withdrawal",
+    "amount": 47209.07,
+    "transaction_date": "2024-09-08",
+    "description": "Quasi impedit cum magni.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000001",
+    "account_id": "ACC000267",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 38680.24,
+    "transaction_date": "2024-08-25",
+    "description": "Alias qui reiciendis amet totam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000327",
+    "account_id": "ACC000119",
+    "transaction_type": "Transfer",
+    "amount": 11109.89,
+    "transaction_date": "2024-02-09",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000309",
+    "account_id": "ACC000223",
+    "transaction_type": "transfer",
+    "amount": 2696.79,
+    "transaction_date": "2024-09-03",
+    "description": "Labore maiores ratione.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000570",
+    "account_id": "ACC000015",
+    "transaction_type": "withdrawal",
+    "amount": 19229.34,
+    "transaction_date": "2024-02-25",
+    "description": "Ut incidunt nulla.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000497",
+    "account_id": "ACC000166",
+    "transaction_type": "DEPOSIT",
+    "amount": 11819.52,
+    "transaction_date": "2024-02-23",
+    "description": "Assumenda commodi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000275",
+    "account_id": "ACC000150",
+    "transaction_type": "deposit",
+    "amount": 15273.29,
+    "transaction_date": "2024-03-28",
+    "description": "Deserunt nesciunt quisquam aliquam.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000393",
+    "account_id": "ACC000143",
+    "transaction_type": "Withdrawal",
+    "amount": 28125.87,
+    "transaction_date": "2024-06-23",
+    "description": "Nisi corrupti quas.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000238",
+    "account_id": "ACC000152",
+    "transaction_type": "withdrawal",
+    "amount": 21482.04,
+    "transaction_date": "2023-05-21",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000244",
+    "account_id": "ACC000222",
+    "transaction_type": "deposit",
+    "amount": 19972.4,
+    "transaction_date": "2024-06-01",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000490",
+    "account_id": "ACC000038",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 16423.07,
+    "transaction_date": "2024-10-07",
+    "description": "Aperiam tenetur recusandae delectus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000432",
+    "account_id": "ACC000029",
+    "transaction_type": "Withdrawal",
+    "amount": 4933.5,
+    "transaction_date": "2024-06-01",
+    "description": "Quam suscipit consequuntur nobis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000403",
+    "account_id": "ACC000198",
+    "transaction_type": "withdrawal",
+    "amount": 3849.71,
+    "transaction_date": "2024-11-17",
+    "description": "Unde quasi doloribus alias.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000473",
+    "account_id": "ACC000177",
+    "transaction_type": "withdrawal",
+    "amount": 5400.98,
+    "transaction_date": "2024-06-04",
+    "description": "Facere sequi.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000115",
+    "account_id": "ACC000136",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 46319.23,
+    "transaction_date": "2024-09-19",
+    "description": "Cupiditate similique magnam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000179",
+    "account_id": "ACC000181",
+    "transaction_type": "Transfer",
+    "amount": 26978.6,
+    "transaction_date": "2024-03-31",
+    "description": "Blanditiis vel.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000008",
+    "account_id": "ACC000078",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 7527.83,
+    "transaction_date": "2024-11-11",
+    "description": "Reprehenderit velit.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000437",
+    "account_id": "ACC000269",
+    "transaction_type": "Transfer",
+    "amount": 17951.61,
+    "transaction_date": "2023-12-24",
+    "description": "Expedita vel.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000392",
+    "account_id": "ACC000006",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 18645.85,
+    "transaction_date": "2023-01-10",
+    "description": "Accusantium fugit sequi quis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000087",
+    "account_id": "ACC000140",
+    "transaction_type": "Withdrawal",
+    "amount": 37170.11,
+    "transaction_date": "2023-04-08",
+    "description": "Numquam eaque vitae sit.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000269",
+    "account_id": "ACC000187",
+    "transaction_type": "deposit",
+    "amount": 29543.98,
+    "transaction_date": "2024-03-09",
+    "description": "Cum iste ratione aliquam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000307",
+    "account_id": "ACC000066",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 49148.14,
+    "transaction_date": "2024-05-22",
+    "description": "Veniam reprehenderit quidem accusamus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000529",
+    "account_id": "ACC000207",
+    "transaction_type": "Transfer",
+    "amount": 8543.76,
+    "transaction_date": "2024-01-11",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000277",
+    "account_id": "ACC000264",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 4892.78,
+    "transaction_date": "2023-02-23",
+    "description": "Suscipit quaerat excepturi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000423",
+    "account_id": "ACC000042",
+    "transaction_type": "DEPOSIT",
+    "amount": 7836.35,
+    "transaction_date": "2023-07-21",
+    "description": "Laborum quis ab eaque.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000209",
+    "account_id": "ACC000043",
+    "transaction_type": "DEPOSIT",
+    "amount": 553350.8,
+    "transaction_date": "2023-03-19",
+    "description": "Exercitationem itaque nobis accusamus.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000074",
+    "account_id": "ACC000140",
+    "transaction_type": "Transfer",
+    "amount": 41921.65,
+    "transaction_date": "2024-12-31",
+    "description": "Ipsum harum eaque nobis.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000018",
+    "account_id": "ACC000225",
+    "transaction_type": "withdrawal",
+    "amount": 13767.28,
+    "transaction_date": "2024-01-14",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000404",
+    "account_id": "ACC000079",
+    "transaction_type": "Withdrawal",
+    "amount": 25744.97,
+    "transaction_date": "2024-12-26",
+    "description": "Occaecati perspiciatis possimus officia.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000058",
+    "account_id": "ACC000084",
+    "transaction_type": "Deposit",
+    "amount": 8226.08,
+    "transaction_date": "2024-12-10",
+    "description": "Ad perspiciatis perspiciatis hic.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000170",
+    "account_id": "ACC000062",
+    "transaction_type": "Deposit",
+    "amount": 16070.07,
+    "transaction_date": "2024-01-20",
+    "description": "Rerum rerum consequatur consequuntur.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000492",
+    "account_id": "ACC000145",
+    "transaction_type": "deposit",
+    "amount": 33700.05,
+    "transaction_date": "2023-07-11",
+    "description": "Laborum maxime nesciunt quae ratione.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000015",
+    "account_id": "ACC000067",
+    "transaction_type": "Deposit",
+    "amount": 7165.36,
+    "transaction_date": "2024-09-25",
+    "description": "Ipsam odit a dicta esse.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000165",
+    "account_id": "ACC000159",
+    "transaction_type": "Withdrawal",
+    "amount": 13941.02,
+    "transaction_date": "2023-01-26",
+    "description": "Fuga voluptatibus esse.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000319",
+    "account_id": "ACC000035",
+    "transaction_type": "transfer",
+    "amount": 48758.8,
+    "transaction_date": "2023-05-01",
+    "description": "At aut mollitia.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000136",
+    "account_id": "ACC000250",
+    "transaction_type": "withdrawal",
+    "amount": 519744.3,
+    "transaction_date": "2024-09-18",
+    "description": "Excepturi illo.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000192",
+    "account_id": "ACC000014",
+    "transaction_type": "transfer",
+    "amount": 19257.61,
+    "transaction_date": "2024-09-26",
+    "description": "Impedit eveniet fugiat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000321",
+    "account_id": "ACC000200",
+    "transaction_type": "Transfer",
+    "amount": 48579.77,
+    "transaction_date": "2024-01-29",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000514",
+    "account_id": "ACC000191",
+    "transaction_type": "DEPOSIT",
+    "amount": 8380.69,
+    "transaction_date": "2024-09-20",
+    "description": "Quod corporis reiciendis earum.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000530",
+    "account_id": "ACC000102",
+    "transaction_type": "Transfer",
+    "amount": 7460.95,
+    "transaction_date": "2023-02-15",
+    "description": "Quo sapiente odio asperiores.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000105",
+    "account_id": "ACC000189",
+    "transaction_type": "deposit",
+    "amount": 34404.6,
+    "transaction_date": "2023-07-23",
+    "description": "Aperiam tempora impedit labore libero.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000255",
+    "account_id": "ACC000099",
+    "transaction_type": "DEPOSIT",
+    "amount": 40737.09,
+    "transaction_date": "2023-07-07",
+    "description": "Deserunt aut nisi architecto ratione.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000016",
+    "account_id": "ACC000113",
+    "transaction_type": "Withdrawal",
+    "amount": 22863.61,
+    "transaction_date": "2023-04-19",
+    "description": "Aspernatur culpa maiores voluptas rerum.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000550",
+    "account_id": "ACC000260",
+    "transaction_type": "Transfer",
+    "amount": 32827.84,
+    "transaction_date": "",
+    "description": "Voluptatibus omnis.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000057",
+    "account_id": "ACC000244",
+    "transaction_type": "Withdrawal",
+    "amount": 29984.68,
+    "transaction_date": "2024-03-22",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000574",
+    "account_id": "ACC000036",
+    "transaction_type": "Deposit",
+    "amount": 40203.98,
+    "transaction_date": "2023-06-13",
+    "description": "Doloribus tempora delectus a.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000093",
+    "account_id": "ACC000091",
+    "transaction_type": "Deposit",
+    "amount": -10179.33,
+    "transaction_date": "2023-10-12",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000343",
+    "account_id": "ACC000038",
+    "transaction_type": "transfer",
+    "amount": 971930.55,
+    "transaction_date": "2024-12-19",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000460",
+    "account_id": "ACC000018",
+    "transaction_type": "DEPOSIT",
+    "amount": 34947.26,
+    "transaction_date": "2023-04-27",
+    "description": "Eligendi quia sed repudiandae alias.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000569",
+    "account_id": "ACC000002",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 41324.31,
+    "transaction_date": "2023-07-01",
+    "description": "Dolorem consequatur alias.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000408",
+    "account_id": "ACC000207",
+    "transaction_type": "deposit",
+    "amount": 2551.81,
+    "transaction_date": "2023-07-18",
+    "description": "Id nesciunt tempore maxime.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000597",
+    "account_id": "ACC000218",
+    "transaction_type": "Transfer",
+    "amount": 18602.48,
+    "transaction_date": "",
+    "description": "Possimus sunt ratione iste provident.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000089",
+    "account_id": "ACC000096",
+    "transaction_type": "transfer",
+    "amount": 33610.86,
+    "transaction_date": "2024-10-04",
+    "description": "Sit autem modi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000215",
+    "account_id": "ACC000276",
+    "transaction_type": "DEPOSIT",
+    "amount": 17057.13,
+    "transaction_date": "",
+    "description": "Harum saepe repellat voluptates.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000081",
+    "account_id": "ACC000024",
+    "transaction_type": "deposit",
+    "amount": 30885.29,
+    "transaction_date": "2023-11-25",
+    "description": "Minima eos aliquid.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000455",
+    "account_id": "ACC000008",
+    "transaction_type": "withdrawal",
+    "amount": 530452.39,
+    "transaction_date": "2024-07-03",
+    "description": "Deleniti harum incidunt quo reiciendis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000317",
+    "account_id": "ACC000051",
+    "transaction_type": "Withdrawal",
+    "amount": 48419.68,
+    "transaction_date": "2023-07-17",
+    "description": "Voluptatem dignissimos hic modi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000191",
+    "account_id": "ACC000211",
+    "transaction_type": "withdrawal",
+    "amount": 2883.92,
+    "transaction_date": "2024-02-16",
+    "description": "Delectus quae error atque.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000151",
+    "account_id": "ACC000102",
+    "transaction_type": "DEPOSIT",
+    "amount": 32636.65,
+    "transaction_date": "2024-10-26",
+    "description": "Rem voluptates natus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000554",
+    "account_id": "ACC000013",
+    "transaction_type": "DEPOSIT",
+    "amount": 44469.38,
+    "transaction_date": "2023-12-12",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000487",
+    "account_id": "ACC000100",
+    "transaction_type": "Deposit",
+    "amount": 922033.04,
+    "transaction_date": "2024-07-06",
+    "description": "Dolore nesciunt voluptates laboriosam possimus.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000453",
+    "account_id": "ACC000027",
+    "transaction_type": "Transfer",
+    "amount": 26755.87,
+    "transaction_date": "2023-01-19",
+    "description": "Veritatis nemo a aperiam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000306",
+    "account_id": "ACC000170",
+    "transaction_type": "Deposit",
+    "amount": 10003.38,
+    "transaction_date": "2024-02-09",
+    "description": "Totam ab error reprehenderit quos.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000032",
+    "account_id": "ACC000209",
+    "transaction_type": "withdrawal",
+    "amount": 41082.44,
+    "transaction_date": "2024-07-25",
+    "description": "Fuga placeat itaque.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000583",
+    "account_id": "ACC000247",
+    "transaction_type": "deposit",
+    "amount": 18780.69,
+    "transaction_date": "2023-06-23",
+    "description": "Deserunt ipsum atque.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000391",
+    "account_id": "ACC000166",
+    "transaction_type": "Transfer",
+    "amount": 47523.87,
+    "transaction_date": "2023-04-28",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000241",
+    "account_id": "ACC000227",
+    "transaction_type": "Deposit",
+    "amount": 34844.27,
+    "transaction_date": "2024-06-17",
+    "description": "Saepe doloribus labore vero.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000356",
+    "account_id": "ACC000161",
+    "transaction_type": "deposit",
+    "amount": 43389.93,
+    "transaction_date": "2024-05-25",
+    "description": "Nisi aliquid.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000072",
+    "account_id": "ACC000054",
+    "transaction_type": "Transfer",
+    "amount": -46960.19,
+    "transaction_date": "2024-11-21",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000080",
+    "account_id": "ACC000244",
+    "transaction_type": "deposit",
+    "amount": 28485.88,
+    "transaction_date": "2024-07-06",
+    "description": "Error voluptates placeat error.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000536",
+    "account_id": "ACC000107",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 10612.07,
+    "transaction_date": "2024-11-29",
+    "description": "Praesentium quibusdam doloribus qui.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000066",
+    "account_id": "ACC000103",
+    "transaction_type": "deposit",
+    "amount": 33412.56,
+    "transaction_date": "",
+    "description": "Id debitis.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000005",
+    "account_id": "ACC000038",
+    "transaction_type": "DEPOSIT",
+    "amount": 38491.02,
+    "transaction_date": "2023-11-28",
+    "description": "Error vel quidem.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000572",
+    "account_id": "ACC000123",
+    "transaction_type": "deposit",
+    "amount": 19528.04,
+    "transaction_date": "2023-06-15",
+    "description": "Esse odio doloremque excepturi laboriosam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000155",
+    "account_id": "ACC000120",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 28323.3,
+    "transaction_date": "2024-06-30",
+    "description": "Aspernatur aperiam suscipit labore.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000128",
+    "account_id": "ACC000130",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 45873.37,
+    "transaction_date": "2024-02-27",
+    "description": "Quasi aut officia ex.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000073",
+    "account_id": "ACC000102",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 19801.09,
+    "transaction_date": "2023-06-22",
+    "description": "Rerum maiores.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000591",
+    "account_id": "ACC000253",
+    "transaction_type": "deposit",
+    "amount": 37801.6,
+    "transaction_date": "2024-02-21",
+    "description": "Ratione cumque earum voluptas.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000166",
+    "account_id": "ACC000258",
+    "transaction_type": "Deposit",
+    "amount": 28885.09,
+    "transaction_date": "2023-07-13",
+    "description": "Adipisci corporis quos in.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000332",
+    "account_id": "ACC000137",
+    "transaction_type": "Withdrawal",
+    "amount": null,
+    "transaction_date": "2023-09-07",
+    "description": "Sunt itaque nemo qui enim.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000374",
+    "account_id": "ACC000241",
+    "transaction_type": "Withdrawal",
+    "amount": 10672.37,
+    "transaction_date": "2023-04-28",
+    "description": "Est qui quidem.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000141",
+    "account_id": "ACC000033",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 44057.21,
+    "transaction_date": "2024-05-30",
+    "description": "Praesentium ipsum dignissimos.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000548",
+    "account_id": "ACC000174",
+    "transaction_type": "Transfer",
+    "amount": 11580.67,
+    "transaction_date": "2023-11-06",
+    "description": "Ab quo dolorum iusto.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000242",
+    "account_id": "ACC000105",
+    "transaction_type": "withdrawal",
+    "amount": 31754.91,
+    "transaction_date": "2023-04-04",
+    "description": "Reprehenderit maxime.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000200",
+    "account_id": "ACC000146",
+    "transaction_type": "deposit",
+    "amount": 31603.6,
+    "transaction_date": "2023-01-31",
+    "description": "Modi incidunt tenetur.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000415",
+    "account_id": "ACC000235",
+    "transaction_type": "Deposit",
+    "amount": 36767.27,
+    "transaction_date": "2024-05-13",
+    "description": "Architecto possimus.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000330",
+    "account_id": "ACC000023",
+    "transaction_type": "deposit",
+    "amount": -30204.35,
+    "transaction_date": "2023-01-14",
+    "description": "Quaerat itaque dicta voluptatibus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000430",
+    "account_id": "ACC000265",
+    "transaction_type": "deposit",
+    "amount": 37049.6,
+    "transaction_date": "2023-02-24",
+    "description": "Voluptate sit.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000044",
+    "account_id": "ACC000275",
+    "transaction_type": "DEPOSIT",
+    "amount": 7502.08,
+    "transaction_date": "2024-09-25",
+    "description": "Et voluptatem.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000360",
+    "account_id": "ACC000237",
+    "transaction_type": "Withdrawal",
+    "amount": 14603.96,
+    "transaction_date": "2023-03-16",
+    "description": "Dolore sunt.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000118",
+    "account_id": "ACC000261",
+    "transaction_type": "DEPOSIT",
+    "amount": 6270.35,
+    "transaction_date": "2023-07-04",
+    "description": "Quos quo quo nam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000154",
+    "account_id": "ACC000003",
+    "transaction_type": "transfer",
+    "amount": 17788.22,
+    "transaction_date": "2023-05-08",
+    "description": "Deserunt quod iste corporis incidunt.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000334",
+    "account_id": "ACC000057",
+    "transaction_type": "withdrawal",
+    "amount": 19298.72,
+    "transaction_date": "2023-04-26",
+    "description": "Impedit debitis nulla.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000223",
+    "account_id": "ACC000094",
+    "transaction_type": "Withdrawal",
+    "amount": 9060.95,
+    "transaction_date": "2024-01-29",
+    "description": "Laudantium provident non.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000037",
+    "transaction_type": "Transfer",
+    "amount": 39513.95,
+    "transaction_date": "2024-10-10",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000429",
+    "account_id": "ACC000050",
+    "transaction_type": "DEPOSIT",
+    "amount": 23065.02,
+    "transaction_date": "2024-10-27",
+    "description": "Velit pariatur fugiat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000159",
+    "account_id": "ACC000263",
+    "transaction_type": "Withdrawal",
+    "amount": 41208.21,
+    "transaction_date": "2024-12-29",
+    "description": null,
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000156",
+    "account_id": "ACC000265",
+    "transaction_type": "withdrawal",
+    "amount": 33654.45,
+    "transaction_date": "2023-09-11",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000503",
+    "account_id": "ACC000068",
+    "transaction_type": "DEPOSIT",
+    "amount": 12440.71,
+    "transaction_date": "2024-01-22",
+    "description": "Deleniti error.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000052",
+    "account_id": "ACC000148",
+    "transaction_type": "deposit",
+    "amount": 4471.17,
+    "transaction_date": "2024-03-01",
+    "description": "Beatae quaerat corporis expedita.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000481",
+    "account_id": "ACC000056",
+    "transaction_type": "Deposit",
+    "amount": 6039.58,
+    "transaction_date": "2024-08-28",
+    "description": "Porro veritatis officiis.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000216",
+    "account_id": "ACC000201",
+    "transaction_type": "Transfer",
+    "amount": 7769.19,
+    "transaction_date": "2024-10-06",
+    "description": "Iure vel ipsam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000546",
+    "account_id": "ACC000274",
+    "transaction_type": "Withdrawal",
+    "amount": 44911.26,
+    "transaction_date": "2024-03-10",
+    "description": "Tempora delectus explicabo aut.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000557",
+    "account_id": "ACC000041",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 48844.48,
+    "transaction_date": "2024-01-27",
+    "description": "Reiciendis quaerat eveniet quisquam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000004",
+    "account_id": "ACC000151",
+    "transaction_type": "transfer",
+    "amount": 28346.83,
+    "transaction_date": "2024-12-13",
+    "description": "Harum tenetur hic voluptate.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000549",
+    "account_id": "ACC000204",
+    "transaction_type": "Withdrawal",
+    "amount": 33796.12,
+    "transaction_date": "2024-03-07",
+    "description": "Error incidunt delectus repellat.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000598",
+    "account_id": "ACC000010",
+    "transaction_type": "withdrawal",
+    "amount": 48437.13,
+    "transaction_date": "2024-04-12",
+    "description": "Ea sequi eos eaque blanditiis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000058",
+    "account_id": "ACC000084",
+    "transaction_type": "Deposit",
+    "amount": 8226.08,
+    "transaction_date": "2024-12-10",
+    "description": "Ad perspiciatis perspiciatis hic.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000185",
+    "transaction_type": "Deposit",
+    "amount": 20715.02,
+    "transaction_date": "2023-11-26",
+    "description": "Maxime omnis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000521",
+    "account_id": "ACC000202",
+    "transaction_type": "Transfer",
+    "amount": 21327.75,
+    "transaction_date": "2023-05-01",
+    "description": "Debitis rem perspiciatis ratione.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000245",
+    "account_id": "ACC000079",
+    "transaction_type": "deposit",
+    "amount": 21427.12,
+    "transaction_date": "2023-11-04",
+    "description": "Velit quod nulla.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000185",
+    "account_id": "ACC000266",
+    "transaction_type": "transfer",
+    "amount": 2687.95,
+    "transaction_date": "2024-02-21",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000506",
+    "account_id": "ACC000146",
+    "transaction_type": "withdrawal",
+    "amount": 14632.81,
+    "transaction_date": "2024-07-28",
+    "description": "Fugit temporibus id.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000410",
+    "account_id": "ACC000113",
+    "transaction_type": "DEPOSIT",
+    "amount": 11400.6,
+    "transaction_date": "2024-02-06",
+    "description": "Magnam modi suscipit.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000047",
+    "account_id": "ACC000170",
+    "transaction_type": "DEPOSIT",
+    "amount": 47394.67,
+    "transaction_date": "2024-07-13",
+    "description": "Maxime ipsa cumque.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000556",
+    "account_id": "ACC000125",
+    "transaction_type": "transfer",
+    "amount": 24723.17,
+    "transaction_date": "2024-04-14",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000098",
+    "account_id": "ACC000011",
+    "transaction_type": "Deposit",
+    "amount": 43983.73,
+    "transaction_date": "2024-01-12",
+    "description": "Assumenda quo corporis.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000213",
+    "account_id": "ACC000237",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 23774.47,
+    "transaction_date": "2024-04-24",
+    "description": "Molestiae tempora.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000565",
+    "account_id": "ACC000213",
+    "transaction_type": "Deposit",
+    "amount": 1575.27,
+    "transaction_date": "2023-12-27",
+    "description": "Quisquam sint voluptatibus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000384",
+    "account_id": "ACC000093",
+    "transaction_type": "DEPOSIT",
+    "amount": null,
+    "transaction_date": "2024-04-06",
+    "description": "Architecto deserunt odio consequuntur.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000184",
+    "account_id": "ACC000130",
+    "transaction_type": "transfer",
+    "amount": null,
+    "transaction_date": "2024-12-10",
+    "description": "At voluptatem molestiae.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000310",
+    "account_id": "ACC000135",
+    "transaction_type": "withdrawal",
+    "amount": 30918.9,
+    "transaction_date": "2023-10-15",
+    "description": "Quam itaque recusandae est.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000380",
+    "account_id": "ACC000067",
+    "transaction_type": "transfer",
+    "amount": 30943.17,
+    "transaction_date": "2024-08-08",
+    "description": "Doloribus molestiae tenetur pariatur.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000251",
+    "account_id": "ACC000217",
+    "transaction_type": "deposit",
+    "amount": 19943.58,
+    "transaction_date": "2024-06-14",
+    "description": "Nam eos.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000582",
+    "account_id": "ACC000088",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 36084.85,
+    "transaction_date": "2024-02-20",
+    "description": "Aliquam voluptas sunt.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000108",
+    "account_id": "ACC000105",
+    "transaction_type": "withdrawal",
+    "amount": 38690.63,
+    "transaction_date": "2024-05-21",
+    "description": "Ullam sequi quaerat iusto.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000388",
+    "account_id": "ACC000144",
+    "transaction_type": "Transfer",
+    "amount": 21859.49,
+    "transaction_date": "2023-09-14",
+    "description": "Dolorum eligendi ipsum odio earum.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000084",
+    "account_id": "ACC000012",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 28445.67,
+    "transaction_date": "2024-12-13",
+    "description": "Nesciunt quisquam accusamus.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000063",
+    "account_id": "ACC000268",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 24027.96,
+    "transaction_date": "2024-03-28",
+    "description": "Distinctio aliquid officia.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000265",
+    "account_id": "ACC000144",
+    "transaction_type": "withdrawal",
+    "amount": 21801.18,
+    "transaction_date": "2023-12-01",
+    "description": "Pariatur possimus voluptatem.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000596",
+    "account_id": "ACC000214",
+    "transaction_type": "DEPOSIT",
+    "amount": 30545.15,
+    "transaction_date": "2024-04-30",
+    "description": "Non dignissimos a nemo.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000297",
+    "account_id": "ACC000006",
+    "transaction_type": "Transfer",
+    "amount": 2964.83,
+    "transaction_date": "2024-05-19",
+    "description": "Expedita nesciunt iure numquam incidunt.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000468",
+    "account_id": "ACC000090",
+    "transaction_type": "deposit",
+    "amount": 9072.22,
+    "transaction_date": "2024-05-21",
+    "description": "Voluptatibus quidem hic minus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000260",
+    "account_id": "ACC000128",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 1381.45,
+    "transaction_date": "2024-12-17",
+    "description": "Quod corporis est exercitationem fuga.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000563",
+    "account_id": "ACC000088",
+    "transaction_type": "Transfer",
+    "amount": 17383.68,
+    "transaction_date": "2024-05-25",
+    "description": "Qui ipsa enim laborum quis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000048",
+    "account_id": "ACC000058",
+    "transaction_type": "transfer",
+    "amount": 33377.7,
+    "transaction_date": "2024-03-28",
+    "description": "Quis corrupti sequi omnis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000496",
+    "account_id": "ACC000066",
+    "transaction_type": "transfer",
+    "amount": 8892.1,
+    "transaction_date": "2023-12-22",
+    "description": "Natus sed.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000418",
+    "account_id": "ACC000270",
+    "transaction_type": "deposit",
+    "amount": 43869.49,
+    "transaction_date": "2024-04-05",
+    "description": "Necessitatibus distinctio dicta quibusdam.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000303",
+    "account_id": "ACC000096",
+    "transaction_type": "Transfer",
+    "amount": 30814.96,
+    "transaction_date": "2023-01-06",
+    "description": "Blanditiis facere.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000485",
+    "account_id": "ACC000161",
+    "transaction_type": "Withdrawal",
+    "amount": 44130.97,
+    "transaction_date": "2023-10-12",
+    "description": "Sint officiis eius officiis.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000395",
+    "account_id": "ACC000003",
+    "transaction_type": "transfer",
+    "amount": 19204.59,
+    "transaction_date": "2024-10-21",
+    "description": "Non asperiores consequatur iusto culpa.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000106",
+    "account_id": "ACC000118",
+    "transaction_type": "Withdrawal",
+    "amount": 11301.91,
+    "transaction_date": "2024-10-24",
+    "description": "Ipsum ipsa cum quas.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000102",
+    "account_id": "ACC000260",
+    "transaction_type": "Withdrawal",
+    "amount": 21176.06,
+    "transaction_date": "2023-06-14",
+    "description": "Voluptatem sed qui nisi.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000588",
+    "account_id": "ACC000032",
+    "transaction_type": "withdrawal",
+    "amount": 37181.21,
+    "transaction_date": "2023-05-16",
+    "description": "Voluptate tempora ipsum quaerat tenetur.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000225",
+    "account_id": "ACC000085",
+    "transaction_type": "DEPOSIT",
+    "amount": 3919.03,
+    "transaction_date": "2023-11-30",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000535",
+    "account_id": "ACC000088",
+    "transaction_type": "Deposit",
+    "amount": 28976.94,
+    "transaction_date": "2024-04-05",
+    "description": "Praesentium illo nulla tenetur quia.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000026",
+    "account_id": "ACC000249",
+    "transaction_type": "Deposit",
+    "amount": 20688.51,
+    "transaction_date": "2023-03-17",
+    "description": "Accusamus minima quo.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000195",
+    "account_id": "ACC000075",
+    "transaction_type": "Deposit",
+    "amount": 23529.24,
+    "transaction_date": "2023-01-09",
+    "description": "Earum et.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000107",
+    "account_id": "ACC000189",
+    "transaction_type": "deposit",
+    "amount": 2584.17,
+    "transaction_date": "2023-06-02",
+    "description": "Exercitationem doloremque dolor tenetur.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000379",
+    "account_id": "ACC000048",
+    "transaction_type": "Deposit",
+    "amount": 45841.6,
+    "transaction_date": "2023-11-27",
+    "description": "Quibusdam dolorem quasi.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000538",
+    "account_id": "ACC000184",
+    "transaction_type": "Deposit",
+    "amount": 18957.72,
+    "transaction_date": "2024-12-19",
+    "description": "Temporibus cupiditate facilis consequatur explicabo.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000381",
+    "account_id": "ACC000194",
+    "transaction_type": "DEPOSIT",
+    "amount": 44905.67,
+    "transaction_date": "2023-09-09",
+    "description": "Reiciendis possimus dolore.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000445",
+    "account_id": "ACC000098",
+    "transaction_type": "withdrawal",
+    "amount": 9346.69,
+    "transaction_date": "2024-10-19",
+    "description": "Quisquam dolore ducimus labore.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000228",
+    "account_id": "ACC000201",
+    "transaction_type": "deposit",
+    "amount": 41940.94,
+    "transaction_date": "2023-05-08",
+    "description": "Cupiditate nihil quia consectetur ut.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000502",
+    "account_id": "ACC000249",
+    "transaction_type": "Deposit",
+    "amount": 42289.55,
+    "transaction_date": "2024-05-28",
+    "description": "Porro optio aliquid.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000193",
+    "account_id": "ACC000065",
+    "transaction_type": "DEPOSIT",
+    "amount": 29799.24,
+    "transaction_date": "2023-07-18",
+    "description": "Amet dolores nisi.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000486",
+    "account_id": "ACC000055",
+    "transaction_type": "withdrawal",
+    "amount": 22001.95,
+    "transaction_date": "2023-09-23",
+    "description": "Accusamus blanditiis commodi odit.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000428",
+    "account_id": "ACC000028",
+    "transaction_type": "Transfer",
+    "amount": 29058.09,
+    "transaction_date": "2024-08-02",
+    "description": "Excepturi placeat exercitationem et.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000064",
+    "account_id": "ACC000108",
+    "transaction_type": "deposit",
+    "amount": 11195.66,
+    "transaction_date": "2023-08-21",
+    "description": "Reiciendis quia molestias nobis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000226",
+    "account_id": "ACC000204",
+    "transaction_type": "Deposit",
+    "amount": null,
+    "transaction_date": "2024-02-13",
+    "description": "Beatae eius magnam cupiditate.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000484",
+    "account_id": "ACC000197",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 44875.35,
+    "transaction_date": "2024-03-12",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000461",
+    "account_id": "ACC000197",
+    "transaction_type": "transfer",
+    "amount": 3080.03,
+    "transaction_date": "2023-01-20",
+    "description": "Est voluptatibus commodi voluptatum.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000450",
+    "account_id": "ACC000032",
+    "transaction_type": "withdrawal",
+    "amount": 10291.24,
+    "transaction_date": "2024-11-10",
+    "description": "At qui.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000519",
+    "account_id": "ACC000243",
+    "transaction_type": "withdrawal",
+    "amount": 29407.12,
+    "transaction_date": "2024-08-29",
+    "description": "Praesentium sint mollitia non.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000014",
+    "account_id": "ACC000275",
+    "transaction_type": "deposit",
+    "amount": 5997.54,
+    "transaction_date": "2024-04-14",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000182",
+    "account_id": "ACC000143",
+    "transaction_type": "transfer",
+    "amount": 10533.41,
+    "transaction_date": "2024-02-10",
+    "description": "Excepturi debitis.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000396",
+    "account_id": "ACC000213",
+    "transaction_type": "DEPOSIT",
+    "amount": 715820.53,
+    "transaction_date": "2023-04-08",
+    "description": "A similique quas.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000112",
+    "account_id": "ACC000024",
+    "transaction_type": "Deposit",
+    "amount": 23599.53,
+    "transaction_date": "2024-11-17",
+    "description": "Dicta non aut.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000471",
+    "account_id": "ACC000219",
+    "transaction_type": "DEPOSIT",
+    "amount": 10281.69,
+    "transaction_date": "2024-11-28",
+    "description": "Itaque cum consequuntur.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000562",
+    "account_id": "ACC000169",
+    "transaction_type": "Transfer",
+    "amount": 36435.38,
+    "transaction_date": "2024-03-06",
+    "description": "Amet rerum inventore.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000120",
+    "account_id": "ACC000079",
+    "transaction_type": "Deposit",
+    "amount": 6187.35,
+    "transaction_date": "2023-04-19",
+    "description": "Provident unde.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000139",
+    "account_id": "ACC000083",
+    "transaction_type": "withdrawal",
+    "amount": 41670.73,
+    "transaction_date": "2024-04-28",
+    "description": "Voluptate in suscipit praesentium sit.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000508",
+    "account_id": "ACC000107",
+    "transaction_type": "transfer",
+    "amount": 16688.53,
+    "transaction_date": "2023-04-08",
+    "description": "Modi architecto quasi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000218",
+    "account_id": "ACC000120",
+    "transaction_type": "DEPOSIT",
+    "amount": 359198.99,
+    "transaction_date": "2024-01-31",
+    "description": null,
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000168",
+    "account_id": "ACC000132",
+    "transaction_type": "Withdrawal",
+    "amount": -17063.83,
+    "transaction_date": "2024-06-24",
+    "description": "A molestias architecto aliquid.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000311",
+    "account_id": "ACC000077",
+    "transaction_type": "withdrawal",
+    "amount": 35087.13,
+    "transaction_date": "2024-08-28",
+    "description": "Inventore velit in.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000207",
+    "account_id": "ACC000192",
+    "transaction_type": "DEPOSIT",
+    "amount": 11007.83,
+    "transaction_date": "2023-06-10",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000214",
+    "account_id": "ACC000066",
+    "transaction_type": "DEPOSIT",
+    "amount": 20942.62,
+    "transaction_date": "",
+    "description": "Perferendis explicabo repellat repudiandae.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000236",
+    "account_id": "ACC000247",
+    "transaction_type": "Withdrawal",
+    "amount": 6733.28,
+    "transaction_date": "2024-12-05",
+    "description": "Deserunt aspernatur nemo ad.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000323",
+    "account_id": "ACC000076",
+    "transaction_type": "DEPOSIT",
+    "amount": 6043.26,
+    "transaction_date": "2023-10-26",
+    "description": "Eligendi doloremque optio architecto.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000333",
+    "account_id": "ACC000219",
+    "transaction_type": "Transfer",
+    "amount": 25625.97,
+    "transaction_date": "2023-08-18",
+    "description": "Expedita sapiente recusandae hic.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000071",
+    "account_id": "ACC000149",
+    "transaction_type": "Transfer",
+    "amount": 36835.1,
+    "transaction_date": "2023-08-20",
+    "description": "Temporibus nobis facere.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000357",
+    "account_id": "ACC000243",
+    "transaction_type": "DEPOSIT",
+    "amount": 17733.09,
+    "transaction_date": "2024-04-16",
+    "description": "Quisquam ut fugiat dolores.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000131",
+    "account_id": "ACC000250",
+    "transaction_type": "DEPOSIT",
+    "amount": 724640.78,
+    "transaction_date": "2024-02-19",
+    "description": "Enim cupiditate eaque quaerat.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000041",
+    "account_id": "ACC000216",
+    "transaction_type": "transfer",
+    "amount": 14729.16,
+    "transaction_date": "",
+    "description": "Perferendis consequatur tempora aliquam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000027",
+    "account_id": "ACC000139",
+    "transaction_type": "withdrawal",
+    "amount": 8985.23,
+    "transaction_date": "2023-07-18",
+    "description": "Repudiandae laudantium dolore dicta.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000104",
+    "account_id": "ACC000211",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 4203.38,
+    "transaction_date": "2024-10-26",
+    "description": "Doloremque aperiam accusantium nemo.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000186",
+    "account_id": "ACC000201",
+    "transaction_type": "withdrawal",
+    "amount": 11304.96,
+    "transaction_date": "2024-04-04",
+    "description": "Corporis ducimus at.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000316",
+    "account_id": "ACC000045",
+    "transaction_type": "Withdrawal",
+    "amount": 26490.22,
+    "transaction_date": "2023-08-04",
+    "description": "Necessitatibus reiciendis totam nemo.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000212",
+    "account_id": "ACC000263",
+    "transaction_type": "deposit",
+    "amount": 47296.17,
+    "transaction_date": "2023-01-13",
+    "description": "Quis modi ratione officiis.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000152",
+    "account_id": "ACC000262",
+    "transaction_type": "DEPOSIT",
+    "amount": 37028.61,
+    "transaction_date": "2023-10-18",
+    "description": "Pariatur sapiente doloremque error pariatur.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000194",
+    "account_id": "ACC000263",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 12233.31,
+    "transaction_date": "2023-11-16",
+    "description": "Laudantium quibusdam harum.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000157",
+    "account_id": "ACC000244",
+    "transaction_type": "withdrawal",
+    "amount": 21342.04,
+    "transaction_date": "2024-03-11",
+    "description": "Aspernatur perspiciatis illo nam.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000364",
+    "account_id": "ACC000042",
+    "transaction_type": "DEPOSIT",
+    "amount": 13565.42,
+    "transaction_date": "2023-03-12",
+    "description": "Accusamus omnis accusamus.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000206",
+    "account_id": "ACC000019",
+    "transaction_type": "withdrawal",
+    "amount": 34756.03,
+    "transaction_date": "2023-10-02",
+    "description": "Distinctio magnam reiciendis sunt.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000469",
+    "account_id": "ACC000117",
+    "transaction_type": "Deposit",
+    "amount": 2021.24,
+    "transaction_date": "2024-08-16",
+    "description": "Eligendi ullam praesentium.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000575",
+    "account_id": "ACC000276",
+    "transaction_type": "Withdrawal",
+    "amount": 49777.17,
+    "transaction_date": "2024-03-03",
+    "description": "Distinctio iusto tenetur aut.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000229",
+    "account_id": "ACC000227",
+    "transaction_type": "Deposit",
+    "amount": 22088.83,
+    "transaction_date": "2024-11-22",
+    "description": "Sunt quas earum.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000593",
+    "account_id": "ACC000092",
+    "transaction_type": "Withdrawal",
+    "amount": 24430.26,
+    "transaction_date": "2024-04-26",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000155",
+    "account_id": "ACC000120",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 28323.3,
+    "transaction_date": "2024-06-30",
+    "description": "Aspernatur aperiam suscipit labore.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000076",
+    "account_id": "ACC000168",
+    "transaction_type": "deposit",
+    "amount": -41532.59,
+    "transaction_date": "2023-07-03",
+    "description": "Quidem repellat.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000331",
+    "account_id": "ACC000174",
+    "transaction_type": "Withdrawal",
+    "amount": -30021.9,
+    "transaction_date": "2023-04-19",
+    "description": "Aperiam id rem minima.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000231",
+    "account_id": "ACC000173",
+    "transaction_type": "withdrawal",
+    "amount": -45446.94,
+    "transaction_date": "2023-01-29",
+    "description": "Nostrum perspiciatis sunt a incidunt.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000009",
+    "account_id": "ACC000002",
+    "transaction_type": "Transfer",
+    "amount": 23959.16,
+    "transaction_date": "2023-03-13",
+    "description": "Qui unde ex in.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000020",
+    "account_id": "ACC000074",
+    "transaction_type": "DEPOSIT",
+    "amount": 20869.49,
+    "transaction_date": "2024-12-09",
+    "description": "Repudiandae reiciendis dicta impedit delectus.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000400",
+    "account_id": "ACC000071",
+    "transaction_type": "transfer",
+    "amount": 34427.29,
+    "transaction_date": "2024-12-16",
+    "description": "Voluptatibus commodi.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000007",
+    "account_id": "ACC000038",
+    "transaction_type": "Withdrawal",
+    "amount": 10997.49,
+    "transaction_date": "2023-09-23",
+    "description": "Et repellat officia ratione earum.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000301",
+    "account_id": "ACC000248",
+    "transaction_type": "DEPOSIT",
+    "amount": 45710.85,
+    "transaction_date": "",
+    "description": "Maiores officia ratione unde.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000412",
+    "account_id": "ACC000243",
+    "transaction_type": "Transfer",
+    "amount": 3565.79,
+    "transaction_date": "2023-05-26",
+    "description": "Quod exercitationem consequuntur quibusdam ut.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000022",
+    "account_id": "ACC000238",
+    "transaction_type": "withdrawal",
+    "amount": 48841.89,
+    "transaction_date": "2024-07-06",
+    "description": "Officia occaecati tenetur voluptate dicta.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000443",
+    "account_id": "ACC000116",
+    "transaction_type": "withdrawal",
+    "amount": 28731.61,
+    "transaction_date": "2024-03-24",
+    "description": "Dolores distinctio quidem optio at.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000541",
+    "account_id": "ACC000015",
+    "transaction_type": "deposit",
+    "amount": 5481.98,
+    "transaction_date": "2024-08-14",
+    "description": "Enim laboriosam eaque.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000465",
+    "account_id": "ACC000020",
+    "transaction_type": "DEPOSIT",
+    "amount": 4368.29,
+    "transaction_date": "2023-12-12",
+    "description": "Sequi quas error.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000348",
+    "account_id": "ACC000208",
+    "transaction_type": "Transfer",
+    "amount": 42101.48,
+    "transaction_date": "2023-11-17",
+    "description": "Consequuntur reprehenderit sapiente cupiditate.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000187",
+    "account_id": "ACC000169",
+    "transaction_type": "DEPOSIT",
+    "amount": 11358.84,
+    "transaction_date": "2023-09-13",
+    "description": null,
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000138",
+    "account_id": "ACC000174",
+    "transaction_type": "transfer",
+    "amount": 23515.1,
+    "transaction_date": "2024-08-24",
+    "description": "Temporibus animi occaecati.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000339",
+    "account_id": "ACC000126",
+    "transaction_type": "Transfer",
+    "amount": 24116.3,
+    "transaction_date": "2024-10-13",
+    "description": "Magnam quod.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000156",
+    "account_id": "ACC000265",
+    "transaction_type": "withdrawal",
+    "amount": 33654.45,
+    "transaction_date": "2023-09-11",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000463",
+    "account_id": "ACC000199",
+    "transaction_type": "DEPOSIT",
+    "amount": 36316.74,
+    "transaction_date": "2023-02-28",
+    "description": "Corrupti quaerat sed vel.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000477",
+    "account_id": "ACC000065",
+    "transaction_type": "withdrawal",
+    "amount": 32701.16,
+    "transaction_date": "2024-03-04",
+    "description": "Unde atque voluptate.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000284",
+    "account_id": "ACC000187",
+    "transaction_type": "deposit",
+    "amount": 28168.56,
+    "transaction_date": "2023-05-08",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000442",
+    "account_id": "ACC000016",
+    "transaction_type": "deposit",
+    "amount": 799947.95,
+    "transaction_date": "2024-01-19",
+    "description": "Voluptates iure tempore veritatis laboriosam.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000075",
+    "account_id": "ACC000255",
+    "transaction_type": "withdrawal",
+    "amount": 25619.58,
+    "transaction_date": "2023-05-06",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000196",
+    "account_id": "ACC000175",
+    "transaction_type": "withdrawal",
+    "amount": 21160.85,
+    "transaction_date": "2023-07-26",
+    "description": "Illum laborum illum doloremque suscipit.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000599",
+    "account_id": "ACC000103",
+    "transaction_type": "withdrawal",
+    "amount": 1281.58,
+    "transaction_date": "2024-07-25",
+    "description": "Aliquid dolores aliquam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000090",
+    "account_id": "ACC000031",
+    "transaction_type": "withdrawal",
+    "amount": 13470.0,
+    "transaction_date": "2024-03-20",
+    "description": "Hic accusamus.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000526",
+    "account_id": "ACC000242",
+    "transaction_type": "transfer",
+    "amount": 35242.8,
+    "transaction_date": "2024-08-08",
+    "description": "Ipsa explicabo iusto.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000163",
+    "account_id": "ACC000071",
+    "transaction_type": "transfer",
+    "amount": 22673.48,
+    "transaction_date": "2024-09-12",
+    "description": "Velit fuga veritatis.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000545",
+    "account_id": "ACC000050",
+    "transaction_type": "Transfer",
+    "amount": 45650.37,
+    "transaction_date": "2024-12-24",
+    "description": "Ab itaque error autem.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000116",
+    "account_id": "ACC000226",
+    "transaction_type": "Deposit",
+    "amount": 38207.4,
+    "transaction_date": "2024-11-04",
+    "description": "Excepturi beatae.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000095",
+    "account_id": "ACC000269",
+    "transaction_type": "DEPOSIT",
+    "amount": 28591.57,
+    "transaction_date": "2024-11-11",
+    "description": "Possimus deleniti.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000078",
+    "account_id": "ACC000061",
+    "transaction_type": "Transfer",
+    "amount": 27376.34,
+    "transaction_date": "2024-03-16",
+    "description": "Officia quae ut.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000069",
+    "account_id": "ACC000195",
+    "transaction_type": "Transfer",
+    "amount": 29510.09,
+    "transaction_date": "2023-07-05",
+    "description": "Officia veritatis culpa.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000595",
+    "account_id": "ACC000166",
+    "transaction_type": "deposit",
+    "amount": 5235.56,
+    "transaction_date": "2024-08-07",
+    "description": "Voluptas cumque quibusdam fugit quod.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000290",
+    "account_id": "ACC000209",
+    "transaction_type": "Withdrawal",
+    "amount": 1392.9,
+    "transaction_date": "2023-05-08",
+    "description": "Maxime debitis quae minima.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000504",
+    "account_id": "ACC000078",
+    "transaction_type": "Withdrawal",
+    "amount": -38143.06,
+    "transaction_date": "2024-07-08",
+    "description": "Vero nobis dolor.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000552",
+    "account_id": "ACC000197",
+    "transaction_type": "Withdrawal",
+    "amount": 48591.34,
+    "transaction_date": "2024-03-10",
+    "description": "Beatae eligendi consequatur.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000335",
+    "account_id": "ACC000078",
+    "transaction_type": "deposit",
+    "amount": 16752.87,
+    "transaction_date": "2023-03-28",
+    "description": "Itaque tenetur delectus necessitatibus.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000517",
+    "account_id": "ACC000219",
+    "transaction_type": "DEPOSIT",
+    "amount": 28001.89,
+    "transaction_date": "2023-07-17",
+    "description": "Veritatis quos commodi minima.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000033",
+    "account_id": "ACC000013",
+    "transaction_type": "transfer",
+    "amount": 894.92,
+    "transaction_date": "2024-04-15",
+    "description": "Iusto sit.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000448",
+    "account_id": "ACC000257",
+    "transaction_type": "DEPOSIT",
+    "amount": 48408.93,
+    "transaction_date": "2024-06-14",
+    "description": "Aperiam exercitationem tenetur quia quam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000017",
+    "account_id": "ACC000165",
+    "transaction_type": "withdrawal",
+    "amount": 33952.05,
+    "transaction_date": "2024-08-12",
+    "description": "Sed placeat recusandae.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000383",
+    "account_id": "ACC000012",
+    "transaction_type": "Transfer",
+    "amount": 24762.83,
+    "transaction_date": "2024-02-05",
+    "description": null,
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000525",
+    "account_id": "ACC000140",
+    "transaction_type": "Deposit",
+    "amount": 16489.73,
+    "transaction_date": "2024-05-29",
+    "description": "Provident dolorum non provident.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000062",
+    "account_id": "ACC000059",
+    "transaction_type": "Transfer",
+    "amount": 30710.08,
+    "transaction_date": "2024-06-28",
+    "description": "Veniam voluptatum tenetur reiciendis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000542",
+    "account_id": "ACC000171",
+    "transaction_type": "Deposit",
+    "amount": 47148.03,
+    "transaction_date": "2023-05-23",
+    "description": "Qui necessitatibus.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000050",
+    "account_id": "ACC000045",
+    "transaction_type": "Transfer",
+    "amount": 9866.21,
+    "transaction_date": "2024-11-24",
+    "description": "Cum iusto blanditiis.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000499",
+    "account_id": "ACC000067",
+    "transaction_type": "Deposit",
+    "amount": 10389.42,
+    "transaction_date": "",
+    "description": "Dolorum aliquid.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000236",
+    "transaction_type": "deposit",
+    "amount": 7449.76,
+    "transaction_date": "2023-09-04",
+    "description": "Nobis veritatis sapiente.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000438",
+    "account_id": "ACC000156",
+    "transaction_type": "Transfer",
+    "amount": 35988.53,
+    "transaction_date": "2023-05-24",
+    "description": "Voluptates sequi temporibus quasi.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000021",
+    "transaction_type": "withdrawal",
+    "amount": 33249.58,
+    "transaction_date": "2023-10-29",
+    "description": null,
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000123",
+    "account_id": "ACC000107",
+    "transaction_type": "deposit",
+    "amount": 8982.74,
+    "transaction_date": "2023-04-02",
+    "description": "Non similique aut natus magni.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000551",
+    "account_id": "ACC000060",
+    "transaction_type": "transfer",
+    "amount": 20145.0,
+    "transaction_date": "2023-09-22",
+    "description": "Cum explicabo inventore facere.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000024",
+    "account_id": "ACC000276",
+    "transaction_type": "deposit",
+    "amount": 30879.29,
+    "transaction_date": "",
+    "description": "At facilis veniam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000262",
+    "account_id": "ACC000244",
+    "transaction_type": "Withdrawal",
+    "amount": 30377.47,
+    "transaction_date": "2023-03-25",
+    "description": "Animi magni saepe.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000266",
+    "account_id": "ACC000171",
+    "transaction_type": "withdrawal",
+    "amount": 6242.6,
+    "transaction_date": "2024-05-18",
+    "description": "Possimus sequi necessitatibus excepturi error.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000204",
+    "account_id": "ACC000065",
+    "transaction_type": "transfer",
+    "amount": 14779.72,
+    "transaction_date": "2024-10-06",
+    "description": "Eligendi cum modi architecto at.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000342",
+    "account_id": "ACC000115",
+    "transaction_type": "Deposit",
+    "amount": 23073.38,
+    "transaction_date": "2024-03-07",
+    "description": "Fugit quia sequi id.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000371",
+    "account_id": "ACC000091",
+    "transaction_type": "transfer",
+    "amount": 41426.47,
+    "transaction_date": "2023-12-10",
+    "description": "Voluptate pariatur architecto accusantium.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000472",
+    "account_id": "ACC000083",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 48757.43,
+    "transaction_date": "2023-10-29",
+    "description": "Enim corporis dolor quibusdam.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000234",
+    "account_id": "ACC000189",
+    "transaction_type": "Deposit",
+    "amount": 19520.41,
+    "transaction_date": "2023-10-13",
+    "description": "Sunt dolore.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000480",
+    "account_id": "ACC000217",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 8430.09,
+    "transaction_date": "2024-06-26",
+    "description": "Blanditiis id.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000329",
+    "account_id": "ACC000207",
+    "transaction_type": "Withdrawal",
+    "amount": 34399.6,
+    "transaction_date": "2024-03-12",
+    "description": "Nobis vel nesciunt.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000189",
+    "account_id": "ACC000049",
+    "transaction_type": "transfer",
+    "amount": 26031.78,
+    "transaction_date": "2024-09-06",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000220",
+    "account_id": "ACC000082",
+    "transaction_type": "DEPOSIT",
+    "amount": 6583.62,
+    "transaction_date": "2024-12-27",
+    "description": "Quia quis perspiciatis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000457",
+    "account_id": "ACC000113",
+    "transaction_type": "transfer",
+    "amount": 46924.67,
+    "transaction_date": "2024-01-01",
+    "description": "Maxime nobis dolore.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000370",
+    "account_id": "ACC000064",
+    "transaction_type": "transfer",
+    "amount": 18575.8,
+    "transaction_date": "2023-11-11",
+    "description": "Ex odio sunt.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000322",
+    "account_id": "ACC000269",
+    "transaction_type": "DEPOSIT",
+    "amount": 10968.61,
+    "transaction_date": "2024-06-09",
+    "description": "Delectus architecto.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000070",
+    "account_id": "ACC000021",
+    "transaction_type": "Withdrawal",
+    "amount": 6268.41,
+    "transaction_date": "2024-01-05",
+    "description": "Laudantium inventore rem.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000144",
+    "account_id": "ACC000106",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 41198.15,
+    "transaction_date": "2024-10-07",
+    "description": "Quam qui commodi voluptatibus.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000023",
+    "account_id": "ACC000023",
+    "transaction_type": "Deposit",
+    "amount": 42204.71,
+    "transaction_date": "2023-06-13",
+    "description": "Amet nulla nobis.",
+    "channel": "Branch"
+  },
+  {
+    "transaction_id": "TXN0000299",
+    "account_id": "ACC000271",
+    "transaction_type": "Deposit",
+    "amount": 26762.81,
+    "transaction_date": "2024-11-08",
+    "description": "Debitis doloremque.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": null,
+    "account_id": "ACC000082",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 4599.33,
+    "transaction_date": "2024-01-19",
+    "description": "Repudiandae alias iure nulla laborum.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000571",
+    "account_id": "ACC000242",
+    "transaction_type": "Withdrawal",
+    "amount": -28572.18,
+    "transaction_date": "",
+    "description": "Sint fugit.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000267",
+    "account_id": "ACC000224",
+    "transaction_type": "withdrawal",
+    "amount": 17226.97,
+    "transaction_date": "2024-01-26",
+    "description": null,
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000560",
+    "account_id": "ACC000140",
+    "transaction_type": "Deposit",
+    "amount": 13915.01,
+    "transaction_date": "",
+    "description": "Culpa magnam quisquam.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000587",
+    "account_id": "ACC000234",
+    "transaction_type": "deposit",
+    "amount": 9215.96,
+    "transaction_date": "2023-08-22",
+    "description": "Tempora quis sapiente.",
+    "channel": "ATM"
+  },
+  {
+    "transaction_id": "TXN0000336",
+    "account_id": "ACC000054",
+    "transaction_type": "DEPOSIT",
+    "amount": 7595.98,
+    "transaction_date": "2023-10-21",
+    "description": "Praesentium aliquam suscipit culpa.",
+    "channel": "online"
+  },
+  {
+    "transaction_id": "TXN0000252",
+    "account_id": "ACC000046",
+    "transaction_type": "Withdrawal",
+    "amount": 32958.45,
+    "transaction_date": "2024-02-26",
+    "description": "Illo nulla illum sint.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000449",
+    "account_id": "ACC000174",
+    "transaction_type": "Transfer",
+    "amount": 29180.35,
+    "transaction_date": "2024-10-30",
+    "description": "Vitae ipsa doloremque ea enim.",
+    "channel": "Online"
+  },
+  {
+    "transaction_id": "TXN0000091",
+    "account_id": "ACC000212",
+    "transaction_type": "DEPOSIT",
+    "amount": 38299.95,
+    "transaction_date": "2023-03-07",
+    "description": "Itaque illo omnis quia.",
+    "channel": "atm"
+  },
+  {
+    "transaction_id": "TXN0000576",
+    "account_id": "ACC000021",
+    "transaction_type": "WITHDRAWAL",
+    "amount": 1283.63,
+    "transaction_date": "2023-10-27",
+    "description": "Dolorum laudantium ex.",
+    "channel": "Mobile"
+  },
+  {
+    "transaction_id": "TXN0000205",
+    "account_id": "ACC000192",
+    "transaction_type": "transfer",
+    "amount": 30782.83,
+    "transaction_date": "2024-10-22",
+    "description": "Rerum quam voluptatum.",
+    "channel": "atm"
+  }
+]

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banking Customer Data Management & Analytics System</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="logo-icon"><i class="fa-solid fa-building-columns"></i></div>
+                <div class="brand-text">
+                    <h2>FinAnalytics</h2>
+                    <span class="sub">DSA0504 Banking System</span>
+                </div>
+            </div>
+
+            <nav class="nav-menu">
+                <button class="nav-item active" data-tab="dashboard">
+                    <i class="fa-solid fa-chart-line"></i> Dashboard
+                </button>
+                <button class="nav-item" data-tab="database">
+                    <i class="fa-solid fa-database"></i> Database & Live SQL
+                </button>
+                <button class="nav-item" data-tab="crud">
+                    <i class="fa-solid fa-user-gear"></i> CRUD Manager
+                </button>
+                <button class="nav-item" data-tab="cleaning">
+                    <i class="fa-solid fa-wand-magic-sparkles"></i> Data Quality Audit
+                </button>
+                <button class="nav-item" data-tab="visualizations">
+                    <i class="fa-solid fa-chart-pie"></i> Visualizations
+                </button>
+                <button class="nav-item" data-tab="insights">
+                    <i class="fa-solid fa-lightbulb"></i> Banking Insights
+                </button>
+                <button class="nav-item" data-tab="pipeline">
+                    <i class="fa-solid fa-terminal"></i> Pipeline Runner
+                </button>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="system-status">
+                    <span class="pulse-dot"></span> System Ready
+                </div>
+                <span class="version">v2.4.0 • SQLite Connected</span>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top Navbar -->
+            <header class="top-header">
+                <div class="header-title">
+                    <h1 id="page-title">Dashboard Overview</h1>
+                    <p class="subtitle" id="page-subtitle">Real-time banking metrics, customer demographics & system telemetry</p>
+                </div>
+                <div class="header-actions">
+                    <button class="btn btn-secondary" onclick="refreshDashboard()"><i class="fa-solid fa-rotate-right"></i> Refresh</button>
+                    <button class="btn btn-primary" onclick="triggerPipeline()"><i class="fa-solid fa-play"></i> Run Pipeline</button>
+                </div>
+            </header>
+
+            <!-- TAB 1: DASHBOARD OVERVIEW -->
+            <section id="tab-dashboard" class="tab-pane active">
+                <!-- KPI Grid -->
+                <div class="kpi-grid">
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-blue"><i class="fa-solid fa-users"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-label">Total Customers</span>
+                            <h3 class="kpi-value" id="kpi-customers">--</h3>
+                            <span class="kpi-trend positive"><i class="fa-solid fa-arrow-up"></i> 100% Cleaned</span>
+                        </div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-emerald"><i class="fa-solid fa-wallet"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-label">Total Deposit Balance</span>
+                            <h3 class="kpi-value" id="kpi-balance">--</h3>
+                            <span class="kpi-trend positive"><i class="fa-solid fa-shield-halved"></i> Active Accounts</span>
+                        </div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-purple"><i class="fa-solid fa-arrow-right-arrow-left"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-label">Transaction Volume</span>
+                            <h3 class="kpi-value" id="kpi-txns">--</h3>
+                            <span class="kpi-trend neutral"><i class="fa-solid fa-bolt"></i> Real-time JSON</span>
+                        </div>
+                    </div>
+                    <div class="kpi-card">
+                        <div class="kpi-icon icon-amber"><i class="fa-solid fa-file-invoice-dollar"></i></div>
+                        <div class="kpi-info">
+                            <span class="kpi-label">Active Loans Portfolio</span>
+                            <h3 class="kpi-value" id="kpi-loans">--</h3>
+                            <span class="kpi-trend warning"><i class="fa-solid fa-triangle-exclamation"></i> Risk Analyzed</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Interactive Charts Row -->
+                <div class="charts-grid">
+                    <div class="card chart-card">
+                        <div class="card-header">
+                            <h3><i class="fa-solid fa-code-branch"></i> Customer Distribution by Branch</h3>
+                        </div>
+                        <div class="card-body">
+                            <canvas id="chartBranchCustomers"></canvas>
+                        </div>
+                    </div>
+                    <div class="card chart-card">
+                        <div class="card-header">
+                            <h3><i class="fa-solid fa-pie-chart"></i> Account Type Breakdown</h3>
+                        </div>
+                        <div class="card-body">
+                            <canvas id="chartAccountTypes"></canvas>
+                        </div>
+                    </div>
+                    <div class="card chart-card full-width">
+                        <div class="card-header">
+                            <h3><i class="fa-solid fa-chart-area"></i> Total Loan Volume by Category</h3>
+                        </div>
+                        <div class="card-body">
+                            <canvas id="chartLoanCategories"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB 2: DATABASE & LIVE SQL CONSOLE -->
+            <section id="tab-database" class="tab-pane">
+                <div class="sql-workspace">
+                    <div class="card sql-editor-card">
+                        <div class="card-header space-between">
+                            <h3><i class="fa-solid fa-terminal"></i> Live SQL Query Console</h3>
+                            <div class="preset-selector">
+                                <select id="preset-query-select" onchange="loadPresetQuery(this.value)">
+                                    <option value="">-- Choose Preset Banking SQL Query --</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <textarea id="sql-input" placeholder="SELECT * FROM Customer LIMIT 10;"></textarea>
+                            <div class="sql-actions">
+                                <button class="btn btn-primary" onclick="executeSQL()"><i class="fa-solid fa-play"></i> Execute Query</button>
+                                <button class="btn btn-secondary" onclick="document.getElementById('sql-input').value=''"><i class="fa-solid fa-trash-can"></i> Clear</button>
+                                <span class="query-timer" id="sql-timer"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Table Data Explorer -->
+                    <div class="card table-explorer-card">
+                        <div class="card-header space-between">
+                            <div class="table-tabs">
+                                <button class="tbl-btn active" onclick="switchTable('Customer')">Customer</button>
+                                <button class="tbl-btn" onclick="switchTable('Account')">Account</button>
+                                <button class="tbl-btn" onclick="switchTable('Txn')">Txn</button>
+                                <button class="tbl-btn" onclick="switchTable('Loan')">Loan</button>
+                                <button class="tbl-btn" onclick="switchTable('Branch')">Branch</button>
+                            </div>
+                            <div class="search-box">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                                <input type="text" id="table-search" placeholder="Search table..." oninput="handleTableSearch(this.value)">
+                            </div>
+                        </div>
+                        <div class="card-body padding-none">
+                            <div class="table-responsive">
+                                <table class="data-table" id="db-data-table">
+                                    <thead><tr id="table-head"><th>Loading...</th></tr></thead>
+                                    <tbody id="table-body"><tr><td>Loading data...</td></tr></tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="card-footer space-between">
+                            <span id="table-pagination-info">Showing page 1</span>
+                            <div class="pagination-controls">
+                                <button class="btn btn-sm btn-secondary" id="btn-prev-page" onclick="changePage(-1)"><i class="fa-solid fa-chevron-left"></i></button>
+                                <button class="btn btn-sm btn-secondary" id="btn-next-page" onclick="changePage(1)"><i class="fa-solid fa-chevron-right"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB 3: CRUD MANAGER -->
+            <section id="tab-crud" class="tab-pane">
+                <div class="crud-grid">
+                    <div class="card form-card">
+                        <div class="card-header">
+                            <h3><i class="fa-solid fa-user-plus"></i> Add New Customer</h3>
+                        </div>
+                        <div class="card-body">
+                            <form id="add-customer-form" onsubmit="submitAddCustomer(event)">
+                                <div class="form-group">
+                                    <label>Customer ID</label>
+                                    <input type="text" id="crud-cust-id" placeholder="e.g. CUST00999" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Full Name</label>
+                                    <input type="text" id="crud-cust-name" placeholder="e.g. Rahul Sharma" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Email Address</label>
+                                    <input type="email" id="crud-cust-email" placeholder="e.g. rahul.sharma@gmail.com">
+                                </div>
+                                <div class="form-group">
+                                    <label>Phone Number</label>
+                                    <input type="text" id="crud-cust-phone" placeholder="e.g. +91 9876543210">
+                                </div>
+                                <div class="form-row">
+                                    <div class="form-group">
+                                        <label>Annual Income (₹)</label>
+                                        <input type="number" id="crud-cust-income" value="650000">
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Credit Score</label>
+                                        <input type="number" id="crud-cust-score" value="750">
+                                    </div>
+                                </div>
+                                <button type="submit" class="btn btn-primary full-width"><i class="fa-solid fa-plus"></i> Save Customer Record</button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <div class="card form-card">
+                        <div class="card-header">
+                            <h3><i class="fa-solid fa-user-minus"></i> Delete / Manage Customer</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label>Target Customer ID to Delete</label>
+                                <input type="text" id="delete-cust-id" placeholder="Enter Customer ID (e.g. CUST00999)">
+                            </div>
+                            <button class="btn btn-danger full-width" onclick="submitDeleteCustomer()"><i class="fa-solid fa-trash"></i> Delete Customer</button>
+                            
+                            <div class="alert alert-info margin-top">
+                                <i class="fa-solid fa-info-circle"></i>
+                                <span>All CRUD actions immediately synchronize with SQLite <code>database/banking.db</code>.</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB 4: DATA QUALITY AUDIT -->
+            <section id="tab-cleaning" class="tab-pane">
+                <div class="card">
+                    <div class="card-header space-between">
+                        <h3><i class="fa-solid fa-wand-magic-sparkles"></i> Data Cleaning & Preprocessing Audit</h3>
+                        <span class="badge badge-success">100% Quality Passed</span>
+                    </div>
+                    <div class="card-body padding-none">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>Identified Anomaly / Issue</th>
+                                    <th>Before Cleaning</th>
+                                    <th>After Cleaning</th>
+                                    <th>Fixed Count</th>
+                                    <th>Transformation Applied</th>
+                                </tr>
+                            </thead>
+                            <tbody id="cleaning-metrics-tbody">
+                                <tr><td colspan="5">Loading audit metrics...</td></tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- TAB 5: VISUALIZATIONS GALLERY -->
+            <section id="tab-visualizations" class="tab-pane">
+                <div class="viz-header">
+                    <h2>Generated Matplotlib & Seaborn Analytics Gallery</h2>
+                    <p>High-resolution analytical charts generated directly by Python pipeline execution</p>
+                </div>
+                <div class="viz-grid" id="viz-gallery">
+                    <!-- Viz cards populated dynamically -->
+                </div>
+            </section>
+
+            <!-- TAB 6: BANKING INSIGHTS -->
+            <section id="tab-insights" class="tab-pane">
+                <div class="insights-grid" id="insights-container">
+                    <!-- Insight cards populated dynamically -->
+                </div>
+            </section>
+
+            <!-- TAB 7: PIPELINE RUNNER -->
+            <section id="tab-pipeline" class="tab-pane">
+                <div class="card">
+                    <div class="card-header space-between">
+                        <h3><i class="fa-solid fa-terminal"></i> End-to-End Pipeline Execution Console</h3>
+                        <button class="btn btn-primary" onclick="triggerPipeline()"><i class="fa-solid fa-play"></i> Execute main.py</button>
+                    </div>
+                    <div class="card-body">
+                        <div class="terminal-window">
+                            <pre id="pipeline-output">Click 'Execute main.py' to run all 7 pipeline steps live...</pre>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Image Modal for Visualizations -->
+    <div class="modal-overlay" id="viz-modal" onclick="closeModal()">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <h3 id="modal-title">Chart Title</h3>
+            <img id="modal-img" src="" alt="Chart Preview">
+        </div>
+    </div>
+
+    <!-- Custom JS -->
+    <script src="/static/app.js"></script>
+</body>
+</html>

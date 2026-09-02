@@ -1,0 +1,236 @@
+customer_id,name,email,phone,dob,gender,city,branch_name,annual_income,credit_score,join_date
+CUST00070,Yadavi Wable,medwin@example.net,+914075818141,30-07-1966,female,Hospet,MALAD,152319.77,679,2025-05-26
+CUST00021,Nikita Narayanan,dsagar@example.org,,04-04-1984,M,,Bandra Br.,196262.62,452,2023-04-18
+CUST00109,Mekhala Khatri,barkha67@example.net,5445877175,28-06-1969,F,Satara,Dadar Branch,199493.54,607,2023-09-17
+CUST00100,Ojasvi Sinha,yugbumb@example.net,,25-01-1986,female,Solapur,Bandra Br.,41561.72,669,2026-04-07
+CUST00120,Radhika Majumdar,emistry@example.org,04379937124,17-02-1956,female,Thoothukudi,POWAI,23381.12,626,2023-02-17
+CUST00097,Krish Thaman,mmahajan@example.org,02742054932,30-03-1997,female,Purnia,BORIVALI,183443.42,383,2025-06-07
+CUST00201,Aahana Zachariah,aryan85@example.net,7704358112,11-04-1992,,Amritsar,Bandra,51583.81,,2020-04-02
+CUST00005,Gunbir Sankar,pallavi67@example.net,+911065133387,17-03-1965,F,South Dumdum,DADAR,73358.81,769,2021-05-28
+CUST00056,Girik Sankaran,pradhankalpit@example.net,+919885165604,11-07-1996,,Nagercoil,Malad Br.,109024.56,573,2018-06-06
+CUST00172,Vrinda Sehgal,urvipalla@example.com,+914140602933,21-09-1999,female,Tiruppur,Juhu Branch,135817.91,,2021-03-31
+CUST00063,Ikshita Panchal,warinderchauhan@example.org,03292127799,20-03-1986,female,Satna,ghatkopar branch,192975.38,667,2019-03-28
+CUST00081,Ethan Seth,saichahal@example.net,05188442258,05-12-1970,Male,Kollam,Bandra,148495.25,,2019-01-11
+CUST00173,Yochana Bahri,,0722903494,03-03-2004,M,Bhusawal,DADAR,119645.34,675,2023-01-27
+CUST00152,Logan Dara,bhatiatristan@example.org,N/A,18-08-1999,M,Warangal,Bandra Br.,46705.96,343,2018-03-26
+CUST00030,Tarak Sule,barkha13@example.com,,24-02-1971,F,Mangalore,dadar branch,157170.53,305,2021-10-23
+CUST00216,Kevin Chopra,jainyamini@example.net,02912799088,31-08-1963,female,Ongole,BORIVALI,102124.72,756,2018-11-19
+CUST00121,Ria Natt,tdeshpande@example.com,3752654793,04-11-1977,,,Borivali Br,168233.54,726,2023-01-24
+CUST00016,Nilima Narain,jmerchant@example.org,+916629946804,12-03-1975,,Chinsurah,malad branch,26277.15,490,2026-07-14
+CUST00180,Andrew Agrawal,,3354216894,13-01-1967,F,Ranchi,Bandra Br.,198490.07,395,2021-09-27
+CUST00197,Lopa Khanna,champak66@example.com,5800439735,16-09-1995,F,Jammu,Borivali Br,58802.77,539,2021-09-02
+CUST00027,Veda Shroff,uloyal@example.org,+914737996507,14-10-1977,F,Morbi,DADAR,137726.68,430,2020-04-11
+CUST00116,Wridesh Ramachandran,leena21@example.net,5016315999,31-08-1982,female,Ludhiana,kurla branch,37666.55,463,2021-04-26
+CUST00134,Vrishti Dhar,oeshi67@example.org,1684577590,12-07-2005,,Berhampore,dadar branch,144859.03,383,2022-10-05
+CUST00131,Bhavya Ganguly,jtandon@example.net,N/A,07-08-1984,M,Shahjahanpur,juhu branch,77365.75,827,2021-09-24
+CUST00065,Turvi Barman,uguha@example.net,08207151820,11-07-1972,Male,Bahraich,Dadar,154781.8,751,2025-08-01
+CUST00128,Dhriti Rama,wcomar@example.com,09249912513,13-06-1976,F,South Dumdum,Malad Branch,44219.1,360,2023-01-07
+CUST00220,Sanya Edwin,kalayashoda@example.com,08902601279,18-04-1985,M,Rajkot,Juhu Branch,-111142.31,451,2021-02-21
+CUST00106,Timothy Sachdev,anvi08@example.net,2687056856,14-06-1983,Male,Dewas,Juhu Br.,132939.82,335,2023-01-27
+CUST00106,Timothy Sachdev,anvi08@example.net,2687056856,14-06-1983,Male,Dewas,Juhu Br.,132939.82,335,2023-01-27
+CUST00141,Urishilla Bora,birakshay@example.com,+910068486661,04-04-1999,F,Alwar,BORIVALI,157919.57,870,2018-02-02
+CUST00169,Baljiwan Gera,neha29@example.net,6065307450,29-08-1978,male,Bijapur,Thane Branch,36081.67,656,2021-06-09
+CUST00068,Harita Sunder,upkaardevan@example.org,+914188805929,21-04-1981,Female,Ujjain,ANDHERI,123143.62,635,2019-09-29
+CUST00157,Raghav Tailor,parth70@example.org,,29-06-1959,M,Madanapalle,JUHU,64906.79,867,2020-05-22
+CUST00111,Omkaar Dey,igour@example.net,+918010062312,16-04-1956,Male,Dibrugarh,BANDRA BR,90745.2,864,2024-06-04
+CUST00110,Timothy Dhingra,lalomisha@example.com,+913536937854,01-12-1988,male,Jaunpur,borivali branch,40692.22,388,2019-07-13
+CUST00151,Gautam Dugar,banjeet35@example.org,+913568044206,10-06-1986,F,Bareilly,THANE,90115.07,332,2024-07-12
+CUST00026,Charvi Dara,palanpriya@example.net,01850671657,20-10-2003,Male,Raebareli,Andheri Branch,,851,2019-08-31
+CUST00086,Mohini De,yutika81@example.com,+917147321046,18-07-1997,male,Kulti,Powai Branch,192271.32,377,2019-05-21
+CUST00007,Suhani Mangal,jsur@example.org,03098050097,20-11-1989,,Howrah,bandra branch,85599.57,849,2025-04-22
+CUST00019,Zaid Dara,zdeol@example.com,8895798687,01-07-1966,F,Hospet,BORIVALI,169242.82,406,2021-01-28
+CUST00012,Faqid Dixit,pinglemanbir@example.com,+910450533158,28-04-1983,M,Patiala,Dadar Branch,138760.89,716,2019-06-07
+CUST00101,David Tiwari,masongala@example.com,N/A,24-08-1964,F,,Bandra,176566.32,406,2025-05-26
+CUST00011,,dkrishnamurthy@example.org,6400524278,09-09-2003,M,Kishanganj,DADAR,98524.94,360,2016-10-31
+CUST00076,Tanvi Bansal,saksham03@example.org,04868740345,03-12-1958,,Darbhanga,GHATKOPAR,94586.88,533,2018-10-14
+CUST00192,Raghav Dara,,03735160917,17-10-1986,F,Panchkula,andheri branch,192663.3,627,2016-09-27
+CUST00124,Garima Sani,anneguneet@example.com,+918889937567,29-11-2001,F,Hapur,borivali branch,191986.82,570,2017-01-31
+CUST00043,Ayush Batra,daksh45@example.com,,22-12-1984,male,Sambalpur,Malad Br.,60011.46,764,2025-09-14
+CUST00074,Pushti Agarwal,,5396218518,10-09-1992,M,Pali,THANE,36025.12,344,2024-08-31
+CUST00160,Mahika Bali,,+919593917251,12-11-1971,F,Imphal,BORIVALI,174506.69,505,2019-07-11
+CUST00174,Tripti Krishnan,unnatimittal@example.net,9691085899,26-11-1974,Male,Moradabad,Powai Branch,151157.91,749,2024-11-11
+CUST00084,Anvi Dass,girik82@example.net,N/A,27-04-1999,F,Bhagalpur,POWAI,185415.05,632,2026-05-27
+CUST00167,Oliver Kakar,jonathanbasak@example.com,+916329451168,16-09-1982,Female,Bally,Juhu Branch,134874.43,736,2025-07-05
+CUST00108,Rayaan Behl,krishna99@example.org,+913983735403,07-08-1968,female,Nangloi Jat,JUHU,86592.67,802,2020-10-17
+CUST00047,Ojasvi Gill,kevinzacharia@example.com,8424745171,31-03-1965,female,Sikar,Ghatkopar Branch,161287.05,882,2026-02-24
+CUST00022,Lajita Sood,pandeychanchal@example.com,08893734670,17-02-1982,male,Machilipatnam,Powai Branch,72027.79,873,2019-06-23
+CUST00138,Harshil Munshi,chandani26@example.org,2189092753,30-05-1998,Male,Bulandshahr,Juhu Br.,193366.71,528,2024-03-11
+CUST00183,,laksh61@example.net,9141173934,08-04-1991,F,Secunderabad,JUHU,198693.93,455,2023-08-22
+CUST00145,Mason Gola,sainiudarsh@example.com,,24-07-1972,M,Imphal,JUHU,36703.5,629,2021-04-13
+CUST00149,Radhika De,bishakhalal@example.com,05574313291,30-03-1966,F,Dehradun,Andheri Branch,16691.17,316,2024-04-25
+CUST00139,Gabriel Chaudhry,jatinrajagopalan@example.com,05234138999,21-01-1975,Female,Barasat,Andheri Branch,85166.15,729,2020-02-29
+CUST00129,Yasti Rama,kdevi@example.com,02782827422,27-01-1977,Male,Udupi,Bandra,185472.11,596,2017-07-31
+CUST00094,Jairaj Raghavan,xpai@example.org,00415747338,13-02-1974,F,Durgapur,ANDHERI,48456.5,543,2018-07-11
+CUST00193,Rachita Subramanian,oscardave@example.org,09958669346,31-12-1978,female,Bidhannagar,Ghatkopar Branch,56289.24,388,2018-12-08
+CUST00162,Harrison Srinivas,nicholasseth@example.org,N/A,24-06-2005,,Motihari,Dadar,149534.47,718,2018-04-02
+CUST00054,Pooja Chokshi,esawhney@example.org,09212499856,27-04-1996,male,Malda,Powai Br.,130700.62,545,2025-04-08
+CUST00079,Azaan Dhar,ibanerjee@example.org,+915569092755,17-11-1985,M,Chapra,Juhu Branch,35020.4,870,2019-01-04
+CUST00038,Samar Loke,bhavnasarma@example.net,01093248086,04-01-1962,,Raipur,Malad Branch,46040.99,619,2024-07-08
+CUST00190,Harshil Raval,jbanik@example.net,+911994883755,13-05-1959,male,Malda,POWAI,178986.73,378,2022-04-25
+CUST00004,Ekavir Bhargava,ekanshbalay@example.com,+918347382997,15-03-1972,Female,Vellore,juhu branch,134886.55,870,2019-11-28
+CUST00018,Aryan Batra,vaishnavibora@example.com,09367632016,24-07-1970,M,Kadapa,juhu branch,-186868.39,571,2024-07-27
+CUST00203,Nikita Rama,bravel@example.com,+916180919015,20-11-1989,F,Ramagundam,Ghatkopar Br,40388.66,,2021-10-17
+CUST00099,Advika Parsa,daviddani@example.com,02684145933,03-10-1964,Male,Jamnagar,Bandra Branch,112637.73,364,2024-05-29
+CUST00140,Manya Merchant,khatriwarda@example.com,+913791805526,07-05-1994,female,Ambarnath,Thane Branch,139324.37,357,2025-12-17
+CUST00031,Jonathan Mahal,bhagatbrinda@example.net,+917109477752,01-03-1959,female,Morena,Bandra Br.,118120.07,753,2018-08-10
+CUST00195,Jack Pandey,rsahni@example.net,,01-01-1992,F,Bhusawal,Borivali Branch,1268519.11,543,2016-11-19
+CUST00020,Aradhana Verma,rkhare@example.com,+914345581223,25-09-1981,male,Kakinada,BORIVALI,126893.52,352,2017-10-05
+CUST00025,Udyati Kunda,oliver99@example.net,1241904966,28-04-2004,Male,Aurangabad,JUHU,88940.5,571,2020-10-19
+CUST00088,Upma Mangal,chokshiraagini@example.org,05650609835,25-04-1993,Male,Srinagar,Ghatkopar Branch,83216.46,867,2023-03-29
+CUST00034,Bhavya Mandal,rbobal@example.org,09361832421,23-09-1959,,Aizawl,Kurla Br.,-156635.0,851,2026-05-08
+CUST00150,Dipta Ray,wasonishita@example.org,,03-06-1986,Female,Madhyamgram,Andheri,1794472.94,496,2021-03-05
+CUST00137,Girish Agarwal,vanshabrahmbhatt@example.org,3870051627,27-06-1960,male,Yamunanagar,Dadar,26147.29,730,2018-03-10
+CUST00082,Wakeeta Bal,jyoti78@example.org,1146786691,13-03-1964,F,Srinagar,BANDRA BR,54880.26,346,2024-04-28
+CUST00112,Darpan Subramanian,ababu@example.net,6008484086,13-11-1967,F,Jalandhar,thane branch,168807.3,590,2025-08-03
+CUST00044,Pranit Garde,farhanraja@example.net,3792374740,30-04-1987,female,Bongaigaon,GHATKOPAR,114134.83,589,2019-05-10
+CUST00165,Vrinda Lanka,ramqasim@example.com,05270477434,24-01-1994,female,Saharanpur,Juhu Br.,118228.78,653,2018-04-24
+CUST00153,Jason Basak,kbedi@example.net,06706625324,17-09-1974,F,,dadar branch,185969.46,512,2024-04-03
+CUST00098,Gabriel Rattan,,1227530463,25-01-1986,F,Ozhukarai,juhu branch,161405.42,305,2021-10-21
+CUST00127,Ayush Hora,ysanghvi@example.org,3341918255,29-01-1969,M,Raipur,dadar branch,35206.92,638,2021-02-17
+CUST00028,Aarna Oak,anya80@example.net,+911367837770,31-12-1961,Female,Korba,Dadar Br.,120284.47,776,2023-07-19
+CUST00118,Hredhaan Chand,morarsai@example.com,01212678886,12-09-1962,male,Hubli–Dharwad,Ghatkopar Br,16512.82,883,2022-09-09
+CUST00123,Ethan Sen,irattan@example.net,6805891135,,female,Pudukkottai,Thane Br.,1245061.73,363,2017-06-03
+CUST00113,Wridesh Handa,irya46@example.org,06793341016,23-06-1981,M,Suryapet,BANDRA BR,128669.23,645,2024-10-06
+CUST00205,Meera Yogi,modyshivansh@example.net,5368222394,22-11-1968,Male,Bokaro,MALAD,136519.92,697,2026-04-27
+CUST00048,Gautam Rana,lallajatin@example.com,04965137098,27-12-1977,Male,Rajkot,Thane Branch,54039.66,781,2024-07-25
+CUST00218,Nilima Kurian,abdulamble@example.net,1806356512,30-08-1984,,Bhilwara,Andheri Br.,102842.51,885,2025-10-15
+CUST00066,Januja Pradhan,lila65@example.net,0515186449,25-11-1965,male,Jodhpur,Andheri,91868.07,563,2026-08-01
+CUST00001,Chanchal Tripathi,michaelprakash@example.org,,16-05-1992,female,Khora ,Powai Branch,126373.46,306,2022-03-08
+CUST00014,Reyansh Rastogi,arya14@example.com,8685014294,09-04-1958,Male,Kavali,Dadar,185804.14,,2024-01-23
+CUST00075,Lila Prakash,amol51@example.com,+911952058527,27-12-2002,Male,South Dumdum,POWAI,89299.19,429,2018-12-17
+CUST00161,Gautami Sekhon,lankashaurya@example.org,1541006762,04-11-1983,male,Burhanpur,MALAD,132086.96,877,2022-08-23
+CUST00217,Raagini Vig,cprabhakar@example.net,6376599162,27-12-1972,,Muzaffarpur,ANDHERI,42959.17,866,2018-02-03
+CUST00143,Advik Devan,gadewatika@example.com,8425241056,06-03-1974,Female,Firozabad,malad branch,184227.12,380,2026-06-24
+CUST00209,Nidhi Kala,ladurmi@example.net,+915639427881,02-09-1982,Female,Ambala,Borivali Br,194217.44,601,2016-11-05
+CUST00039,Mitesh Tara,yashodhara46@example.com,03782639821,20-06-1974,M,Mau,Thane Br.,131039.84,342,2025-04-21
+CUST00060,,chakradev36@example.net,+910343244510,07-07-1989,Male,Akola,BANDRA BR,147962.72,532,2018-11-12
+CUST00028,Aarna Oak,anya80@example.net,+911367837770,31-12-1961,Female,Korba,Dadar Br.,120284.47,776,2023-07-19
+CUST00158,Vanya Acharya,saksham25@example.net,+915002921851,02-02-1981,Female,Dharmavaram,Bandra,86742.92,442,2018-05-21
+CUST00200,Tanay Narula,jalsa43@example.net,7801573993,20-05-1958,,Eluru,Andheri Br.,33852.86,681,2018-08-06
+CUST00170,Guneet Kari,charitasavant@example.com,06913736785,30-06-1959,male,Amritsar,Juhu Br.,128679.64,697,2021-12-17
+CUST00188,Rachita Kothari,qpal@example.net,6289002877,04-12-1966,male,Pallavaram,Bandra,123490.88,359,2022-02-14
+CUST00136,Ridhi Shan,sanghasamaksh@example.net,+914241541520,22-08-1982,,Muzaffarpur,Thane Br.,,303,2023-12-21
+CUST00036,Amruta Baria,upmavenkataraman@example.net,04296717565,07-07-1977,female,Nanded,Andheri Branch,85134.21,383,2022-04-12
+CUST00184,Naveen Baral,sjohal@example.com,03001197218,10-10-1960,Female,Bardhaman,Kurla Br.,124071.17,591,2020-08-07
+CUST00091,Omaja Morar,somalka@example.net,9309728962,28-12-2001,F,Patna,Juhu Branch,193415.86,701,2026-05-29
+CUST00092,Rayaan Bahl,amurthy@example.org,03689702838,15-10-1977,M,Hajipur,Borivali Branch,138971.53,318,2023-01-29
+CUST00040,Aarnav Mandal,vrishti27@example.net,N/A,23-09-1981,,Bulandshahr,Juhu Br.,92710.87,834,2017-05-30
+CUST00150,Dipta Ray,wasonishita@example.org,,03-06-1986,Female,Madhyamgram,Andheri,1794472.94,496,2021-03-05
+CUST00207,Damini Dua,diya62@example.org,,24-12-1976,,Korba,POWAI,18686.68,631,2024-02-01
+CUST00033,Pushti Mody,chaudharysarthak@example.net,+914123281206,29-04-1986,female,Jalna,BANDRA BR,42903.67,511,2017-03-22
+CUST00029,Damini Pillay,wwali@example.com,8557444313,20-02-1977,M,Jorhat,Malad Br.,151152.87,617,2019-10-26
+CUST00002,Anirudh Choudhury,damyanti30@example.org,1171822782,15-09-1973,,,Borivali Br,32157.98,687,2025-08-23
+CUST00146,Kashish Dar,golaudant@example.net,+916174451870,09-10-1980,,Jalna,Ghatkopar Br,178320.21,723,2026-04-05
+CUST00198,Peter Borde,oscarvarkey@example.org,00648422940,01-03-1978,,Bhatpara,bandra branch,98169.85,422,2017-05-07
+CUST00189,,tripathiudant@example.net,6631779717,02-02-1986,Female,Kochi,Dadar Branch,138224.72,835,2025-02-16
+CUST00195,Jack Pandey,rsahni@example.net,,01-01-1992,F,Bhusawal,Borivali Branch,1268519.11,543,2016-11-19
+CUST00151,Gautam Dugar,banjeet35@example.org,+913568044206,10-06-1986,F,Bareilly,THANE,90115.07,332,2024-07-12
+CUST00164,Vritti Dube,patelaarush@example.com,+914973103241,23-11-1987,male,Aizawl,Powai Branch,133063.37,709,2023-06-06
+CUST00148,Oni Swamy,dharati@example.org,+913865719182,12-01-1999,M,Aurangabad,Ghatkopar Br,162070.47,376,2026-04-30
+CUST00003,Siddharth Zacharia,devikarastogi@example.net,5787133150,14-09-1995,Male,Giridih,Bandra,50573.39,764,2020-05-31
+CUST00210,Noah Varkey,sanayadutta@example.org,9275037314,22-10-1980,,Kalyan-Dombivli,borivali branch,198942.38,808,2020-03-08
+CUST00185,Chaman Lalla,gbedi@example.org,+914556110022,12-01-1978,female,Bahraich,ANDHERI,134541.41,840,2021-03-26
+CUST00194,Nitara Vala,,08583339452,04-01-2004,,Ambala,Powai Br.,130202.74,551,2025-11-23
+CUST00053,Oviya Vora,bhattvamakshi@example.com,08917839084,02-11-1986,Male,Ghaziabad,BORIVALI,155692.46,301,2024-10-25
+CUST00058,Dayamai Nori,abeer22@example.net,6120183667,13-11-1978,,Uluberia,Dadar,102500.61,337,2021-12-20
+CUST00057,Mohammed Subramaniam,hritikpalla@example.net,01493689980,09-02-1997,,Bhopal,ANDHERI,175073.21,493,2019-09-27
+CUST00186,Kashish Oommen,ishaanrattan@example.com,04676212021,24-12-1983,,Jehanabad,ANDHERI,82601.31,,2024-02-14
+CUST00144,Watika Shah,christopher79@example.org,02419138000,23-04-1972,,Chittoor,MALAD,139629.31,513,2022-11-10
+CUST00163,Vasudha Balasubramanian,mgala@example.com,+910153368844,27-11-1975,female,Jalandhar,malad branch,160979.2,728,2017-07-06
+CUST00099,Advika Parsa,daviddani@example.com,02684145933,03-10-1964,Male,Jamnagar,Bandra Branch,112637.73,364,2024-05-29
+CUST00154,Bakhshi Korpal,wishi68@example.com,+911462638380,12-09-1981,M,Nangloi Jat,thane branch,45053.3,380,2025-12-06
+CUST00073,Charvi Dara,khareoni@example.net,7117980893,25-07-2004,,,juhu branch,,543,2019-02-10
+CUST00024,Zayyan Bumb,vbahl@example.net,+915310033092,26-11-1971,,Bhalswa Jahangir Pur,ghatkopar branch,56150.24,708,2018-08-12
+CUST00067,Inaya Mukherjee,mdayal@example.net,+914865281685,28-11-1956,female,Tirupati,MALAD,41040.05,704,2019-09-26
+CUST00042,,narasimhanlajita@example.com,7809134316,14-05-1962,Female,Raiganj,MALAD,177859.2,546,2019-07-01
+CUST00089,Ati Dani,gunbirramesh@example.com,08523986800,26-04-1958,,Thoothukudi,Andheri Br.,107752.95,476,2024-09-22
+CUST00090,Manthan Varma,falaknagar@example.org,09495888794,26-12-1987,F,Arrah,andheri branch,82321.12,367,2022-04-21
+CUST00142,Farhan Vaidya,nachiketyadav@example.com,09146303161,09-07-1986,female,Tirupati,thane branch,189193.49,850,2019-08-28
+CUST00213,Jagat Karpe,unarayanan@example.org,N/A,,Female,Guntur,dadar branch,63308.63,395,2025-05-22
+CUST00046,Watika Mangat,indirakanda@example.net,+919421047095,03-07-2005,Male,Mysore,THANE,189096.77,876,2021-09-08
+CUST00115,Brijesh Karpe,vaishnavimadan@example.org,+914890250392,02-03-2004,M,Solapur,malad branch,26083.91,653,2021-10-04
+CUST00208,Jagvi Desai,varsha77@example.com,07812914283,31-07-1973,F,Aurangabad,Andheri Branch,112364.55,439,2016-12-25
+CUST00182,Keya Kumer,bavahritik@example.net,+910167618472,,Female,Bangalore,thane branch,37309.85,620,2021-10-16
+CUST00062,Janaki Chakrabarti,pcherian@example.com,6816453521,29-05-1990,male,Bettiah,kurla branch,59553.51,776,2025-05-05
+CUST00171,Krishna Viswanathan,ghosereyansh@example.org,+913070534578,06-09-1982,male,Ludhiana,kurla branch,185044.78,354,2020-10-13
+CUST00032,Nandini Swamy,beramax@example.org,4131869993,25-03-1991,,Hospet,Thane Br.,102814.77,750,2024-03-13
+CUST00219,Jasmit Majumdar,ajani@example.net,7258874495,05-09-2003,F,Durgapur,thane branch,194850.5,564,2018-09-10
+CUST00202,Panini Chawla,radhikabora@example.net,2075011024,24-08-1993,Female,Ramgarh,Malad Branch,20454.22,551,2020-07-16
+CUST00119,Ekta Rajan,manneodika@example.com,+918398262244,07-12-1973,Female,Ulhasnagar,powai branch,116723.56,647,2017-09-29
+CUST00095,Xavier Bedi,virajben@example.org,05712082677,09-12-1999,F,Tumkur,MALAD,193635.38,588,2022-02-17
+CUST00200,Tanay Narula,jalsa43@example.net,7801573993,20-05-1958,,Eluru,Andheri Br.,33852.86,681,2018-08-06
+CUST00051,Chandresh Nath,jeremiahjha@example.org,,19-05-1993,M,Dharmavaram,Malad Br.,,575,2020-05-04
+CUST00093,Oscar Sharaf,irya49@example.com,+913484344375,26-04-1988,Male,Karaikudi,JUHU,56910.46,839,2021-04-27
+CUST00215,Yasti Lalla,hemasetty@example.net,,10-11-1995,F,Berhampur,GHATKOPAR,43414.14,511,2023-02-07
+CUST00117,Vritti Kari,keya62@example.net,6194311426,05-02-2004,female,Pali,JUHU,177629.0,351,2022-01-20
+CUST00009,Alka Randhawa,charitashankar@example.com,+910799118384,06-09-1964,,Coimbatore,BORIVALI,-15105.8,880,2020-10-27
+CUST00064,Ekansh Singh,ymitter@example.com,0581477005,16-03-1975,Male,Mysore,THANE,65778.87,593,2025-04-17
+CUST00181,Tamanna Venkatesh,radha25@example.com,03260332309,03-01-1990,Male,Amravati,JUHU,,435,2022-11-26
+CUST00052,Falguni Divan,malhotramaanav@example.org,4210205395,28-09-1956,Male,Bilaspur,Thane Branch,66458.97,407,2017-07-23
+CUST00050,Nikita Mammen,prabhakarteerth@example.com,03515850643,25-12-1963,F,Mysore,BORIVALI,153557.18,852,2020-04-10
+CUST00202,Panini Chawla,radhikabora@example.net,2075011024,24-08-1993,Female,Ramgarh,Malad Branch,20454.22,551,2020-07-16
+CUST00008,Quincy Biswas,keernetra@example.org,3990916998,13-03-1977,Male,Kurnool,GHATKOPAR,177032.79,503,2022-01-05
+CUST00146,Kashish Dar,golaudant@example.net,+916174451870,09-10-1980,,Jalna,Ghatkopar Br,178320.21,723,2026-04-05
+CUST00135,Mitali Kamdar,fkakar@example.com,04589297500,11-06-1962,Female,Pune,Powai Br.,168323.2,510,2018-10-12
+CUST00199,Ekantika Behl,vritti98@example.com,+915832818268,19-03-1992,male,Tiruchirappalli,bandra branch,54778.85,478,2022-08-12
+CUST00145,Mason Gola,sainiudarsh@example.com,,24-07-1972,M,Imphal,JUHU,36703.5,629,2021-04-13
+CUST00130,Aditya Sundaram,robertrajagopalan@example.net,7676772190,04-09-1970,Female,Patna,Andheri Branch,99054.58,415,2021-05-05
+CUST00206,Triya Bora,ekalinga41@example.org,9755231491,01-11-1968,M,Shivpuri,juhu branch,1670616.88,804,2024-05-02
+CUST00017,Udyati Sathe,,03872148951,26-08-1971,F,Kamarhati,Bandra,120389.95,509,2020-01-21
+CUST00041,Urvashi Raj,fdoshi@example.org,+918951718702,27-07-1983,,Aurangabad,Ghatkopar Br,60416.61,329,2024-08-27
+CUST00132,Shivani Lall,gagan71@example.org,+919596292330,18-06-1994,male,Katihar,Juhu Branch,1321931.83,,2021-06-13
+CUST00015,Dipta Sarin,rajanranveer@example.com,+916088356159,11-01-1977,,Dewas,bandra branch,25847.55,869,2025-04-18
+CUST00211,Lipika Singh,cbatra@example.net,01844989266,11-07-1980,male,Hazaribagh,BORIVALI,178784.25,369,2020-12-12
+CUST00133,Ekiya Master,,09481260422,28-08-1972,Male,Pondicherry,juhu branch,107966.29,526,2020-11-17
+CUST00068,Harita Sunder,upkaardevan@example.org,+914188805929,21-04-1981,Female,Ujjain,ANDHERI,123143.62,635,2019-09-29
+CUST00105,Sanya Bava,chaitanyaratti@example.com,+918302843959,10-05-1996,F,Patiala,Kurla Branch,33980.61,343,2021-10-20
+CUST00055,Hardik Contractor,qushiseth@example.org,05766156545,20-01-1966,female,Jabalpur,BORIVALI,183892.03,725,2018-03-21
+CUST00196,Aryan Raj,chatreshbhalla@example.org,02442043805,20-06-1986,male,Tadepalligudem,Kurla Br.,23121.55,817,2026-03-24
+CUST00049,Nilima Dada,chakradevbarad@example.com,01138267586,21-08-1995,F,Vijayanagaram,Ghatkopar Branch,142166.21,530,2018-05-09
+CUST00023,Joshua Walla,rameshavi@example.org,6272046537,28-11-1977,,Nadiad,kurla branch,47754.69,554,2021-05-27
+CUST00166,Hemangini Sachdev,darshram@example.net,08793741608,16-07-1994,Female,Jamshedpur,Andheri Br.,189025.09,763,2024-04-22
+CUST00155,Hemangini Thakkar,,06420593040,07-10-1987,Male,Bhimavaram,POWAI,157266.05,533,2020-08-17
+CUST00107,Urvashi Khosla,charitadhawan@example.com,+918668826343,21-02-1978,female,Hospet,Borivali Branch,20991.28,707,2022-12-24
+CUST00187,Ladli Parmer,devasudha@example.com,+916701450899,29-11-1970,F,Kadapa,Dadar Branch,146836.38,617,2025-07-26
+CUST00212,Udant Varty,wpandit@example.com,09082723184,23-01-1970,male,Gaya,JUHU,92635.85,891,2019-05-06
+CUST00083,Zansi Padmanabhan,qabildayal@example.com,0182422535,24-12-1990,female,Vijayawada,Dadar Br.,156959.66,535,2020-12-06
+CUST00114,Aditya Garg,tataradha@example.net,,18-03-1978,F,,Thane Branch,121702.68,609,2026-04-18
+CUST00214,Manan Bhalla,aarnagole@example.net,09904137977,11-04-1967,female,Bulandshahr,Juhu Br.,95327.07,571,2019-02-04
+CUST00077,Rajeshri Ratta,vraju@example.org,07584161692,14-10-1992,female,Pondicherry,KURLA,72816.86,398,2018-05-31
+CUST00035,Reva Dash,smodi@example.com,08877190659,14-09-1972,Female,Mysore,powai branch,138741.62,877,2020-07-24
+CUST00059,Frado Ben,nakulbawa@example.net,+914767976438,31-05-1963,Female,Chinsurah,BORIVALI,99531.69,707,2018-07-22
+CUST00026,Charvi Dara,palanpriya@example.net,01850671657,20-10-2003,Male,Raebareli,Andheri Branch,,851,2019-08-31
+CUST00176,Ranveer Oza,vamakshiparmer@example.net,02824172482,03-12-2001,,Hubli–Dharwad,thane branch,173733.12,429,2020-06-13
+CUST00179,Shaurya Ganguly,vrishtichakrabarti@example.org,6666760083,22-05-2005,,Kanpur,kurla branch,67464.72,,2022-02-24
+CUST00126,Chaitanya Contractor,ozaikbal@example.net,+913828258673,26-03-1983,F,Gaya,Ghatkopar Branch,78849.91,790,2024-01-08
+CUST00072,Balvan Mangat,wdewan@example.net,07901043289,,,Bhubaneswar,bandra branch,60060.25,538,2021-07-27
+CUST00080,,zaid10@example.net,+917868144739,07-02-1975,,Kollam,Andheri,144999.27,331,2018-10-03
+CUST00078,Falak Merchant,sanaya96@example.org,7570596401,05-05-2001,,Bharatpur,juhu branch,37612.79,619,2025-05-25
+CUST00204,Baghyawati Sarma,qrana@example.org,02832684245,05-06-1956,Male,Amravati,KURLA,74496.82,,2017-05-18
+CUST00087,Dhriti Gupta,wishivarma@example.com,04701687339,07-09-1979,F,Dhanbad,Borivali Br,178178.91,610,2021-06-15
+CUST00006,Zaid Borra,dchaudhari@example.net,0132677360,15-11-1966,Female,Delhi,BORIVALI,94260.26,,2023-04-23
+CUST00096,Daniel Chakraborty,baljiwangill@example.com,+910672400499,20-12-1962,Male,Anantapuram,Kurla Br.,61250.59,385,2024-05-25
+CUST00069,,rpatla@example.net,+917947383473,12-09-1980,female,Surendranagar Dudhrej,thane branch,135109.3,697,2021-06-17
+CUST00138,Harshil Munshi,chandani26@example.org,2189092753,30-05-1998,Male,Bulandshahr,Juhu Br.,193366.71,528,2024-03-11
+CUST00191,Januja Sethi,chatterjeetristan@example.org,05488510272,13-06-2004,Male,Aligarh,Malad Br.,44102.35,,2020-12-29
+CUST00013,Nitara Bakshi,gaurangisabharwal@example.net,3421607337,18-06-1979,female,Ambattur,Dadar Branch,149879.03,496,2020-06-17
+CUST00061,Victor Tella,ekbal60@example.com,+917159696641,26-03-1983,Male,Anantapur,Bandra Br.,45777.49,843,2019-08-04
+CUST00177,Udant Mohanty,xnarula@example.com,4717099917,27-11-1968,female,Eluru,borivali branch,87649.64,395,2025-09-06
+CUST00085,Azaan Tank,chasmum73@example.net,04710276773,26-10-1978,male,Satara,Borivali Br,60013.55,378,2022-02-06
+CUST00102,Tanmayi Bhardwaj,umorar@example.org,04039106518,08-10-1959,Female,Chittoor,THANE,168620.98,768,2017-03-17
+CUST00074,Pushti Agarwal,,5396218518,10-09-1992,M,Pali,THANE,36025.12,344,2024-08-31
+CUST00103,Nilima Gole,oshaprasad@example.com,06618251286,28-08-1991,Male,Rajahmundry,ANDHERI,72364.04,348,2016-09-22
+CUST00178,Odika Bhagat,lakshiyer@example.com,09725217525,05-11-1998,female,Kolkata,KURLA,122661.78,847,2024-05-10
+CUST00175,Gayathri Malhotra,aradhana44@example.org,+918309652074,28-04-1973,,Machilipatnam,bandra branch,127898.43,587,2023-04-10
+CUST00089,Ati Dani,gunbirramesh@example.com,08523986800,26-04-1958,,Thoothukudi,Andheri Br.,107752.95,476,2024-09-22
+CUST00159,Chasmum Naidu,nakulsarkar@example.net,05289539264,13-08-2005,F,Warangal,GHATKOPAR,70454.17,409,2019-09-10
+CUST00037,,dbansal@example.org,04516808760,07-06-1968,Female,Panchkula,Malad Branch,,429,2024-03-09
+CUST00104,Chanchal Sheth,ywali@example.org,+917524310690,17-01-1972,female,Jabalpur,JUHU,180507.94,384,2018-05-20
+CUST00071,Rajeshri Chand,shravyapalla@example.org,00685361530,09-05-1977,male,Thanjavur,Dadar Br.,82956.97,765,2019-02-25
+CUST00045,Riya Pai,panini47@example.com,+916713695944,28-02-1957,Female,Panipat,bandra branch,38417.85,312,2016-10-21
+CUST00010,Bhavani Dugar,nmittal@example.net,0841241182,15-03-1974,M,Mahbubnagar,Bandra Branch,38265.69,852,2020-04-01
+CUST00122,Maya Patla,iyengarpranit@example.net,N/A,20-02-1972,M,Jamnagar,THANE,102799.19,836,2023-11-13
+CUST00156,Harish Kota,amairawalla@example.net,+913965223955,04-12-1995,Female,Nagercoil,Juhu Br.,129443.94,698,2026-04-29
+CUST00147,Xavier Shetty,wakeeta38@example.org,+910603850506,,Female,Vasai-Virar,Andheri,123045.9,645,2020-02-28
+CUST00125,Henry Merchant,hchada@example.net,+915457387571,26-06-1985,F,Imphal,Thane Br.,194988.47,580,2017-10-23
+CUST00168,Advik Virk,achowdhury@example.org,+919991191485,18-08-1983,female,Yamunanagar,malad branch,88182.74,364,2024-12-05
